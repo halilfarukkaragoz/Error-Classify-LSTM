@@ -1,0 +1,2848 @@
+,ROBO_ID,OCCURRENCE,CODE,CONTENT,CLASS
+716,10,21.06.2021,E1032,Mismatch ABS and INC encoder data( jt  7).,0.0
+904,17,13.07.2021,E3792,The encoder value changed in the power off. [JT6Axis],0.0
+905,17,13.07.2021,E3792,The encoder value changed in the power off. [JT5Axis],0.0
+906,17,13.07.2021,E3792,The encoder value changed in the power off. [JT4Axis],0.0
+907,17,13.07.2021,E3792,The encoder value changed in the power off. [JT3Axis],0.0
+908,17,13.07.2021,E3792,The encoder value changed in the power off. [JT2Axis],0.0
+909,17,13.07.2021,E3792,The encoder value changed in the power off. [JT1Axis],0.0
+2065,37,11.11.2020,E3792,The encoder value changed in the power off. [J22Axis],0.0
+2066,37,11.11.2020,E3792,The encoder value changed in the power off. [JT5Axis],0.0
+2067,37,11.11.2020,E3792,The encoder value changed in the power off. [JT3Axis],0.0
+2068,37,11.11.2020,E3792,The encoder value changed in the power off. [J21Axis],0.0
+2069,37,11.11.2020,E3792,??????????????????? [J22?],0.0
+2070,37,11.11.2020,E3792,??????????????????? [JT5?],0.0
+2071,37,11.11.2020,E3792,??????????????????? [JT3?],0.0
+2072,37,11.11.2020,E3792,??????????????????? [J21?],0.0
+2081,37,8.08.2021,E3792,The encoder value changed in the power off. [J22Axis],0.0
+2083,37,8.08.2021,E3792,??????????????????? [J22?],0.0
+2167,39,12.08.2021,E3792,The encoder value changed in the power off. [JT7Axis],0.0
+2218,41,1.07.2021,E3792,The encoder value changed in the power off. [JT7Axis],0.0
+2219,41,1.07.2021,E3792,The encoder value changed in the power off. [JT6Axis],0.0
+2220,41,1.07.2021,E3792,The encoder value changed in the power off. [JT5Axis],0.0
+2221,41,1.07.2021,E3792,The encoder value changed in the power off. [JT4Axis],0.0
+2222,41,1.07.2021,E3792,The encoder value changed in the power off. [JT3Axis],0.0
+2223,41,1.07.2021,E3792,The encoder value changed in the power off. [JT2Axis],0.0
+2224,41,1.07.2021,E3792,??????????????????? [JT7?],0.0
+2225,41,1.07.2021,E3792,??????????????????? [JT6?],0.0
+2226,41,1.07.2021,E3792,??????????????????? [JT5?],0.0
+2227,41,1.07.2021,E3792,??????????????????? [JT4?],0.0
+2228,41,1.07.2021,E3792,??????????????????? [JT3?],0.0
+2229,41,1.07.2021,E3792,??????????????????? [JT2?],0.0
+2254,43,22.01.2022,E3792,The encoder value changed in the power off. [JT7Axis],0.0
+2358,45,19.11.2021,E3792,The encoder value changed in the power off. [JT7Axis],0.0
+3737,94,28.10.2021,E3792,The encoder value changed in the power off. [JT5Axis],0.0
+3751,94,1.11.2021,E3792,The encoder value changed in the power off. [JT5Axis],0.0
+3773,94,7.11.2021,E3792,The encoder value changed in the power off. [JT5Axis],0.0
+4354,112,4.06.2021,E3792,The encoder value changed in the power off. [JT7Axis],0.0
+4355,112,4.06.2021,E3792,The encoder value changed in the power off. [JT6Axis],0.0
+4356,112,4.06.2021,E3792,The encoder value changed in the power off. [JT3Axis],0.0
+4357,112,4.06.2021,E3792,The encoder value changed in the power off. [JT1Axis],0.0
+6300,147,17.11.2021,E3792,The encoder value changed in the power off. [JT2Axis],0.0
+9972,211,11.11.2020,E3792,The encoder value changed in the power off. [JT7Axis],0.0
+10021,214,20.02.2022,E3792,The encoder value changed in the power off. [JT3Axis],0.0
+10212,225,6.02.2021,E3792,The encoder value changed in the power off. [JT7Axis],0.0
+10229,232,6.02.2021,E3792,The encoder value changed in the power off. [JT7Axis],0.0
+11545,277,3.04.2022,E3792,The encoder value changed in the power off. [JT3Axis],0.0
+11584,278,6.02.2021,E3792,The encoder value changed in the power off. [JT6Axis],0.0
+11585,278,6.02.2021,E3792,The encoder value changed in the power off. [JT4Axis],0.0
+11586,278,6.02.2021,E3792,The encoder value changed in the power off. [JT3Axis],0.0
+11659,280,6.05.2022,E3792,The encoder value changed in the power off. [JT6Axis],0.0
+11660,280,6.05.2022,E3792,The encoder value changed in the power off. [JT5Axis],0.0
+11661,280,6.05.2022,E3792,The encoder value changed in the power off. [JT4Axis],0.0
+11662,280,6.05.2022,E3792,The encoder value changed in the power off. [JT3Axis],0.0
+11663,280,6.05.2022,E3792,The encoder value changed in the power off. [JT2Axis],0.0
+11664,280,6.05.2022,E3792,The encoder value changed in the power off. [JT1Axis],0.0
+11674,281,6.02.2021,E3792,The encoder value changed in the power off. [JT7Axis],0.0
+11675,281,6.02.2021,E3792,The encoder value changed in the power off. [JT6Axis],0.0
+11676,281,6.02.2021,E3792,The encoder value changed in the power off. [JT5Axis],0.0
+11677,281,6.02.2021,E3792,The encoder value changed in the power off. [JT4Axis],0.0
+11678,281,6.02.2021,E3792,The encoder value changed in the power off. [JT3Axis],0.0
+11679,281,6.02.2021,E3792,The encoder value changed in the power off. [JT2Axis],0.0
+11680,281,6.02.2021,E3792,The encoder value changed in the power off. [JT1Axis],0.0
+12440,297,16.12.2021,E3792,The encoder value changed in the power off. [JT6Axis],0.0
+12476,297,16.12.2021,E3792,The encoder value changed in the power off. [JT7Axis],0.0
+12478,297,16.12.2021,E3792,The encoder value changed in the power off. [JT5Axis],0.0
+12479,297,16.12.2021,E3792,The encoder value changed in the power off. [JT4Axis],0.0
+12480,297,16.12.2021,E3792,The encoder value changed in the power off. [JT3Axis],0.0
+12481,297,16.12.2021,E3792,The encoder value changed in the power off. [JT2Axis],0.0
+12482,297,16.12.2021,E3792,The encoder value changed in the power off. [JT1Axis],0.0
+12812,308,6.02.2021,E3792,The encoder value changed in the power off. [JT7Axis],0.0
+12841,308,31.05.2022,E3792,The encoder value changed in the power off. [JT2Axis],0.0
+12884,311,27.02.2022,E3792,The encoder value changed in the power off. [JT3Axis],0.0
+12928,312,15.05.2022,E3792,The encoder value changed in the power off. [JT6Axis],0.0
+12979,313,4.06.2021,E3792,The encoder value changed in the power off. [JT7Axis],0.0
+12980,313,4.06.2021,E3792,The encoder value changed in the power off. [JT6Axis],0.0
+12981,313,4.06.2021,E3792,The encoder value changed in the power off. [JT5Axis],0.0
+12982,313,4.06.2021,E3792,The encoder value changed in the power off. [JT4Axis],0.0
+12983,313,4.06.2021,E3792,The encoder value changed in the power off. [JT3Axis],0.0
+12984,313,4.06.2021,E3792,The encoder value changed in the power off. [JT2Axis],0.0
+12985,313,4.06.2021,E3792,The encoder value changed in the power off. [JT1Axis],0.0
+13000,313,15.10.2021,E3792,The encoder value changed in the power off. [JT7Axis],0.0
+13073,315,20.01.2021,E3792,The encoder value changed in the power off. [JT7Axis],0.0
+13074,315,20.01.2021,E3792,The encoder value changed in the power off. [JT6Axis],0.0
+13075,315,20.01.2021,E3792,The encoder value changed in the power off. [JT5Axis],0.0
+13076,315,20.01.2021,E3792,The encoder value changed in the power off. [JT3Axis],0.0
+13077,315,20.01.2021,E3792,The encoder value changed in the power off. [JT2Axis],0.0
+13078,315,20.01.2021,E3792,The encoder value changed in the power off. [JT1Axis],0.0
+13158,315,10.03.2022,E3792,The encoder value changed in the power off. [JT7Axis],0.0
+13484,325,12.03.2022,E3792,The encoder value changed in the power off. [JT7Axis],0.0
+13506,327,6.02.2021,E3792,The encoder value changed in the power off. [JT7Axis],0.0
+13507,327,6.02.2021,E3792,The encoder value changed in the power off. [JT5Axis],0.0
+13508,327,6.02.2021,E3792,The encoder value changed in the power off. [JT3Axis],0.0
+13509,327,6.02.2021,E3792,The encoder value changed in the power off. [JT2Axis],0.0
+13528,328,4.08.2020,E3792,The encoder value changed in the power off. [JT7Axis],0.0
+13529,328,4.08.2020,E3792,The encoder value changed in the power off. [JT6Axis],0.0
+13530,328,4.08.2020,E3792,The encoder value changed in the power off. [JT5Axis],0.0
+13531,328,4.08.2020,E3792,The encoder value changed in the power off. [JT4Axis],0.0
+13532,328,4.08.2020,E3792,The encoder value changed in the power off. [JT3Axis],0.0
+13533,328,4.08.2020,E3792,The encoder value changed in the power off. [JT2Axis],0.0
+13534,328,4.08.2020,E3792,The encoder value changed in the power off. [JT1Axis],0.0
+13580,329,2.03.2022,E3792,The encoder value changed in the power off. [JT7Axis],0.0
+13590,329,3.03.2022,E3792,The encoder value changed in the power off. [JT7Axis],0.0
+13608,329,4.03.2022,E3792,The encoder value changed in the power off. [JT7Axis],0.0
+13616,329,5.03.2022,E3792,The encoder value changed in the power off. [JT7Axis],0.0
+13636,330,3.08.2020,E3792,The encoder value changed in the power off. [JT6Axis],0.0
+13637,330,3.08.2020,E3792,The encoder value changed in the power off. [JT5Axis],0.0
+13638,330,3.08.2020,E3792,The encoder value changed in the power off. [JT4Axis],0.0
+13639,330,3.08.2020,E3792,The encoder value changed in the power off. [JT3Axis],0.0
+13640,330,3.08.2020,E3792,The encoder value changed in the power off. [JT2Axis],0.0
+13641,330,3.08.2020,E3792,The encoder value changed in the power off. [JT1Axis],0.0
+13664,330,8.11.2020,E3792,The encoder value changed in the power off. [JT6Axis],0.0
+13665,330,8.11.2020,E3792,The encoder value changed in the power off. [JT5Axis],0.0
+13666,330,8.11.2020,E3792,The encoder value changed in the power off. [JT4Axis],0.0
+13667,330,8.11.2020,E3792,The encoder value changed in the power off. [JT3Axis],0.0
+13668,330,8.11.2020,E3792,The encoder value changed in the power off. [JT2Axis],0.0
+13669,330,8.11.2020,E3792,The encoder value changed in the power off. [JT1Axis],0.0
+13709,330,3.09.2021,E3792,The encoder value changed in the power off. [JT6Axis],0.0
+13710,330,3.09.2021,E3792,The encoder value changed in the power off. [JT5Axis],0.0
+13711,330,3.09.2021,E3792,The encoder value changed in the power off. [JT4Axis],0.0
+13712,330,3.09.2021,E3792,The encoder value changed in the power off. [JT3Axis],0.0
+13713,330,3.09.2021,E3792,The encoder value changed in the power off. [JT2Axis],0.0
+13714,330,3.09.2021,E3792,The encoder value changed in the power off. [JT1Axis],0.0
+13724,331,10.03.2022,E3792,The encoder value changed in the power off. [JT7Axis],0.0
+13725,331,10.03.2022,E3792,The encoder value changed in the power off. [JT6Axis],0.0
+13726,331,10.03.2022,E3792,The encoder value changed in the power off. [JT4Axis],0.0
+13727,331,10.03.2022,E3792,The encoder value changed in the power off. [JT3Axis],0.0
+13728,331,10.03.2022,E3792,The encoder value changed in the power off. [JT2Axis],0.0
+13729,331,10.03.2022,E3792,The encoder value changed in the power off. [JT1Axis],0.0
+13773,333,3.08.2020,E3792,The encoder value changed in the power off. [JT6Axis],0.0
+13774,333,3.08.2020,E3792,The encoder value changed in the power off. [JT5Axis],0.0
+13775,333,3.08.2020,E3792,The encoder value changed in the power off. [JT4Axis],0.0
+13776,333,3.08.2020,E3792,The encoder value changed in the power off. [JT3Axis],0.0
+13777,333,3.08.2020,E3792,The encoder value changed in the power off. [JT2Axis],0.0
+13778,333,3.08.2020,E3792,The encoder value changed in the power off. [JT1Axis],0.0
+13838,336,17.01.2022,E3792,The encoder value changed in the power off. [JT7Axis],0.0
+14092,349,13.11.2021,E3792,The encoder value changed in the power off. [J22Axis],0.0
+14093,349,13.11.2021,E3792,The encoder value changed in the power off. [JT5Axis],0.0
+14094,349,13.11.2021,E3792,The encoder value changed in the power off. [JT4Axis],0.0
+14095,349,13.11.2021,E3792,The encoder value changed in the power off. [JT3Axis],0.0
+14096,349,13.11.2021,E3792,The encoder value changed in the power off. [J21Axis],0.0
+14150,353,14.05.2021,E3792,The encoder value changed in the power off. [JT2Axis],0.0
+14313,359,1.02.2021,E3792,The encoder value changed in the power off. [JT5Axis],0.0
+13168,315,10.03.2022,E3791,The encoder reset exceeded.,0.0
+13619,329,5.03.2022,E1600,Check robot pin position and operate encoder correction. [JT7Axis],0.0
+678,10,20.06.2021,E1038,Encoder ABS-track error.( jt  7),0.0
+690,10,21.06.2021,E1038,Encoder ABS-track error.( jt  7),0.0
+782,10,22.06.2021,E1038,Encoder ABS-track error.( jt  7),0.0
+6008,137,11.04.2022,E1038,Encoder ABS-track error.( jt  7),0.0
+8718,185,16.12.2021,E1038,Encoder ABS-track error.( jt  6),0.0
+8762,185,12.04.2022,E1038,Encoder ABS-track error.( jt  6),0.0
+10756,257,30.11.2021,E1038,Encoder ABS-track error.( jt  6),0.0
+10802,257,16.02.2022,E1038,Encoder ABS-track error.( jt  6),0.0
+10818,257,3.03.2022,E1038,Encoder ABS-track error.( jt  6),0.0
+10831,257,28.03.2022,E1038,Encoder ABS-track error.( jt  6),0.0
+10843,257,26.04.2022,E1038,Encoder ABS-track error.( jt  6),0.0
+10856,257,18.07.2022,E1038,Encoder ABS-track error.( jt  6),0.0
+700,10,21.06.2021,E1030,Encoder data is abnormal.( jt  7),0.0
+786,10,22.06.2021,E1030,Encoder data is abnormal.( jt  7),0.0
+3336,66,10.08.2020,E1030,Encoder data is abnormal.( jt  1 2 3 4 5 6),0.0
+4598,125,6.02.2021,E1030,Encoder data is abnormal.( jt  2 5 6),0.0
+7296,164,2.04.2022,E1030,Encoder data is abnormal.( jt  7),0.0
+7767,176,17.11.2021,E1030,Encoder data is abnormal.( jt  1 2 3 4 5 6 7),0.0
+11733,289,10.01.2021,E1030,Encoder data is abnormal.( jt  1 2 3 4 5 6 7),0.0
+11941,293,6.02.2021,E1030,Encoder data is abnormal.( jt  6),0.0
+701,10,21.06.2021,E1034,Encoder initialize error ( jt  7).,0.0
+787,10,22.06.2021,E1034,Encoder initialize error ( jt  7).,0.0
+749,10,21.06.2021,E1035,Encoder response error( Jt  1).,0.0
+756,10,21.06.2021,E1035,Encoder response error( Jt  2).,0.0
+758,10,21.06.2021,E1035,Encoder response error( Jt  2 4).,0.0
+759,10,21.06.2021,E1035,Encoder response error( Jt  2 4 5).,0.0
+760,10,21.06.2021,E1035,Encoder response error( Jt  1 2 4 5 6).,0.0
+761,10,21.06.2021,E1035,Encoder response error( Jt  1 2 3 4 5 6).,0.0
+6525,155,17.04.2022,E1035,Encoder response error( Jt  7).,0.0
+9234,188,20.07.2022,E1035,? 5?????????????????,0.0
+11814,289,20.06.2021,E1035,Encoder response error( Jt  7).,0.0
+750,10,21.06.2021,E9437,[Cubic-S(1)] Encoder communication error in JT1.(code 1DC19900 00000402),0.0
+751,10,21.06.2021,E9437,[Cubic-S(1)] Encoder communication error in JT2.(code 1DC29C00 00000702),0.0
+752,10,21.06.2021,E9437,[Cubic-S(1)] Encoder communication error in JT3.(code 1DC39C00 00000702),0.0
+753,10,21.06.2021,E9437,[Cubic-S(1)] Encoder communication error in JT4.(code 1DC49C00 00000402),0.0
+754,10,21.06.2021,E9437,[Cubic-S(1)] Encoder communication error in JT5.(code 1DC59C00 00001702),0.0
+755,10,21.06.2021,E9437,[Cubic-S(1)] Encoder communication error in JT6.(code 1DC69C00 00000402),0.0
+762,10,21.06.2021,E9437,[Cubic-S(1)] Encoder communication error in JT1.(code 1DC10F00 00000402),0.0
+763,10,21.06.2021,E9437,[Cubic-S(1)] Encoder communication error in JT2.(code 1DC20F00 00000502),0.0
+764,10,21.06.2021,E9437,[Cubic-S(1)] Encoder communication error in JT3.(code 1DC30F00 00000502),0.0
+765,10,21.06.2021,E9437,[Cubic-S(1)] Encoder communication error in JT4.(code 1DC40F00 00003502),0.0
+766,10,21.06.2021,E9437,[Cubic-S(1)] Encoder communication error in JT5.(code 1DC50F00 00003702),0.0
+767,10,21.06.2021,E9437,[Cubic-S(1)] Encoder communication error in JT6.(code 1DC60F00 00001702),0.0
+757,10,21.06.2021,E1036,Encoder communication error.( jt  2) ,0.0
+9236,188,20.07.2022,E1036,? 5???????????????,0.0
+910,17,13.07.2021,E0051,Encoder data transmission failure [JT7Axis],0.0
+3526,67,15.02.2022,E0051,Encoder data transmission failure [JT7Axis],0.0
+3527,67,22.02.2022,E0051,Encoder data transmission failure [JT7Axis],0.0
+3528,67,24.02.2022,E0051,Encoder data transmission failure [JT7Axis],0.0
+3529,67,1.03.2022,E0051,Encoder data transmission failure [JT7Axis],0.0
+3735,94,28.10.2021,E0051,Encoder data transmission failure [JT5Axis],0.0
+3748,94,1.11.2021,E0051,Encoder data transmission failure [JT5Axis],0.0
+3762,94,1.11.2021,E0051,Encoder data transmission failure [JT6Axis],0.0
+3763,94,1.11.2021,E0051,Encoder data transmission failure [JT3Axis],0.0
+3774,94,7.11.2021,E0051,Encoder data transmission failure [JT5Axis],0.0
+4491,117,10.01.2022,E0051,Encoder data transmission failure [JT7Axis],0.0
+4510,119,13.12.2021,E0051,Encoder data transmission failure [JT7Axis],0.0
+4511,119,17.12.2021,E0051,Encoder data transmission failure [JT7Axis],0.0
+4512,119,24.02.2022,E0051,Encoder data transmission failure [JT7Axis],0.0
+4514,119,19.03.2022,E0051,Encoder data transmission failure [JT7Axis],0.0
+4515,119,29.03.2022,E0051,Encoder data transmission failure [JT7Axis],0.0
+4516,119,5.04.2022,E0051,Encoder data transmission failure [JT7Axis],0.0
+4517,119,11.04.2022,E0051,Encoder data transmission failure [JT7Axis],0.0
+4518,119,10.05.2022,E0051,Encoder data transmission failure [JT7Axis],0.0
+4519,119,22.07.2022,E0051,Encoder data transmission failure [JT7Axis],0.0
+11547,277,3.04.2022,E0051,Encoder data transmission failure [JT3Axis],0.0
+12400,297,16.12.2021,E0051,Encoder data transmission failure [JT7Axis],0.0
+12401,297,16.12.2021,E0051,Encoder data transmission failure [JT5Axis],0.0
+12402,297,16.12.2021,E0051,Encoder data transmission failure [JT4Axis],0.0
+12403,297,16.12.2021,E0051,Encoder data transmission failure [JT3Axis],0.0
+12404,297,16.12.2021,E0051,Encoder data transmission failure [JT2Axis],0.0
+12405,297,16.12.2021,E0051,Encoder data transmission failure [JT1Axis],0.0
+12434,297,16.12.2021,E0051,Encoder data transmission failure [JT6Axis],0.0
+12622,301,24.05.2022,E0051,Encoder data transmission failure [JT1Axis],0.0
+12885,311,27.02.2022,E0051,Encoder data transmission failure [JT3Axis],0.0
+13342,320,26.02.2021,E0051,Encoder data transmission failure [JT6Axis],0.0
+13615,329,5.03.2022,E0051,Encoder data transmission failure [JT7Axis],0.0
+13630,330,23.07.2020,E0051,Encoder data transmission failure [JT6Axis],0.0
+13631,330,23.07.2020,E0051,Encoder data transmission failure [JT5Axis],0.0
+13632,330,23.07.2020,E0051,Encoder data transmission failure [JT4Axis],0.0
+13633,330,23.07.2020,E0051,Encoder data transmission failure [JT3Axis],0.0
+13634,330,23.07.2020,E0051,Encoder data transmission failure [JT2Axis],0.0
+13635,330,23.07.2020,E0051,Encoder data transmission failure [JT1Axis],0.0
+13730,331,10.03.2022,E0051,Encoder data transmission failure [JT7Axis],0.0
+13732,331,10.03.2022,E0051,Encoder data transmission failure [JT6Axis],0.0
+13733,331,10.03.2022,E0051,Encoder data transmission failure [JT4Axis],0.0
+13734,331,10.03.2022,E0051,Encoder data transmission failure [JT3Axis],0.0
+13735,331,10.03.2022,E0051,Encoder data transmission failure [JT2Axis],0.0
+13736,331,10.03.2022,E0051,Encoder data transmission failure [JT1Axis],0.0
+13767,333,23.07.2020,E0051,Encoder data transmission failure [JT6Axis],0.0
+13768,333,23.07.2020,E0051,Encoder data transmission failure [JT5Axis],0.0
+13769,333,23.07.2020,E0051,Encoder data transmission failure [JT4Axis],0.0
+13770,333,23.07.2020,E0051,Encoder data transmission failure [JT3Axis],0.0
+13771,333,23.07.2020,E0051,Encoder data transmission failure [JT2Axis],0.0
+13772,333,23.07.2020,E0051,Encoder data transmission failure [JT1Axis],0.0
+14297,359,31.01.2021,E0051,Encoder data transmission failure [JT5Axis],0.0
+14300,359,1.02.2021,E0051,Encoder data transmission failure [JT5Axis],0.0
+1885,33,12.08.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+1943,34,7.08.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+1962,34,6.12.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+2009,34,2.08.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+2011,35,16.01.2021,E0027,Encoder data change after stop [JT1Axis],0.0
+2012,35,30.01.2021,E0027,Encoder data change after stop [JT1Axis],0.0
+2016,35,11.07.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+2017,35,11.07.2021,E0027,???????? [JT7?],0.0
+2018,35,26.08.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+2019,35,26.08.2021,E0027,???????? [JT7?],0.0
+2153,39,5.08.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+2158,39,12.08.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+2171,39,6.12.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+2172,39,5.01.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+2201,40,22.11.2021,E0027,Encoder data change after stop [JT5Axis],0.0
+2202,40,22.11.2021,E0027,Encoder data change after stop [JT4Axis],0.0
+2203,40,22.11.2021,E0027,Encoder data change after stop [JT2Axis],0.0
+2204,40,22.11.2021,E0027,Encoder data change after stop [JT1Axis],0.0
+2205,40,6.12.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+2230,41,2.08.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+2231,41,2.08.2021,E0027,???????? [JT7?],0.0
+2234,41,24.08.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+2235,41,24.08.2021,E0027,???????? [JT7?],0.0
+2236,41,3.10.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+2237,41,3.10.2021,E0027,???????? [JT7?],0.0
+2247,43,5.12.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+2278,43,20.03.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+2285,43,18.05.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+2295,43,5.07.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+2351,45,28.07.2021,E0027,Encoder data change after stop [JT2Axis],0.0
+2363,45,30.11.2021,E0027,Encoder data change after stop [JT2Axis],0.0
+2365,45,29.12.2021,E0027,Encoder data change after stop [JT2Axis],0.0
+2367,45,29.12.2021,E0027,???????? [JT2?],0.0
+2369,45,13.01.2022,E0027,Encoder data change after stop [JT2Axis],0.0
+2371,45,13.01.2022,E0027,???????? [JT2?],0.0
+2377,45,5.02.2022,E0027,Encoder data change after stop [JT2Axis],0.0
+2379,45,5.02.2022,E0027,???????? [JT2?],0.0
+2381,45,28.04.2022,E0027,Encoder data change after stop [JT2Axis],0.0
+2383,45,28.04.2022,E0027,???????? [JT2?],0.0
+2385,45,12.05.2022,E0027,Encoder data change after stop [JT2Axis],0.0
+2387,45,12.05.2022,E0027,???????? [JT2?],0.0
+2397,45,2.06.2022,E0027,???????? [JT2?],0.0
+2399,45,2.06.2022,E0027,Encoder data change after stop [JT2Axis],0.0
+2403,45,25.06.2022,E0027,???????? [JT2?],0.0
+2405,45,25.06.2022,E0027,Encoder data change after stop [JT2Axis],0.0
+2433,46,7.10.2021,E0027,Encoder data change after stop [JT5Axis],0.0
+2438,46,12.10.2021,E0027,Encoder data change after stop [JT5Axis],0.0
+2443,46,22.10.2021,E0027,Encoder data change after stop [JT5Axis],0.0
+2446,46,23.10.2021,E0027,Encoder data change after stop [JT5Axis],0.0
+2451,46,26.10.2021,E0027,Encoder data change after stop [JT5Axis],0.0
+2456,46,28.11.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+2457,46,13.12.2021,E0027,Encoder data change after stop [JT5Axis],0.0
+2459,46,14.12.2021,E0027,Encoder data change after stop [JT5Axis],0.0
+2461,46,20.12.2021,E0027,Encoder data change after stop [JT5Axis],0.0
+2468,46,12.01.2022,E0027,Encoder data change after stop [JT5Axis],0.0
+2470,46,13.01.2022,E0027,Encoder data change after stop [JT5Axis],0.0
+2472,46,18.01.2022,E0027,Encoder data change after stop [JT5Axis],0.0
+2475,46,24.01.2022,E0027,Encoder data change after stop [JT5Axis],0.0
+2480,46,31.01.2022,E0027,Encoder data change after stop [JT5Axis],0.0
+2484,46,1.02.2022,E0027,Encoder data change after stop [JT5Axis],0.0
+2488,46,10.02.2022,E0027,Encoder data change after stop [JT5Axis],0.0
+2490,46,11.02.2022,E0027,Encoder data change after stop [JT5Axis],0.0
+2492,46,14.02.2022,E0027,Encoder data change after stop [JT5Axis],0.0
+2496,46,23.02.2022,E0027,Encoder data change after stop [JT5Axis],0.0
+2498,46,2.03.2022,E0027,Encoder data change after stop [JT5Axis],0.0
+2500,46,4.03.2022,E0027,Encoder data change after stop [JT5Axis],0.0
+2581,46,24.03.2022,E0027,???????? [JT5?],0.0
+2583,46,24.03.2022,E0027,Encoder data change after stop [JT5Axis],0.0
+2585,46,30.03.2022,E0027,???????? [JT5?],0.0
+2587,46,30.03.2022,E0027,Encoder data change after stop [JT5Axis],0.0
+2589,46,1.04.2022,E0027,???????? [JT5?],0.0
+2591,46,1.04.2022,E0027,Encoder data change after stop [JT5Axis],0.0
+2597,46,7.04.2022,E0027,???????? [JT5?],0.0
+2599,46,7.04.2022,E0027,Encoder data change after stop [JT5Axis],0.0
+2601,46,13.04.2022,E0027,???????? [JT5?],0.0
+2603,46,13.04.2022,E0027,Encoder data change after stop [JT5Axis],0.0
+2605,46,14.04.2022,E0027,???????? [JT5?],0.0
+2607,46,14.04.2022,E0027,Encoder data change after stop [JT5Axis],0.0
+2609,46,18.04.2022,E0027,???????? [JT5?],0.0
+2611,46,18.04.2022,E0027,Encoder data change after stop [JT5Axis],0.0
+2617,46,22.04.2022,E0027,Encoder data change after stop [JT5Axis],0.0
+2619,46,22.04.2022,E0027,???????? [JT5?],0.0
+2627,46,12.05.2022,E0027,Encoder data change after stop [JT5Axis],0.0
+2629,46,12.05.2022,E0027,???????? [JT5?],0.0
+2631,46,2.06.2022,E0027,???????? [JT5?],0.0
+2633,46,2.06.2022,E0027,Encoder data change after stop [JT5Axis],0.0
+2641,46,22.06.2022,E0027,???????? [JT5?],0.0
+2643,46,22.06.2022,E0027,Encoder data change after stop [JT5Axis],0.0
+2645,46,23.06.2022,E0027,???????? [JT5?],0.0
+2647,46,23.06.2022,E0027,Encoder data change after stop [JT5Axis],0.0
+2651,46,18.07.2022,E0027,???????? [JT5?],0.0
+2653,46,18.07.2022,E0027,Encoder data change after stop [JT5Axis],0.0
+2657,46,26.07.2022,E0027,???????? [JT5?],0.0
+2659,46,26.07.2022,E0027,Encoder data change after stop [JT5Axis],0.0
+2669,46,31.07.2022,E0027,???????? [JT1?],0.0
+2670,46,31.07.2022,E0027,Encoder data change after stop [JT1Axis],0.0
+2789,50,9.05.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+2795,50,9.01.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+2802,50,9.03.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+2819,51,15.05.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+2835,51,1.05.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+2840,52,9.05.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+2848,53,5.12.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+2849,53,5.12.2021,E0027,???????? [JT7?],0.0
+2870,53,8.03.2022,E0027,???????? [JT7?],0.0
+2871,53,8.03.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+2891,54,1.08.2021,E0027,Encoder data change after stop [JT1Axis],0.0
+3075,59,25.08.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+3079,59,6.12.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+3080,59,7.03.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+3081,59,1.05.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+3702,92,29.11.2020,E0027,Encoder data change after stop [JT1Axis],0.0
+3711,92,20.06.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+3819,100,7.03.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+3845,104,20.03.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+3850,105,26.09.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+4419,113,14.11.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+4492,117,17.03.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+4521,122,4.08.2020,E0027,Encoder data change after stop [JT7Axis],0.0
+4524,122,4.12.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+6314,149,1.05.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+6318,149,1.08.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+6331,151,9.09.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+6340,152,2.10.2020,E0027,Encoder data change after stop [JT7Axis],0.0
+6341,152,17.12.2020,E0027,Encoder data change after stop [JT7Axis],0.0
+9973,211,2.08.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+9975,211,6.12.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+9977,212,2.08.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+9987,214,2.08.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+10051,214,23.04.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+10065,215,15.03.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+10231,232,10.08.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+10241,236,9.05.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+10255,236,7.11.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+11166,262,6.12.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+11364,267,11.07.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+12387,295,8.07.2022,E0027,Encoder data change after stop [JT1Axis],0.0
+12399,295,13.07.2022,E0027,Encoder data change after stop [JT1Axis],0.0
+12590,301,6.07.2020,E0027,Encoder data change after stop [JT7Axis],0.0
+12624,302,5.07.2020,E0027,Encoder data change after stop [JT7Axis],0.0
+12627,302,13.09.2020,E0027,Encoder data change after stop [JT7Axis],0.0
+12628,302,8.11.2020,E0027,Encoder data change after stop [JT7Axis],0.0
+12630,302,15.11.2020,E0027,Encoder data change after stop [JT7Axis],0.0
+12631,302,20.12.2020,E0027,Encoder data change after stop [JT7Axis],0.0
+12633,302,1.02.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+12636,302,28.02.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+12639,302,14.03.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+12642,302,1.05.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+12645,302,12.06.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+12651,302,20.06.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+12654,302,4.08.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+12658,302,10.08.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+12661,302,21.10.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+12664,302,26.01.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+12671,302,10.04.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+12676,302,1.05.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+12677,302,21.05.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+12683,302,19.06.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+12684,302,11.07.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+12780,306,31.05.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+12783,307,26.05.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+12792,307,25.01.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+12794,307,6.02.2022,E0027,Encoder data change after stop [JT1Axis],0.0
+12796,307,6.02.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+12806,307,20.05.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+12817,308,20.06.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+12830,308,1.05.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+12834,308,31.05.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+12848,309,5.07.2020,E0027,Encoder data change after stop [JT7Axis],0.0
+12860,310,20.05.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+12866,311,26.01.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+12889,311,3.04.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+12892,311,16.05.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+12901,311,23.07.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+12902,312,31.08.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+12923,312,20.03.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+12996,313,17.09.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+13018,314,26.08.2021,E0027,Encoder data change after stop [JT1Axis],0.0
+13111,315,9.05.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+13423,322,15.10.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+13430,322,20.03.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+13455,322,19.05.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+13462,323,5.08.2020,E0027,Encoder data change after stop [JT7Axis],0.0
+13470,323,8.03.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+13546,328,11.08.2020,E0027,Encoder data change after stop [JT7Axis],0.0
+13557,328,18.09.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+13788,334,6.03.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+14070,342,25.01.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+14078,346,14.11.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+14079,346,25.01.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+14081,347,4.07.2020,E0027,Encoder data change after stop [JT7Axis],0.0
+14082,347,15.07.2020,E0027,Encoder data change after stop [JT7Axis],0.0
+14084,347,27.12.2020,E0027,Encoder data change after stop [JT7Axis],0.0
+14085,347,25.01.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+14116,350,4.08.2020,E0027,Encoder data change after stop [JT7Axis],0.0
+14129,351,7.03.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+14133,352,7.03.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+14162,355,5.08.2020,E0027,Encoder data change after stop [JT7Axis],0.0
+14343,364,23.04.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+2077,37,20.05.2021,E0025,Encoder Bit jump [J21Axis],0.0
+2079,37,20.05.2021,E0025,????? [J21?],0.0
+2154,39,5.08.2021,E0025,Encoder Bit jump [JT7Axis],0.0
+4421,113,29.07.2022,E0025,Encoder Bit jump [JT8Axis],0.0
+13058,314,11.07.2022,E0025,Encoder Bit jump [JT6Axis],0.0
+2082,37,8.08.2021,E0052,Encoder battery charge low [J22Axis],0.0
+2084,37,8.08.2021,E0052,?????  ??????? [J22?],0.0
+2129,37,9.08.2021,E0052,Encoder battery charge low [J22Axis],0.0
+2130,37,9.08.2021,E0052,?????  ??????? [J22?],0.0
+2166,39,12.08.2021,E0052,Encoder battery charge low [JT7Axis],0.0
+2508,46,6.03.2022,E0052,Encoder battery charge low [JT6Axis],0.0
+2532,46,6.03.2022,E0052,?????  ??????? [JT6?],0.0
+4374,113,30.10.2021,E0052,Encoder battery charge low [JT7Axis],0.0
+6302,147,17.11.2021,E0052,Encoder battery charge low [JT2Axis],0.0
+10023,214,20.02.2022,E0052,Encoder battery charge low [JT3Axis],0.0
+11377,270,16.03.2021,E0052,Encoder battery charge low [JT3Axis],0.0
+11553,277,3.04.2022,E0052,Encoder battery charge low [JT3Axis],0.0
+12843,308,31.05.2022,E0052,Encoder battery charge low [JT2Axis],0.0
+12888,311,27.02.2022,E0052,Encoder battery charge low [JT3Axis],0.0
+12930,312,15.05.2022,E0052,Encoder battery charge low [JT6Axis],0.0
+13159,315,10.03.2022,E0052,Encoder battery charge low [JT7Axis],0.0
+13356,320,19.05.2022,E0052,Encoder battery charge low [JT6Axis],0.0
+13357,320,20.05.2022,E0052,Encoder battery charge low [JT6Axis],0.0
+13485,325,12.03.2022,E0052,Encoder battery charge low [JT7Axis],0.0
+13617,329,5.03.2022,E0052,Encoder battery charge low [JT7Axis],0.0
+13837,336,17.01.2022,E0052,Encoder battery charge low [JT7Axis],0.0
+14136,353,14.05.2021,E0052,Encoder battery charge low [JT5Axis],0.0
+14149,353,14.05.2021,E0052,Encoder battery charge low [JT2Axis],0.0
+14314,359,1.02.2021,E0052,Encoder battery charge low [JT5Axis],0.0
+2507,46,6.03.2022,E1100,Robot monitoring unit Encoder failure.,0.0
+2531,46,6.03.2022,E1100,?????????? ???????,0.0
+3740,94,28.10.2021,E1100,Robot monitoring unit Encoder failure.,0.0
+3747,94,1.11.2021,E1100,Robot monitoring unit Encoder failure.,0.0
+6301,147,17.11.2021,E1100,Robot monitoring unit Encoder failure.,0.0
+10022,214,20.02.2022,E1100,Robot monitoring unit Encoder failure.,0.0
+11376,270,16.03.2021,E1100,Robot monitoring unit Encoder failure.,0.0
+11554,277,3.04.2022,E1100,Robot monitoring unit Encoder failure.,0.0
+12406,297,16.12.2021,E1100,Robot monitoring unit Encoder failure.,0.0
+12842,308,31.05.2022,E1100,Robot monitoring unit Encoder failure.,0.0
+12887,311,27.02.2022,E1100,Robot monitoring unit Encoder failure.,0.0
+12929,312,15.05.2022,E1100,Robot monitoring unit Encoder failure.,0.0
+13341,320,26.02.2021,E1100,Robot monitoring unit Encoder failure.,0.0
+13355,320,19.05.2022,E1100,Robot monitoring unit Encoder failure.,0.0
+13358,320,20.05.2022,E1100,Robot monitoring unit Encoder failure.,0.0
+13549,328,8.11.2020,E1100,Robot monitoring unit Encoder failure.,0.0
+13650,330,8.11.2020,E1100,Robot monitoring unit Encoder failure.,0.0
+13750,331,10.03.2022,E1100,Robot monitoring unit Encoder failure.,0.0
+14135,353,14.05.2021,E1100,Robot monitoring unit Encoder failure.,0.0
+14295,359,31.01.2021,E1100,Robot monitoring unit Encoder failure.,0.0
+14298,359,1.02.2021,E1100,Robot monitoring unit Encoder failure.,0.0
+12487,297,30.03.2022,E0030,Encoder absolute data failure [JT7Axis],0.0
+13138,315,28.02.2022,E0030,Encoder absolute data failure [JT7Axis],0.0
+13142,315,2.03.2022,E0030,Encoder absolute data failure [JT7Axis],0.0
+13478,325,12.03.2022,E0030,Encoder absolute data failure [JT7Axis],0.0
+13573,329,2.03.2022,E0030,Encoder absolute data failure [JT7Axis],0.0
+13588,329,3.03.2022,E0030,Encoder absolute data failure [JT7Axis],0.0
+13604,329,4.03.2022,E0030,Encoder absolute data failure [JT7Axis],0.0
+14334,363,5.05.2022,E0030,Encoder absolute data failure [JT7Axis],0.0
+13474,325,12.03.2022,E0036,Encoder Initialize error [JT7Axis],0.0
+13579,329,2.03.2022,E0036,Encoder Initialize error [JT7Axis],0.0
+13589,329,3.03.2022,E0036,Encoder Initialize error [JT7Axis],0.0
+13607,329,4.03.2022,E0036,Encoder Initialize error [JT7Axis],0.0
+13854,337,9.08.2021,E0036,Encoder Initialize error [JT8Axis],0.0
+14296,359,31.01.2021,E0029,Encoder absolute data error [JT5Axis],0.0
+14299,359,1.02.2021,E0029,Encoder absolute data error [JT5Axis],0.0
+678,10,20.06.2021,E1038,Encoder ABS-track error.( jt  7),0.0
+690,10,21.06.2021,E1038,Encoder ABS-track error.( jt  7),0.0
+782,10,22.06.2021,E1038,Encoder ABS-track error.( jt  7),0.0
+6008,137,11.04.2022,E1038,Encoder ABS-track error.( jt  7),0.0
+8718,185,16.12.2021,E1038,Encoder ABS-track error.( jt  6),0.0
+8762,185,12.04.2022,E1038,Encoder ABS-track error.( jt  6),0.0
+10756,257,30.11.2021,E1038,Encoder ABS-track error.( jt  6),0.0
+10802,257,16.02.2022,E1038,Encoder ABS-track error.( jt  6),0.0
+10818,257,3.03.2022,E1038,Encoder ABS-track error.( jt  6),0.0
+10831,257,28.03.2022,E1038,Encoder ABS-track error.( jt  6),0.0
+10843,257,26.04.2022,E1038,Encoder ABS-track error.( jt  6),0.0
+10856,257,18.07.2022,E1038,Encoder ABS-track error.( jt  6),0.0
+700,10,21.06.2021,E1030,Encoder data is abnormal.( jt  7),0.0
+786,10,22.06.2021,E1030,Encoder data is abnormal.( jt  7),0.0
+3336,66,10.08.2020,E1030,Encoder data is abnormal.( jt  1 2 3 4 5 6),0.0
+4598,125,6.02.2021,E1030,Encoder data is abnormal.( jt  2 5 6),0.0
+7296,164,2.04.2022,E1030,Encoder data is abnormal.( jt  7),0.0
+7767,176,17.11.2021,E1030,Encoder data is abnormal.( jt  1 2 3 4 5 6 7),0.0
+11733,289,10.01.2021,E1030,Encoder data is abnormal.( jt  1 2 3 4 5 6 7),0.0
+11941,293,6.02.2021,E1030,Encoder data is abnormal.( jt  6),0.0
+701,10,21.06.2021,E1034,Encoder initialize error ( jt  7).,0.0
+787,10,22.06.2021,E1034,Encoder initialize error ( jt  7).,0.0
+749,10,21.06.2021,E1035,Encoder response error( Jt  1).,0.0
+756,10,21.06.2021,E1035,Encoder response error( Jt  2).,0.0
+758,10,21.06.2021,E1035,Encoder response error( Jt  2 4).,0.0
+759,10,21.06.2021,E1035,Encoder response error( Jt  2 4 5).,0.0
+760,10,21.06.2021,E1035,Encoder response error( Jt  1 2 4 5 6).,0.0
+761,10,21.06.2021,E1035,Encoder response error( Jt  1 2 3 4 5 6).,0.0
+6525,155,17.04.2022,E1035,Encoder response error( Jt  7).,0.0
+9234,188,20.07.2022,E1035,? 5?????????????????,0.0
+11814,289,20.06.2021,E1035,Encoder response error( Jt  7).,0.0
+750,10,21.06.2021,E9437,[Cubic-S(1)] Encoder communication error in JT1.(code 1DC19900 00000402),0.0
+751,10,21.06.2021,E9437,[Cubic-S(1)] Encoder communication error in JT2.(code 1DC29C00 00000702),0.0
+752,10,21.06.2021,E9437,[Cubic-S(1)] Encoder communication error in JT3.(code 1DC39C00 00000702),0.0
+753,10,21.06.2021,E9437,[Cubic-S(1)] Encoder communication error in JT4.(code 1DC49C00 00000402),0.0
+754,10,21.06.2021,E9437,[Cubic-S(1)] Encoder communication error in JT5.(code 1DC59C00 00001702),0.0
+755,10,21.06.2021,E9437,[Cubic-S(1)] Encoder communication error in JT6.(code 1DC69C00 00000402),0.0
+762,10,21.06.2021,E9437,[Cubic-S(1)] Encoder communication error in JT1.(code 1DC10F00 00000402),0.0
+763,10,21.06.2021,E9437,[Cubic-S(1)] Encoder communication error in JT2.(code 1DC20F00 00000502),0.0
+764,10,21.06.2021,E9437,[Cubic-S(1)] Encoder communication error in JT3.(code 1DC30F00 00000502),0.0
+765,10,21.06.2021,E9437,[Cubic-S(1)] Encoder communication error in JT4.(code 1DC40F00 00003502),0.0
+766,10,21.06.2021,E9437,[Cubic-S(1)] Encoder communication error in JT5.(code 1DC50F00 00003702),0.0
+767,10,21.06.2021,E9437,[Cubic-S(1)] Encoder communication error in JT6.(code 1DC60F00 00001702),0.0
+757,10,21.06.2021,E1036,Encoder communication error.( jt  2) ,0.0
+9236,188,20.07.2022,E1036,? 5???????????????,0.0
+910,17,13.07.2021,E0051,Encoder data transmission failure [JT7Axis],0.0
+3526,67,15.02.2022,E0051,Encoder data transmission failure [JT7Axis],0.0
+3527,67,22.02.2022,E0051,Encoder data transmission failure [JT7Axis],0.0
+3528,67,24.02.2022,E0051,Encoder data transmission failure [JT7Axis],0.0
+3529,67,1.03.2022,E0051,Encoder data transmission failure [JT7Axis],0.0
+3735,94,28.10.2021,E0051,Encoder data transmission failure [JT5Axis],0.0
+3748,94,1.11.2021,E0051,Encoder data transmission failure [JT5Axis],0.0
+3762,94,1.11.2021,E0051,Encoder data transmission failure [JT6Axis],0.0
+3763,94,1.11.2021,E0051,Encoder data transmission failure [JT3Axis],0.0
+3774,94,7.11.2021,E0051,Encoder data transmission failure [JT5Axis],0.0
+4491,117,10.01.2022,E0051,Encoder data transmission failure [JT7Axis],0.0
+4510,119,13.12.2021,E0051,Encoder data transmission failure [JT7Axis],0.0
+4511,119,17.12.2021,E0051,Encoder data transmission failure [JT7Axis],0.0
+4512,119,24.02.2022,E0051,Encoder data transmission failure [JT7Axis],0.0
+4514,119,19.03.2022,E0051,Encoder data transmission failure [JT7Axis],0.0
+4515,119,29.03.2022,E0051,Encoder data transmission failure [JT7Axis],0.0
+4516,119,5.04.2022,E0051,Encoder data transmission failure [JT7Axis],0.0
+4517,119,11.04.2022,E0051,Encoder data transmission failure [JT7Axis],0.0
+4518,119,10.05.2022,E0051,Encoder data transmission failure [JT7Axis],0.0
+4519,119,22.07.2022,E0051,Encoder data transmission failure [JT7Axis],0.0
+11547,277,3.04.2022,E0051,Encoder data transmission failure [JT3Axis],0.0
+12400,297,16.12.2021,E0051,Encoder data transmission failure [JT7Axis],0.0
+12401,297,16.12.2021,E0051,Encoder data transmission failure [JT5Axis],0.0
+12402,297,16.12.2021,E0051,Encoder data transmission failure [JT4Axis],0.0
+12403,297,16.12.2021,E0051,Encoder data transmission failure [JT3Axis],0.0
+12404,297,16.12.2021,E0051,Encoder data transmission failure [JT2Axis],0.0
+12405,297,16.12.2021,E0051,Encoder data transmission failure [JT1Axis],0.0
+12434,297,16.12.2021,E0051,Encoder data transmission failure [JT6Axis],0.0
+12622,301,24.05.2022,E0051,Encoder data transmission failure [JT1Axis],0.0
+12885,311,27.02.2022,E0051,Encoder data transmission failure [JT3Axis],0.0
+13342,320,26.02.2021,E0051,Encoder data transmission failure [JT6Axis],0.0
+13615,329,5.03.2022,E0051,Encoder data transmission failure [JT7Axis],0.0
+13630,330,23.07.2020,E0051,Encoder data transmission failure [JT6Axis],0.0
+13631,330,23.07.2020,E0051,Encoder data transmission failure [JT5Axis],0.0
+13632,330,23.07.2020,E0051,Encoder data transmission failure [JT4Axis],0.0
+13633,330,23.07.2020,E0051,Encoder data transmission failure [JT3Axis],0.0
+13634,330,23.07.2020,E0051,Encoder data transmission failure [JT2Axis],0.0
+13635,330,23.07.2020,E0051,Encoder data transmission failure [JT1Axis],0.0
+13730,331,10.03.2022,E0051,Encoder data transmission failure [JT7Axis],0.0
+13732,331,10.03.2022,E0051,Encoder data transmission failure [JT6Axis],0.0
+13733,331,10.03.2022,E0051,Encoder data transmission failure [JT4Axis],0.0
+13734,331,10.03.2022,E0051,Encoder data transmission failure [JT3Axis],0.0
+13735,331,10.03.2022,E0051,Encoder data transmission failure [JT2Axis],0.0
+13736,331,10.03.2022,E0051,Encoder data transmission failure [JT1Axis],0.0
+13767,333,23.07.2020,E0051,Encoder data transmission failure [JT6Axis],0.0
+13768,333,23.07.2020,E0051,Encoder data transmission failure [JT5Axis],0.0
+13769,333,23.07.2020,E0051,Encoder data transmission failure [JT4Axis],0.0
+13770,333,23.07.2020,E0051,Encoder data transmission failure [JT3Axis],0.0
+13771,333,23.07.2020,E0051,Encoder data transmission failure [JT2Axis],0.0
+13772,333,23.07.2020,E0051,Encoder data transmission failure [JT1Axis],0.0
+14297,359,31.01.2021,E0051,Encoder data transmission failure [JT5Axis],0.0
+14300,359,1.02.2021,E0051,Encoder data transmission failure [JT5Axis],0.0
+1885,33,12.08.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+1943,34,7.08.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+1962,34,6.12.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+2009,34,2.08.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+2011,35,16.01.2021,E0027,Encoder data change after stop [JT1Axis],0.0
+2012,35,30.01.2021,E0027,Encoder data change after stop [JT1Axis],0.0
+2016,35,11.07.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+2017,35,11.07.2021,E0027,???????? [JT7?],0.0
+2018,35,26.08.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+2019,35,26.08.2021,E0027,???????? [JT7?],0.0
+2153,39,5.08.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+2158,39,12.08.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+2171,39,6.12.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+2172,39,5.01.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+2201,40,22.11.2021,E0027,Encoder data change after stop [JT5Axis],0.0
+2202,40,22.11.2021,E0027,Encoder data change after stop [JT4Axis],0.0
+2203,40,22.11.2021,E0027,Encoder data change after stop [JT2Axis],0.0
+2204,40,22.11.2021,E0027,Encoder data change after stop [JT1Axis],0.0
+2205,40,6.12.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+2230,41,2.08.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+2231,41,2.08.2021,E0027,???????? [JT7?],0.0
+2234,41,24.08.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+2235,41,24.08.2021,E0027,???????? [JT7?],0.0
+2236,41,3.10.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+2237,41,3.10.2021,E0027,???????? [JT7?],0.0
+2247,43,5.12.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+2278,43,20.03.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+2285,43,18.05.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+2295,43,5.07.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+2351,45,28.07.2021,E0027,Encoder data change after stop [JT2Axis],0.0
+2363,45,30.11.2021,E0027,Encoder data change after stop [JT2Axis],0.0
+2365,45,29.12.2021,E0027,Encoder data change after stop [JT2Axis],0.0
+2367,45,29.12.2021,E0027,???????? [JT2?],0.0
+2369,45,13.01.2022,E0027,Encoder data change after stop [JT2Axis],0.0
+2371,45,13.01.2022,E0027,???????? [JT2?],0.0
+2377,45,5.02.2022,E0027,Encoder data change after stop [JT2Axis],0.0
+2379,45,5.02.2022,E0027,???????? [JT2?],0.0
+2381,45,28.04.2022,E0027,Encoder data change after stop [JT2Axis],0.0
+2383,45,28.04.2022,E0027,???????? [JT2?],0.0
+2385,45,12.05.2022,E0027,Encoder data change after stop [JT2Axis],0.0
+2387,45,12.05.2022,E0027,???????? [JT2?],0.0
+2397,45,2.06.2022,E0027,???????? [JT2?],0.0
+2399,45,2.06.2022,E0027,Encoder data change after stop [JT2Axis],0.0
+2403,45,25.06.2022,E0027,???????? [JT2?],0.0
+2405,45,25.06.2022,E0027,Encoder data change after stop [JT2Axis],0.0
+2433,46,7.10.2021,E0027,Encoder data change after stop [JT5Axis],0.0
+2438,46,12.10.2021,E0027,Encoder data change after stop [JT5Axis],0.0
+2443,46,22.10.2021,E0027,Encoder data change after stop [JT5Axis],0.0
+2446,46,23.10.2021,E0027,Encoder data change after stop [JT5Axis],0.0
+2451,46,26.10.2021,E0027,Encoder data change after stop [JT5Axis],0.0
+2456,46,28.11.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+2457,46,13.12.2021,E0027,Encoder data change after stop [JT5Axis],0.0
+2459,46,14.12.2021,E0027,Encoder data change after stop [JT5Axis],0.0
+2461,46,20.12.2021,E0027,Encoder data change after stop [JT5Axis],0.0
+2468,46,12.01.2022,E0027,Encoder data change after stop [JT5Axis],0.0
+2470,46,13.01.2022,E0027,Encoder data change after stop [JT5Axis],0.0
+2472,46,18.01.2022,E0027,Encoder data change after stop [JT5Axis],0.0
+2475,46,24.01.2022,E0027,Encoder data change after stop [JT5Axis],0.0
+2480,46,31.01.2022,E0027,Encoder data change after stop [JT5Axis],0.0
+2484,46,1.02.2022,E0027,Encoder data change after stop [JT5Axis],0.0
+2488,46,10.02.2022,E0027,Encoder data change after stop [JT5Axis],0.0
+2490,46,11.02.2022,E0027,Encoder data change after stop [JT5Axis],0.0
+2492,46,14.02.2022,E0027,Encoder data change after stop [JT5Axis],0.0
+2496,46,23.02.2022,E0027,Encoder data change after stop [JT5Axis],0.0
+2498,46,2.03.2022,E0027,Encoder data change after stop [JT5Axis],0.0
+2500,46,4.03.2022,E0027,Encoder data change after stop [JT5Axis],0.0
+2581,46,24.03.2022,E0027,???????? [JT5?],0.0
+2583,46,24.03.2022,E0027,Encoder data change after stop [JT5Axis],0.0
+2585,46,30.03.2022,E0027,???????? [JT5?],0.0
+2587,46,30.03.2022,E0027,Encoder data change after stop [JT5Axis],0.0
+2589,46,1.04.2022,E0027,???????? [JT5?],0.0
+2591,46,1.04.2022,E0027,Encoder data change after stop [JT5Axis],0.0
+2597,46,7.04.2022,E0027,???????? [JT5?],0.0
+2599,46,7.04.2022,E0027,Encoder data change after stop [JT5Axis],0.0
+2601,46,13.04.2022,E0027,???????? [JT5?],0.0
+2603,46,13.04.2022,E0027,Encoder data change after stop [JT5Axis],0.0
+2605,46,14.04.2022,E0027,???????? [JT5?],0.0
+2607,46,14.04.2022,E0027,Encoder data change after stop [JT5Axis],0.0
+2609,46,18.04.2022,E0027,???????? [JT5?],0.0
+2611,46,18.04.2022,E0027,Encoder data change after stop [JT5Axis],0.0
+2617,46,22.04.2022,E0027,Encoder data change after stop [JT5Axis],0.0
+2619,46,22.04.2022,E0027,???????? [JT5?],0.0
+2627,46,12.05.2022,E0027,Encoder data change after stop [JT5Axis],0.0
+2629,46,12.05.2022,E0027,???????? [JT5?],0.0
+2631,46,2.06.2022,E0027,???????? [JT5?],0.0
+2633,46,2.06.2022,E0027,Encoder data change after stop [JT5Axis],0.0
+2641,46,22.06.2022,E0027,???????? [JT5?],0.0
+2643,46,22.06.2022,E0027,Encoder data change after stop [JT5Axis],0.0
+2645,46,23.06.2022,E0027,???????? [JT5?],0.0
+2647,46,23.06.2022,E0027,Encoder data change after stop [JT5Axis],0.0
+2651,46,18.07.2022,E0027,???????? [JT5?],0.0
+2653,46,18.07.2022,E0027,Encoder data change after stop [JT5Axis],0.0
+2657,46,26.07.2022,E0027,???????? [JT5?],0.0
+2659,46,26.07.2022,E0027,Encoder data change after stop [JT5Axis],0.0
+2669,46,31.07.2022,E0027,???????? [JT1?],0.0
+2670,46,31.07.2022,E0027,Encoder data change after stop [JT1Axis],0.0
+2789,50,9.05.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+2795,50,9.01.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+2802,50,9.03.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+2819,51,15.05.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+2835,51,1.05.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+2840,52,9.05.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+2848,53,5.12.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+2849,53,5.12.2021,E0027,???????? [JT7?],0.0
+2870,53,8.03.2022,E0027,???????? [JT7?],0.0
+2871,53,8.03.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+2891,54,1.08.2021,E0027,Encoder data change after stop [JT1Axis],0.0
+3075,59,25.08.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+3079,59,6.12.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+3080,59,7.03.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+3081,59,1.05.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+3702,92,29.11.2020,E0027,Encoder data change after stop [JT1Axis],0.0
+3711,92,20.06.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+3819,100,7.03.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+3845,104,20.03.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+3850,105,26.09.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+4419,113,14.11.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+4492,117,17.03.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+4521,122,4.08.2020,E0027,Encoder data change after stop [JT7Axis],0.0
+4524,122,4.12.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+6314,149,1.05.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+6318,149,1.08.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+6331,151,9.09.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+6340,152,2.10.2020,E0027,Encoder data change after stop [JT7Axis],0.0
+6341,152,17.12.2020,E0027,Encoder data change after stop [JT7Axis],0.0
+9973,211,2.08.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+9975,211,6.12.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+9977,212,2.08.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+9987,214,2.08.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+10051,214,23.04.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+10065,215,15.03.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+10231,232,10.08.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+10241,236,9.05.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+10255,236,7.11.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+11166,262,6.12.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+11364,267,11.07.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+12387,295,8.07.2022,E0027,Encoder data change after stop [JT1Axis],0.0
+12399,295,13.07.2022,E0027,Encoder data change after stop [JT1Axis],0.0
+12590,301,6.07.2020,E0027,Encoder data change after stop [JT7Axis],0.0
+12624,302,5.07.2020,E0027,Encoder data change after stop [JT7Axis],0.0
+12627,302,13.09.2020,E0027,Encoder data change after stop [JT7Axis],0.0
+12628,302,8.11.2020,E0027,Encoder data change after stop [JT7Axis],0.0
+12630,302,15.11.2020,E0027,Encoder data change after stop [JT7Axis],0.0
+12631,302,20.12.2020,E0027,Encoder data change after stop [JT7Axis],0.0
+12633,302,1.02.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+12636,302,28.02.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+12639,302,14.03.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+12642,302,1.05.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+12645,302,12.06.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+12651,302,20.06.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+12654,302,4.08.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+12658,302,10.08.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+12661,302,21.10.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+12664,302,26.01.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+12671,302,10.04.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+12676,302,1.05.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+12677,302,21.05.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+12683,302,19.06.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+12684,302,11.07.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+12780,306,31.05.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+12783,307,26.05.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+12792,307,25.01.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+12794,307,6.02.2022,E0027,Encoder data change after stop [JT1Axis],0.0
+12796,307,6.02.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+12806,307,20.05.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+12817,308,20.06.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+12830,308,1.05.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+12834,308,31.05.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+12848,309,5.07.2020,E0027,Encoder data change after stop [JT7Axis],0.0
+12860,310,20.05.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+12866,311,26.01.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+12889,311,3.04.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+12892,311,16.05.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+12901,311,23.07.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+12902,312,31.08.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+12923,312,20.03.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+12996,313,17.09.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+13018,314,26.08.2021,E0027,Encoder data change after stop [JT1Axis],0.0
+13111,315,9.05.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+13423,322,15.10.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+13430,322,20.03.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+13455,322,19.05.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+13462,323,5.08.2020,E0027,Encoder data change after stop [JT7Axis],0.0
+13470,323,8.03.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+13546,328,11.08.2020,E0027,Encoder data change after stop [JT7Axis],0.0
+13557,328,18.09.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+13788,334,6.03.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+14070,342,25.01.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+14078,346,14.11.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+14079,346,25.01.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+14081,347,4.07.2020,E0027,Encoder data change after stop [JT7Axis],0.0
+14082,347,15.07.2020,E0027,Encoder data change after stop [JT7Axis],0.0
+14084,347,27.12.2020,E0027,Encoder data change after stop [JT7Axis],0.0
+14085,347,25.01.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+14116,350,4.08.2020,E0027,Encoder data change after stop [JT7Axis],0.0
+14129,351,7.03.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+14133,352,7.03.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+14162,355,5.08.2020,E0027,Encoder data change after stop [JT7Axis],0.0
+14343,364,23.04.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+2077,37,20.05.2021,E0025,Encoder Bit jump [J21Axis],0.0
+2079,37,20.05.2021,E0025,????? [J21?],0.0
+2154,39,5.08.2021,E0025,Encoder Bit jump [JT7Axis],0.0
+4421,113,29.07.2022,E0025,Encoder Bit jump [JT8Axis],0.0
+13058,314,11.07.2022,E0025,Encoder Bit jump [JT6Axis],0.0
+2082,37,8.08.2021,E0052,Encoder battery charge low [J22Axis],0.0
+2084,37,8.08.2021,E0052,?????  ??????? [J22?],0.0
+2129,37,9.08.2021,E0052,Encoder battery charge low [J22Axis],0.0
+2130,37,9.08.2021,E0052,?????  ??????? [J22?],0.0
+2166,39,12.08.2021,E0052,Encoder battery charge low [JT7Axis],0.0
+2508,46,6.03.2022,E0052,Encoder battery charge low [JT6Axis],0.0
+2532,46,6.03.2022,E0052,?????  ??????? [JT6?],0.0
+4374,113,30.10.2021,E0052,Encoder battery charge low [JT7Axis],0.0
+6302,147,17.11.2021,E0052,Encoder battery charge low [JT2Axis],0.0
+10023,214,20.02.2022,E0052,Encoder battery charge low [JT3Axis],0.0
+11377,270,16.03.2021,E0052,Encoder battery charge low [JT3Axis],0.0
+11553,277,3.04.2022,E0052,Encoder battery charge low [JT3Axis],0.0
+12843,308,31.05.2022,E0052,Encoder battery charge low [JT2Axis],0.0
+12888,311,27.02.2022,E0052,Encoder battery charge low [JT3Axis],0.0
+12930,312,15.05.2022,E0052,Encoder battery charge low [JT6Axis],0.0
+13159,315,10.03.2022,E0052,Encoder battery charge low [JT7Axis],0.0
+13356,320,19.05.2022,E0052,Encoder battery charge low [JT6Axis],0.0
+13357,320,20.05.2022,E0052,Encoder battery charge low [JT6Axis],0.0
+13485,325,12.03.2022,E0052,Encoder battery charge low [JT7Axis],0.0
+13617,329,5.03.2022,E0052,Encoder battery charge low [JT7Axis],0.0
+13837,336,17.01.2022,E0052,Encoder battery charge low [JT7Axis],0.0
+14136,353,14.05.2021,E0052,Encoder battery charge low [JT5Axis],0.0
+14149,353,14.05.2021,E0052,Encoder battery charge low [JT2Axis],0.0
+14314,359,1.02.2021,E0052,Encoder battery charge low [JT5Axis],0.0
+2507,46,6.03.2022,E1100,Robot monitoring unit Encoder failure.,0.0
+2531,46,6.03.2022,E1100,?????????? ???????,0.0
+3740,94,28.10.2021,E1100,Robot monitoring unit Encoder failure.,0.0
+3747,94,1.11.2021,E1100,Robot monitoring unit Encoder failure.,0.0
+6301,147,17.11.2021,E1100,Robot monitoring unit Encoder failure.,0.0
+10022,214,20.02.2022,E1100,Robot monitoring unit Encoder failure.,0.0
+11376,270,16.03.2021,E1100,Robot monitoring unit Encoder failure.,0.0
+11554,277,3.04.2022,E1100,Robot monitoring unit Encoder failure.,0.0
+12406,297,16.12.2021,E1100,Robot monitoring unit Encoder failure.,0.0
+12842,308,31.05.2022,E1100,Robot monitoring unit Encoder failure.,0.0
+12887,311,27.02.2022,E1100,Robot monitoring unit Encoder failure.,0.0
+12929,312,15.05.2022,E1100,Robot monitoring unit Encoder failure.,0.0
+13341,320,26.02.2021,E1100,Robot monitoring unit Encoder failure.,0.0
+13355,320,19.05.2022,E1100,Robot monitoring unit Encoder failure.,0.0
+13358,320,20.05.2022,E1100,Robot monitoring unit Encoder failure.,0.0
+13549,328,8.11.2020,E1100,Robot monitoring unit Encoder failure.,0.0
+13650,330,8.11.2020,E1100,Robot monitoring unit Encoder failure.,0.0
+13750,331,10.03.2022,E1100,Robot monitoring unit Encoder failure.,0.0
+14135,353,14.05.2021,E1100,Robot monitoring unit Encoder failure.,0.0
+14295,359,31.01.2021,E1100,Robot monitoring unit Encoder failure.,0.0
+14298,359,1.02.2021,E1100,Robot monitoring unit Encoder failure.,0.0
+12487,297,30.03.2022,E0030,Encoder absolute data failure [JT7Axis],0.0
+13138,315,28.02.2022,E0030,Encoder absolute data failure [JT7Axis],0.0
+13142,315,2.03.2022,E0030,Encoder absolute data failure [JT7Axis],0.0
+13478,325,12.03.2022,E0030,Encoder absolute data failure [JT7Axis],0.0
+13573,329,2.03.2022,E0030,Encoder absolute data failure [JT7Axis],0.0
+13588,329,3.03.2022,E0030,Encoder absolute data failure [JT7Axis],0.0
+13604,329,4.03.2022,E0030,Encoder absolute data failure [JT7Axis],0.0
+14334,363,5.05.2022,E0030,Encoder absolute data failure [JT7Axis],0.0
+13474,325,12.03.2022,E0036,Encoder Initialize error [JT7Axis],0.0
+13579,329,2.03.2022,E0036,Encoder Initialize error [JT7Axis],0.0
+13589,329,3.03.2022,E0036,Encoder Initialize error [JT7Axis],0.0
+13607,329,4.03.2022,E0036,Encoder Initialize error [JT7Axis],0.0
+13854,337,9.08.2021,E0036,Encoder Initialize error [JT8Axis],0.0
+14296,359,31.01.2021,E0029,Encoder absolute data error [JT5Axis],0.0
+14299,359,1.02.2021,E0029,Encoder absolute data error [JT5Axis],0.0
+678,10,20.06.2021,E1038,Encoder ABS-track error.( jt  7),0.0
+690,10,21.06.2021,E1038,Encoder ABS-track error.( jt  7),0.0
+782,10,22.06.2021,E1038,Encoder ABS-track error.( jt  7),0.0
+6008,137,11.04.2022,E1038,Encoder ABS-track error.( jt  7),0.0
+8718,185,16.12.2021,E1038,Encoder ABS-track error.( jt  6),0.0
+8762,185,12.04.2022,E1038,Encoder ABS-track error.( jt  6),0.0
+10756,257,30.11.2021,E1038,Encoder ABS-track error.( jt  6),0.0
+10802,257,16.02.2022,E1038,Encoder ABS-track error.( jt  6),0.0
+10818,257,3.03.2022,E1038,Encoder ABS-track error.( jt  6),0.0
+10831,257,28.03.2022,E1038,Encoder ABS-track error.( jt  6),0.0
+10843,257,26.04.2022,E1038,Encoder ABS-track error.( jt  6),0.0
+10856,257,18.07.2022,E1038,Encoder ABS-track error.( jt  6),0.0
+700,10,21.06.2021,E1030,Encoder data is abnormal.( jt  7),0.0
+786,10,22.06.2021,E1030,Encoder data is abnormal.( jt  7),0.0
+3336,66,10.08.2020,E1030,Encoder data is abnormal.( jt  1 2 3 4 5 6),0.0
+4598,125,6.02.2021,E1030,Encoder data is abnormal.( jt  2 5 6),0.0
+7296,164,2.04.2022,E1030,Encoder data is abnormal.( jt  7),0.0
+7767,176,17.11.2021,E1030,Encoder data is abnormal.( jt  1 2 3 4 5 6 7),0.0
+11733,289,10.01.2021,E1030,Encoder data is abnormal.( jt  1 2 3 4 5 6 7),0.0
+11941,293,6.02.2021,E1030,Encoder data is abnormal.( jt  6),0.0
+701,10,21.06.2021,E1034,Encoder initialize error ( jt  7).,0.0
+787,10,22.06.2021,E1034,Encoder initialize error ( jt  7).,0.0
+749,10,21.06.2021,E1035,Encoder response error( Jt  1).,0.0
+756,10,21.06.2021,E1035,Encoder response error( Jt  2).,0.0
+758,10,21.06.2021,E1035,Encoder response error( Jt  2 4).,0.0
+759,10,21.06.2021,E1035,Encoder response error( Jt  2 4 5).,0.0
+760,10,21.06.2021,E1035,Encoder response error( Jt  1 2 4 5 6).,0.0
+761,10,21.06.2021,E1035,Encoder response error( Jt  1 2 3 4 5 6).,0.0
+6525,155,17.04.2022,E1035,Encoder response error( Jt  7).,0.0
+9234,188,20.07.2022,E1035,? 5?????????????????,0.0
+11814,289,20.06.2021,E1035,Encoder response error( Jt  7).,0.0
+750,10,21.06.2021,E9437,[Cubic-S(1)] Encoder communication error in JT1.(code 1DC19900 00000402),0.0
+751,10,21.06.2021,E9437,[Cubic-S(1)] Encoder communication error in JT2.(code 1DC29C00 00000702),0.0
+752,10,21.06.2021,E9437,[Cubic-S(1)] Encoder communication error in JT3.(code 1DC39C00 00000702),0.0
+753,10,21.06.2021,E9437,[Cubic-S(1)] Encoder communication error in JT4.(code 1DC49C00 00000402),0.0
+754,10,21.06.2021,E9437,[Cubic-S(1)] Encoder communication error in JT5.(code 1DC59C00 00001702),0.0
+755,10,21.06.2021,E9437,[Cubic-S(1)] Encoder communication error in JT6.(code 1DC69C00 00000402),0.0
+762,10,21.06.2021,E9437,[Cubic-S(1)] Encoder communication error in JT1.(code 1DC10F00 00000402),0.0
+763,10,21.06.2021,E9437,[Cubic-S(1)] Encoder communication error in JT2.(code 1DC20F00 00000502),0.0
+764,10,21.06.2021,E9437,[Cubic-S(1)] Encoder communication error in JT3.(code 1DC30F00 00000502),0.0
+765,10,21.06.2021,E9437,[Cubic-S(1)] Encoder communication error in JT4.(code 1DC40F00 00003502),0.0
+766,10,21.06.2021,E9437,[Cubic-S(1)] Encoder communication error in JT5.(code 1DC50F00 00003702),0.0
+767,10,21.06.2021,E9437,[Cubic-S(1)] Encoder communication error in JT6.(code 1DC60F00 00001702),0.0
+757,10,21.06.2021,E1036,Encoder communication error.( jt  2) ,0.0
+9236,188,20.07.2022,E1036,? 5???????????????,0.0
+910,17,13.07.2021,E0051,Encoder data transmission failure [JT7Axis],0.0
+3526,67,15.02.2022,E0051,Encoder data transmission failure [JT7Axis],0.0
+3527,67,22.02.2022,E0051,Encoder data transmission failure [JT7Axis],0.0
+3528,67,24.02.2022,E0051,Encoder data transmission failure [JT7Axis],0.0
+3529,67,1.03.2022,E0051,Encoder data transmission failure [JT7Axis],0.0
+3735,94,28.10.2021,E0051,Encoder data transmission failure [JT5Axis],0.0
+3748,94,1.11.2021,E0051,Encoder data transmission failure [JT5Axis],0.0
+3762,94,1.11.2021,E0051,Encoder data transmission failure [JT6Axis],0.0
+3763,94,1.11.2021,E0051,Encoder data transmission failure [JT3Axis],0.0
+3774,94,7.11.2021,E0051,Encoder data transmission failure [JT5Axis],0.0
+4491,117,10.01.2022,E0051,Encoder data transmission failure [JT7Axis],0.0
+4510,119,13.12.2021,E0051,Encoder data transmission failure [JT7Axis],0.0
+4511,119,17.12.2021,E0051,Encoder data transmission failure [JT7Axis],0.0
+4512,119,24.02.2022,E0051,Encoder data transmission failure [JT7Axis],0.0
+4514,119,19.03.2022,E0051,Encoder data transmission failure [JT7Axis],0.0
+4515,119,29.03.2022,E0051,Encoder data transmission failure [JT7Axis],0.0
+4516,119,5.04.2022,E0051,Encoder data transmission failure [JT7Axis],0.0
+4517,119,11.04.2022,E0051,Encoder data transmission failure [JT7Axis],0.0
+4518,119,10.05.2022,E0051,Encoder data transmission failure [JT7Axis],0.0
+4519,119,22.07.2022,E0051,Encoder data transmission failure [JT7Axis],0.0
+11547,277,3.04.2022,E0051,Encoder data transmission failure [JT3Axis],0.0
+12400,297,16.12.2021,E0051,Encoder data transmission failure [JT7Axis],0.0
+12401,297,16.12.2021,E0051,Encoder data transmission failure [JT5Axis],0.0
+12402,297,16.12.2021,E0051,Encoder data transmission failure [JT4Axis],0.0
+12403,297,16.12.2021,E0051,Encoder data transmission failure [JT3Axis],0.0
+12404,297,16.12.2021,E0051,Encoder data transmission failure [JT2Axis],0.0
+12405,297,16.12.2021,E0051,Encoder data transmission failure [JT1Axis],0.0
+12434,297,16.12.2021,E0051,Encoder data transmission failure [JT6Axis],0.0
+12622,301,24.05.2022,E0051,Encoder data transmission failure [JT1Axis],0.0
+12885,311,27.02.2022,E0051,Encoder data transmission failure [JT3Axis],0.0
+13342,320,26.02.2021,E0051,Encoder data transmission failure [JT6Axis],0.0
+13615,329,5.03.2022,E0051,Encoder data transmission failure [JT7Axis],0.0
+13630,330,23.07.2020,E0051,Encoder data transmission failure [JT6Axis],0.0
+13631,330,23.07.2020,E0051,Encoder data transmission failure [JT5Axis],0.0
+13632,330,23.07.2020,E0051,Encoder data transmission failure [JT4Axis],0.0
+13633,330,23.07.2020,E0051,Encoder data transmission failure [JT3Axis],0.0
+13634,330,23.07.2020,E0051,Encoder data transmission failure [JT2Axis],0.0
+13635,330,23.07.2020,E0051,Encoder data transmission failure [JT1Axis],0.0
+13730,331,10.03.2022,E0051,Encoder data transmission failure [JT7Axis],0.0
+13732,331,10.03.2022,E0051,Encoder data transmission failure [JT6Axis],0.0
+13733,331,10.03.2022,E0051,Encoder data transmission failure [JT4Axis],0.0
+13734,331,10.03.2022,E0051,Encoder data transmission failure [JT3Axis],0.0
+13735,331,10.03.2022,E0051,Encoder data transmission failure [JT2Axis],0.0
+13736,331,10.03.2022,E0051,Encoder data transmission failure [JT1Axis],0.0
+13767,333,23.07.2020,E0051,Encoder data transmission failure [JT6Axis],0.0
+13768,333,23.07.2020,E0051,Encoder data transmission failure [JT5Axis],0.0
+13769,333,23.07.2020,E0051,Encoder data transmission failure [JT4Axis],0.0
+13770,333,23.07.2020,E0051,Encoder data transmission failure [JT3Axis],0.0
+13771,333,23.07.2020,E0051,Encoder data transmission failure [JT2Axis],0.0
+13772,333,23.07.2020,E0051,Encoder data transmission failure [JT1Axis],0.0
+14297,359,31.01.2021,E0051,Encoder data transmission failure [JT5Axis],0.0
+14300,359,1.02.2021,E0051,Encoder data transmission failure [JT5Axis],0.0
+1885,33,12.08.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+1943,34,7.08.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+1962,34,6.12.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+2009,34,2.08.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+2011,35,16.01.2021,E0027,Encoder data change after stop [JT1Axis],0.0
+2012,35,30.01.2021,E0027,Encoder data change after stop [JT1Axis],0.0
+2016,35,11.07.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+2017,35,11.07.2021,E0027,???????? [JT7?],0.0
+2018,35,26.08.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+2019,35,26.08.2021,E0027,???????? [JT7?],0.0
+2153,39,5.08.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+2158,39,12.08.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+2171,39,6.12.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+2172,39,5.01.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+2201,40,22.11.2021,E0027,Encoder data change after stop [JT5Axis],0.0
+2202,40,22.11.2021,E0027,Encoder data change after stop [JT4Axis],0.0
+2203,40,22.11.2021,E0027,Encoder data change after stop [JT2Axis],0.0
+2204,40,22.11.2021,E0027,Encoder data change after stop [JT1Axis],0.0
+2205,40,6.12.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+2230,41,2.08.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+2231,41,2.08.2021,E0027,???????? [JT7?],0.0
+2234,41,24.08.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+2235,41,24.08.2021,E0027,???????? [JT7?],0.0
+2236,41,3.10.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+2237,41,3.10.2021,E0027,???????? [JT7?],0.0
+2247,43,5.12.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+2278,43,20.03.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+2285,43,18.05.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+2295,43,5.07.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+2351,45,28.07.2021,E0027,Encoder data change after stop [JT2Axis],0.0
+2363,45,30.11.2021,E0027,Encoder data change after stop [JT2Axis],0.0
+2365,45,29.12.2021,E0027,Encoder data change after stop [JT2Axis],0.0
+2367,45,29.12.2021,E0027,???????? [JT2?],0.0
+2369,45,13.01.2022,E0027,Encoder data change after stop [JT2Axis],0.0
+2371,45,13.01.2022,E0027,???????? [JT2?],0.0
+2377,45,5.02.2022,E0027,Encoder data change after stop [JT2Axis],0.0
+2379,45,5.02.2022,E0027,???????? [JT2?],0.0
+2381,45,28.04.2022,E0027,Encoder data change after stop [JT2Axis],0.0
+2383,45,28.04.2022,E0027,???????? [JT2?],0.0
+2385,45,12.05.2022,E0027,Encoder data change after stop [JT2Axis],0.0
+2387,45,12.05.2022,E0027,???????? [JT2?],0.0
+2397,45,2.06.2022,E0027,???????? [JT2?],0.0
+2399,45,2.06.2022,E0027,Encoder data change after stop [JT2Axis],0.0
+2403,45,25.06.2022,E0027,???????? [JT2?],0.0
+2405,45,25.06.2022,E0027,Encoder data change after stop [JT2Axis],0.0
+2433,46,7.10.2021,E0027,Encoder data change after stop [JT5Axis],0.0
+2438,46,12.10.2021,E0027,Encoder data change after stop [JT5Axis],0.0
+2443,46,22.10.2021,E0027,Encoder data change after stop [JT5Axis],0.0
+2446,46,23.10.2021,E0027,Encoder data change after stop [JT5Axis],0.0
+2451,46,26.10.2021,E0027,Encoder data change after stop [JT5Axis],0.0
+2456,46,28.11.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+2457,46,13.12.2021,E0027,Encoder data change after stop [JT5Axis],0.0
+2459,46,14.12.2021,E0027,Encoder data change after stop [JT5Axis],0.0
+2461,46,20.12.2021,E0027,Encoder data change after stop [JT5Axis],0.0
+2468,46,12.01.2022,E0027,Encoder data change after stop [JT5Axis],0.0
+2470,46,13.01.2022,E0027,Encoder data change after stop [JT5Axis],0.0
+2472,46,18.01.2022,E0027,Encoder data change after stop [JT5Axis],0.0
+2475,46,24.01.2022,E0027,Encoder data change after stop [JT5Axis],0.0
+2480,46,31.01.2022,E0027,Encoder data change after stop [JT5Axis],0.0
+2484,46,1.02.2022,E0027,Encoder data change after stop [JT5Axis],0.0
+2488,46,10.02.2022,E0027,Encoder data change after stop [JT5Axis],0.0
+2490,46,11.02.2022,E0027,Encoder data change after stop [JT5Axis],0.0
+2492,46,14.02.2022,E0027,Encoder data change after stop [JT5Axis],0.0
+2496,46,23.02.2022,E0027,Encoder data change after stop [JT5Axis],0.0
+2498,46,2.03.2022,E0027,Encoder data change after stop [JT5Axis],0.0
+2500,46,4.03.2022,E0027,Encoder data change after stop [JT5Axis],0.0
+2581,46,24.03.2022,E0027,???????? [JT5?],0.0
+2583,46,24.03.2022,E0027,Encoder data change after stop [JT5Axis],0.0
+2585,46,30.03.2022,E0027,???????? [JT5?],0.0
+2587,46,30.03.2022,E0027,Encoder data change after stop [JT5Axis],0.0
+2589,46,1.04.2022,E0027,???????? [JT5?],0.0
+2591,46,1.04.2022,E0027,Encoder data change after stop [JT5Axis],0.0
+2597,46,7.04.2022,E0027,???????? [JT5?],0.0
+2599,46,7.04.2022,E0027,Encoder data change after stop [JT5Axis],0.0
+2601,46,13.04.2022,E0027,???????? [JT5?],0.0
+2603,46,13.04.2022,E0027,Encoder data change after stop [JT5Axis],0.0
+2605,46,14.04.2022,E0027,???????? [JT5?],0.0
+2607,46,14.04.2022,E0027,Encoder data change after stop [JT5Axis],0.0
+2609,46,18.04.2022,E0027,???????? [JT5?],0.0
+2611,46,18.04.2022,E0027,Encoder data change after stop [JT5Axis],0.0
+2617,46,22.04.2022,E0027,Encoder data change after stop [JT5Axis],0.0
+2619,46,22.04.2022,E0027,???????? [JT5?],0.0
+2627,46,12.05.2022,E0027,Encoder data change after stop [JT5Axis],0.0
+2629,46,12.05.2022,E0027,???????? [JT5?],0.0
+2631,46,2.06.2022,E0027,???????? [JT5?],0.0
+2633,46,2.06.2022,E0027,Encoder data change after stop [JT5Axis],0.0
+2641,46,22.06.2022,E0027,???????? [JT5?],0.0
+2643,46,22.06.2022,E0027,Encoder data change after stop [JT5Axis],0.0
+2645,46,23.06.2022,E0027,???????? [JT5?],0.0
+2647,46,23.06.2022,E0027,Encoder data change after stop [JT5Axis],0.0
+2651,46,18.07.2022,E0027,???????? [JT5?],0.0
+2653,46,18.07.2022,E0027,Encoder data change after stop [JT5Axis],0.0
+2657,46,26.07.2022,E0027,???????? [JT5?],0.0
+2659,46,26.07.2022,E0027,Encoder data change after stop [JT5Axis],0.0
+2669,46,31.07.2022,E0027,???????? [JT1?],0.0
+2670,46,31.07.2022,E0027,Encoder data change after stop [JT1Axis],0.0
+2789,50,9.05.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+2795,50,9.01.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+2802,50,9.03.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+2819,51,15.05.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+2835,51,1.05.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+2840,52,9.05.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+2848,53,5.12.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+2849,53,5.12.2021,E0027,???????? [JT7?],0.0
+2870,53,8.03.2022,E0027,???????? [JT7?],0.0
+2871,53,8.03.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+2891,54,1.08.2021,E0027,Encoder data change after stop [JT1Axis],0.0
+3075,59,25.08.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+3079,59,6.12.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+3080,59,7.03.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+3081,59,1.05.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+3702,92,29.11.2020,E0027,Encoder data change after stop [JT1Axis],0.0
+3711,92,20.06.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+3819,100,7.03.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+3845,104,20.03.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+3850,105,26.09.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+4419,113,14.11.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+4492,117,17.03.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+4521,122,4.08.2020,E0027,Encoder data change after stop [JT7Axis],0.0
+4524,122,4.12.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+6314,149,1.05.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+6318,149,1.08.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+6331,151,9.09.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+6340,152,2.10.2020,E0027,Encoder data change after stop [JT7Axis],0.0
+6341,152,17.12.2020,E0027,Encoder data change after stop [JT7Axis],0.0
+9973,211,2.08.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+9975,211,6.12.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+9977,212,2.08.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+9987,214,2.08.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+10051,214,23.04.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+10065,215,15.03.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+10231,232,10.08.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+10241,236,9.05.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+10255,236,7.11.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+11166,262,6.12.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+11364,267,11.07.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+12387,295,8.07.2022,E0027,Encoder data change after stop [JT1Axis],0.0
+12399,295,13.07.2022,E0027,Encoder data change after stop [JT1Axis],0.0
+12590,301,6.07.2020,E0027,Encoder data change after stop [JT7Axis],0.0
+12624,302,5.07.2020,E0027,Encoder data change after stop [JT7Axis],0.0
+12627,302,13.09.2020,E0027,Encoder data change after stop [JT7Axis],0.0
+12628,302,8.11.2020,E0027,Encoder data change after stop [JT7Axis],0.0
+12630,302,15.11.2020,E0027,Encoder data change after stop [JT7Axis],0.0
+12631,302,20.12.2020,E0027,Encoder data change after stop [JT7Axis],0.0
+12633,302,1.02.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+12636,302,28.02.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+12639,302,14.03.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+12642,302,1.05.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+12645,302,12.06.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+12651,302,20.06.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+12654,302,4.08.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+12658,302,10.08.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+12661,302,21.10.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+12664,302,26.01.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+12671,302,10.04.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+12676,302,1.05.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+12677,302,21.05.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+12683,302,19.06.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+12684,302,11.07.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+12780,306,31.05.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+12783,307,26.05.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+12792,307,25.01.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+12794,307,6.02.2022,E0027,Encoder data change after stop [JT1Axis],0.0
+12796,307,6.02.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+12806,307,20.05.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+12817,308,20.06.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+12830,308,1.05.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+12834,308,31.05.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+12848,309,5.07.2020,E0027,Encoder data change after stop [JT7Axis],0.0
+12860,310,20.05.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+12866,311,26.01.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+12889,311,3.04.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+12892,311,16.05.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+12901,311,23.07.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+12902,312,31.08.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+12923,312,20.03.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+12996,313,17.09.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+13018,314,26.08.2021,E0027,Encoder data change after stop [JT1Axis],0.0
+13111,315,9.05.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+13423,322,15.10.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+13430,322,20.03.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+13455,322,19.05.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+13462,323,5.08.2020,E0027,Encoder data change after stop [JT7Axis],0.0
+13470,323,8.03.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+13546,328,11.08.2020,E0027,Encoder data change after stop [JT7Axis],0.0
+13557,328,18.09.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+13788,334,6.03.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+14070,342,25.01.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+14078,346,14.11.2021,E0027,Encoder data change after stop [JT7Axis],0.0
+14079,346,25.01.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+14081,347,4.07.2020,E0027,Encoder data change after stop [JT7Axis],0.0
+14082,347,15.07.2020,E0027,Encoder data change after stop [JT7Axis],0.0
+14084,347,27.12.2020,E0027,Encoder data change after stop [JT7Axis],0.0
+14085,347,25.01.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+14116,350,4.08.2020,E0027,Encoder data change after stop [JT7Axis],0.0
+14129,351,7.03.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+14133,352,7.03.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+14162,355,5.08.2020,E0027,Encoder data change after stop [JT7Axis],0.0
+14343,364,23.04.2022,E0027,Encoder data change after stop [JT7Axis],0.0
+2077,37,20.05.2021,E0025,Encoder Bit jump [J21Axis],0.0
+2079,37,20.05.2021,E0025,????? [J21?],0.0
+2154,39,5.08.2021,E0025,Encoder Bit jump [JT7Axis],0.0
+4421,113,29.07.2022,E0025,Encoder Bit jump [JT8Axis],0.0
+13058,314,11.07.2022,E0025,Encoder Bit jump [JT6Axis],0.0
+2082,37,8.08.2021,E0052,Encoder battery charge low [J22Axis],0.0
+2084,37,8.08.2021,E0052,?????  ??????? [J22?],0.0
+2129,37,9.08.2021,E0052,Encoder battery charge low [J22Axis],0.0
+2130,37,9.08.2021,E0052,?????  ??????? [J22?],0.0
+2166,39,12.08.2021,E0052,Encoder battery charge low [JT7Axis],0.0
+2508,46,6.03.2022,E0052,Encoder battery charge low [JT6Axis],0.0
+2532,46,6.03.2022,E0052,?????  ??????? [JT6?],0.0
+4374,113,30.10.2021,E0052,Encoder battery charge low [JT7Axis],0.0
+6302,147,17.11.2021,E0052,Encoder battery charge low [JT2Axis],0.0
+10023,214,20.02.2022,E0052,Encoder battery charge low [JT3Axis],0.0
+11377,270,16.03.2021,E0052,Encoder battery charge low [JT3Axis],0.0
+11553,277,3.04.2022,E0052,Encoder battery charge low [JT3Axis],0.0
+12843,308,31.05.2022,E0052,Encoder battery charge low [JT2Axis],0.0
+12888,311,27.02.2022,E0052,Encoder battery charge low [JT3Axis],0.0
+12930,312,15.05.2022,E0052,Encoder battery charge low [JT6Axis],0.0
+13159,315,10.03.2022,E0052,Encoder battery charge low [JT7Axis],0.0
+13356,320,19.05.2022,E0052,Encoder battery charge low [JT6Axis],0.0
+13357,320,20.05.2022,E0052,Encoder battery charge low [JT6Axis],0.0
+13485,325,12.03.2022,E0052,Encoder battery charge low [JT7Axis],0.0
+13617,329,5.03.2022,E0052,Encoder battery charge low [JT7Axis],0.0
+13837,336,17.01.2022,E0052,Encoder battery charge low [JT7Axis],0.0
+14136,353,14.05.2021,E0052,Encoder battery charge low [JT5Axis],0.0
+14149,353,14.05.2021,E0052,Encoder battery charge low [JT2Axis],0.0
+14314,359,1.02.2021,E0052,Encoder battery charge low [JT5Axis],0.0
+2507,46,6.03.2022,E1100,Robot monitoring unit Encoder failure.,0.0
+2531,46,6.03.2022,E1100,?????????? ???????,0.0
+3740,94,28.10.2021,E1100,Robot monitoring unit Encoder failure.,0.0
+3747,94,1.11.2021,E1100,Robot monitoring unit Encoder failure.,0.0
+6301,147,17.11.2021,E1100,Robot monitoring unit Encoder failure.,0.0
+10022,214,20.02.2022,E1100,Robot monitoring unit Encoder failure.,0.0
+11376,270,16.03.2021,E1100,Robot monitoring unit Encoder failure.,0.0
+11554,277,3.04.2022,E1100,Robot monitoring unit Encoder failure.,0.0
+12406,297,16.12.2021,E1100,Robot monitoring unit Encoder failure.,0.0
+12842,308,31.05.2022,E1100,Robot monitoring unit Encoder failure.,0.0
+12887,311,27.02.2022,E1100,Robot monitoring unit Encoder failure.,0.0
+12929,312,15.05.2022,E1100,Robot monitoring unit Encoder failure.,0.0
+13341,320,26.02.2021,E1100,Robot monitoring unit Encoder failure.,0.0
+13355,320,19.05.2022,E1100,Robot monitoring unit Encoder failure.,0.0
+13358,320,20.05.2022,E1100,Robot monitoring unit Encoder failure.,0.0
+13549,328,8.11.2020,E1100,Robot monitoring unit Encoder failure.,0.0
+13650,330,8.11.2020,E1100,Robot monitoring unit Encoder failure.,0.0
+13750,331,10.03.2022,E1100,Robot monitoring unit Encoder failure.,0.0
+14135,353,14.05.2021,E1100,Robot monitoring unit Encoder failure.,0.0
+14295,359,31.01.2021,E1100,Robot monitoring unit Encoder failure.,0.0
+14298,359,1.02.2021,E1100,Robot monitoring unit Encoder failure.,0.0
+12487,297,30.03.2022,E0030,Encoder absolute data failure [JT7Axis],0.0
+13138,315,28.02.2022,E0030,Encoder absolute data failure [JT7Axis],0.0
+13142,315,2.03.2022,E0030,Encoder absolute data failure [JT7Axis],0.0
+13478,325,12.03.2022,E0030,Encoder absolute data failure [JT7Axis],0.0
+13573,329,2.03.2022,E0030,Encoder absolute data failure [JT7Axis],0.0
+13588,329,3.03.2022,E0030,Encoder absolute data failure [JT7Axis],0.0
+13604,329,4.03.2022,E0030,Encoder absolute data failure [JT7Axis],0.0
+14334,363,5.05.2022,E0030,Encoder absolute data failure [JT7Axis],0.0
+13474,325,12.03.2022,E0036,Encoder Initialize error [JT7Axis],0.0
+13579,329,2.03.2022,E0036,Encoder Initialize error [JT7Axis],0.0
+13589,329,3.03.2022,E0036,Encoder Initialize error [JT7Axis],0.0
+13607,329,4.03.2022,E0036,Encoder Initialize error [JT7Axis],0.0
+13854,337,9.08.2021,E0036,Encoder Initialize error [JT8Axis],0.0
+14296,359,31.01.2021,E0029,Encoder absolute data error [JT5Axis],0.0
+14299,359,1.02.2021,E0029,Encoder absolute data error [JT5Axis],0.0
+3999,111,6.02.2021,E1028,Jt 3 motor overloaded.,1.0
+4009,111,6.02.2021,E1028,Jt 5 motor overloaded.,1.0
+4033,111,27.06.2021,E1028,Jt 2 motor overloaded.,1.0
+4340,111,2.08.2022,E1028,Jt 5 motor overloaded.,1.0
+4542,125,13.07.2020,E1028,Jt 7 motor overloaded.,1.0
+4658,125,28.03.2022,E1028,Jt 4 motor overloaded.,1.0
+4769,126,7.05.2021,E1028,Jt 7 motor overloaded.,1.0
+4772,126,18.05.2021,E1028,Jt 7 motor overloaded.,1.0
+4827,126,8.06.2021,E1028,Jt 7 motor overloaded.,1.0
+4835,126,21.06.2021,E1028,Jt 7 motor overloaded.,1.0
+4836,126,22.06.2021,E1028,Jt 7 motor overloaded.,1.0
+4841,126,25.06.2021,E1028,Jt 7 motor overloaded.,1.0
+4843,126,27.06.2021,E1028,Jt 7 motor overloaded.,1.0
+4844,126,29.06.2021,E1028,Jt 7 motor overloaded.,1.0
+4849,126,9.07.2021,E1028,Jt 7 motor overloaded.,1.0
+4856,126,28.07.2021,E1028,Jt 7 motor overloaded.,1.0
+4860,126,31.07.2021,E1028,Jt 7 motor overloaded.,1.0
+4861,126,17.08.2021,E1028,Jt 7 motor overloaded.,1.0
+4869,126,5.09.2021,E1028,Jt 7 motor overloaded.,1.0
+4887,126,26.10.2021,E1028,Jt 7 motor overloaded.,1.0
+4889,126,3.11.2021,E1028,Jt 7 motor overloaded.,1.0
+4893,126,6.11.2021,E1028,Jt 7 motor overloaded.,1.0
+4914,126,30.11.2021,E1028,Jt 7 motor overloaded.,1.0
+4923,126,9.12.2021,E1028,Jt 7 motor overloaded.,1.0
+4930,126,14.12.2021,E1028,Jt 7 motor overloaded.,1.0
+4961,126,18.01.2022,E1028,Jt 7 motor overloaded.,1.0
+4979,126,31.01.2022,E1028,Jt 7 motor overloaded.,1.0
+4980,126,4.02.2022,E1028,Jt 7 motor overloaded.,1.0
+4984,126,11.02.2022,E1028,Jt 7 motor overloaded.,1.0
+4991,126,14.02.2022,E1028,Jt 7 motor overloaded.,1.0
+5009,126,24.02.2022,E1028,Jt 7 motor overloaded.,1.0
+5018,126,4.03.2022,E1028,Jt 7 motor overloaded.,1.0
+5022,126,5.03.2022,E1028,Jt 7 motor overloaded.,1.0
+5026,126,16.03.2022,E1028,Jt 7 motor overloaded.,1.0
+5034,126,28.03.2022,E1028,Jt 7 motor overloaded.,1.0
+5035,126,31.03.2022,E1028,Jt 7 motor overloaded.,1.0
+5039,126,1.04.2022,E1028,Jt 7 motor overloaded.,1.0
+5041,126,2.04.2022,E1028,Jt 7 motor overloaded.,1.0
+5045,126,6.04.2022,E1028,Jt 7 motor overloaded.,1.0
+5053,126,27.04.2022,E1028,Jt 7 motor overloaded.,1.0
+5055,126,29.04.2022,E1028,Jt 7 motor overloaded.,1.0
+5057,126,30.04.2022,E1028,Jt 7 motor overloaded.,1.0
+5061,126,9.05.2022,E1028,Jt 7 motor overloaded.,1.0
+5065,126,25.05.2022,E1028,Jt 7 motor overloaded.,1.0
+5090,126,15.06.2022,E1028,Jt 7 motor overloaded.,1.0
+5093,126,18.06.2022,E1028,Jt 7 motor overloaded.,1.0
+5106,126,30.06.2022,E1028,Jt 7 motor overloaded.,1.0
+5138,126,20.07.2022,E1028,Jt 7 motor overloaded.,1.0
+5142,126,25.07.2022,E1028,Jt 7 motor overloaded.,1.0
+5154,127,2.10.2020,E1028,Jt 7 motor overloaded.,1.0
+5254,127,20.09.2021,E1028,Jt 7 motor overloaded.,1.0
+5272,127,2.10.2021,E1028,Jt 7 motor overloaded.,1.0
+5275,127,31.10.2021,E1028,Jt 4 motor overloaded.,1.0
+5353,132,21.05.2021,E1028,Jt 7 motor overloaded.,1.0
+5373,132,30.06.2021,E1028,Jt 7 motor overloaded.,1.0
+5376,132,17.07.2021,E1028,Jt 7 motor overloaded.,1.0
+5379,132,28.07.2021,E1028,Jt 7 motor overloaded.,1.0
+5380,132,17.08.2021,E1028,Jt 7 motor overloaded.,1.0
+5388,132,11.10.2021,E1028,Jt 7 motor overloaded.,1.0
+5395,132,28.10.2021,E1028,Jt 7 motor overloaded.,1.0
+5397,132,31.10.2021,E1028,Jt 7 motor overloaded.,1.0
+5401,132,19.11.2021,E1028,Jt 7 motor overloaded.,1.0
+5410,132,14.12.2021,E1028,Jt 7 motor overloaded.,1.0
+5411,132,15.12.2021,E1028,Jt 7 motor overloaded.,1.0
+5413,132,16.12.2021,E1028,Jt 7 motor overloaded.,1.0
+5415,132,17.12.2021,E1028,Jt 7 motor overloaded.,1.0
+5417,132,24.12.2021,E1028,Jt 7 motor overloaded.,1.0
+5426,132,30.12.2021,E1028,Jt 7 motor overloaded.,1.0
+5431,132,29.01.2022,E1028,Jt 7 motor overloaded.,1.0
+5432,132,10.02.2022,E1028,Jt 7 motor overloaded.,1.0
+5457,132,23.06.2022,E1028,Jt 7 motor overloaded.,1.0
+5463,132,30.06.2022,E1028,Jt 7 motor overloaded.,1.0
+5464,132,1.07.2022,E1028,Jt 7 motor overloaded.,1.0
+5489,132,29.07.2022,E1028,Jt 7 motor overloaded.,1.0
+5499,133,21.07.2020,E1028,Jt 7 motor overloaded.,1.0
+5502,133,18.08.2020,E1028,Jt 7 motor overloaded.,1.0
+5511,133,3.09.2020,E1028,Jt 7 motor overloaded.,1.0
+5519,133,18.09.2020,E1028,Jt 7 motor overloaded.,1.0
+5523,133,22.09.2020,E1028,Jt 7 motor overloaded.,1.0
+5525,133,23.09.2020,E1028,Jt 7 motor overloaded.,1.0
+5528,133,30.09.2020,E1028,Jt 7 motor overloaded.,1.0
+5531,133,3.10.2020,E1028,Jt 7 motor overloaded.,1.0
+5533,133,17.10.2020,E1028,Jt 7 motor overloaded.,1.0
+5542,133,8.11.2020,E1028,Jt 7 motor overloaded.,1.0
+5543,133,10.11.2020,E1028,Jt 7 motor overloaded.,1.0
+5547,133,20.11.2020,E1028,Jt 7 motor overloaded.,1.0
+5549,133,28.11.2020,E1028,Jt 7 motor overloaded.,1.0
+5552,133,10.12.2020,E1028,Jt 7 motor overloaded.,1.0
+5555,133,23.12.2020,E1028,Jt 7 motor overloaded.,1.0
+5573,133,8.01.2021,E1028,Jt 7 motor overloaded.,1.0
+5574,133,9.01.2021,E1028,Jt 7 motor overloaded.,1.0
+5576,133,12.01.2021,E1028,Jt 7 motor overloaded.,1.0
+5577,133,17.01.2021,E1028,Jt 7 motor overloaded.,1.0
+5580,133,28.01.2021,E1028,Jt 7 motor overloaded.,1.0
+5581,133,29.01.2021,E1028,Jt 7 motor overloaded.,1.0
+5582,133,30.01.2021,E1028,Jt 7 motor overloaded.,1.0
+5632,133,15.10.2021,E1028,Jt 7 motor overloaded.,1.0
+5635,133,27.10.2021,E1028,Jt 7 motor overloaded.,1.0
+5636,133,13.11.2021,E1028,Jt 7 motor overloaded.,1.0
+5642,133,30.12.2021,E1028,Jt 7 motor overloaded.,1.0
+5643,133,6.01.2022,E1028,Jt 7 motor overloaded.,1.0
+5656,133,22.02.2022,E1028,Jt 7 motor overloaded.,1.0
+5667,133,16.03.2022,E1028,Jt 7 motor overloaded.,1.0
+5681,133,12.04.2022,E1028,Jt 7 motor overloaded.,1.0
+5719,135,19.08.2020,E1028,Jt 7 motor overloaded.,1.0
+5731,135,11.11.2020,E1028,Jt 7 motor overloaded.,1.0
+5734,135,3.12.2020,E1028,Jt 7 motor overloaded.,1.0
+5736,135,22.12.2020,E1028,Jt 7 motor overloaded.,1.0
+5752,135,21.01.2021,E1028,Jt 7 motor overloaded.,1.0
+5756,135,21.04.2021,E1028,Jt 7 motor overloaded.,1.0
+5849,135,13.01.2022,E1028,Jt 7 motor overloaded.,1.0
+5850,135,14.01.2022,E1028,Jt 7 motor overloaded.,1.0
+5859,135,22.03.2022,E1028,Jt 7 motor overloaded.,1.0
+5866,135,5.05.2022,E1028,Jt 7 motor overloaded.,1.0
+5867,135,6.05.2022,E1028,Jt 7 motor overloaded.,1.0
+5870,135,24.05.2022,E1028,Jt 7 motor overloaded.,1.0
+6007,137,24.03.2022,E1028,Jt 7 motor overloaded.,1.0
+6115,138,27.07.2021,E1028,Jt 7 motor overloaded.,1.0
+6120,138,16.10.2021,E1028,Jt 7 motor overloaded.,1.0
+6157,138,13.04.2022,E1028,Jt 7 motor overloaded.,1.0
+6158,138,30.04.2022,E1028,Jt 7 motor overloaded.,1.0
+6162,138,15.06.2022,E1028,Jt 7 motor overloaded.,1.0
+6575,157,18.09.2020,E1028,Jt 7 motor overloaded.,1.0
+6579,157,6.10.2020,E1028,Jt 7 motor overloaded.,1.0
+6581,157,11.10.2020,E1028,Jt 7 motor overloaded.,1.0
+6583,157,12.10.2020,E1028,Jt 7 motor overloaded.,1.0
+6584,157,13.10.2020,E1028,Jt 7 motor overloaded.,1.0
+6585,157,15.10.2020,E1028,Jt 7 motor overloaded.,1.0
+6586,157,16.10.2020,E1028,Jt 7 motor overloaded.,1.0
+6587,157,17.10.2020,E1028,Jt 7 motor overloaded.,1.0
+6588,157,22.10.2020,E1028,Jt 7 motor overloaded.,1.0
+6596,157,24.10.2020,E1028,Jt 7 motor overloaded.,1.0
+6597,157,26.10.2020,E1028,Jt 7 motor overloaded.,1.0
+6601,157,31.10.2020,E1028,Jt 7 motor overloaded.,1.0
+6604,157,12.11.2020,E1028,Jt 7 motor overloaded.,1.0
+6606,157,14.11.2020,E1028,Jt 7 motor overloaded.,1.0
+6609,157,25.11.2020,E1028,Jt 7 motor overloaded.,1.0
+6616,157,12.12.2020,E1028,Jt 7 motor overloaded.,1.0
+6618,157,14.12.2020,E1028,Jt 7 motor overloaded.,1.0
+6621,157,25.12.2020,E1028,Jt 7 motor overloaded.,1.0
+6624,157,6.01.2021,E1028,Jt 7 motor overloaded.,1.0
+6627,157,12.01.2021,E1028,Jt 7 motor overloaded.,1.0
+6629,157,13.01.2021,E1028,Jt 7 motor overloaded.,1.0
+6630,157,25.01.2021,E1028,Jt 7 motor overloaded.,1.0
+6631,157,29.01.2021,E1028,Jt 7 motor overloaded.,1.0
+6635,157,8.02.2021,E1028,Jt 7 motor overloaded.,1.0
+6636,157,9.02.2021,E1028,Jt 7 motor overloaded.,1.0
+6639,157,13.02.2021,E1028,Jt 7 motor overloaded.,1.0
+6640,157,22.02.2021,E1028,Jt 7 motor overloaded.,1.0
+6643,157,24.02.2021,E1028,Jt 7 motor overloaded.,1.0
+6645,157,25.02.2021,E1028,Jt 7 motor overloaded.,1.0
+6672,157,12.04.2021,E1028,Jt 7 motor overloaded.,1.0
+6674,157,13.04.2021,E1028,Jt 7 motor overloaded.,1.0
+6675,157,14.04.2021,E1028,Jt 7 motor overloaded.,1.0
+6678,157,15.04.2021,E1028,Jt 7 motor overloaded.,1.0
+6679,157,25.04.2021,E1028,Jt 7 motor overloaded.,1.0
+6680,157,26.04.2021,E1028,Jt 7 motor overloaded.,1.0
+6681,157,27.04.2021,E1028,Jt 7 motor overloaded.,1.0
+6682,157,28.04.2021,E1028,Jt 7 motor overloaded.,1.0
+6683,157,29.04.2021,E1028,Jt 7 motor overloaded.,1.0
+6686,157,3.05.2021,E1028,Jt 7 motor overloaded.,1.0
+6691,157,4.05.2021,E1028,Jt 7 motor overloaded.,1.0
+6692,157,6.05.2021,E1028,Jt 7 motor overloaded.,1.0
+6694,157,7.05.2021,E1028,Jt 7 motor overloaded.,1.0
+6696,157,8.05.2021,E1028,Jt 7 motor overloaded.,1.0
+6697,157,24.05.2021,E1028,Jt 7 motor overloaded.,1.0
+6698,157,26.05.2021,E1028,Jt 7 motor overloaded.,1.0
+6699,157,29.05.2021,E1028,Jt 7 motor overloaded.,1.0
+6700,157,1.06.2021,E1028,Jt 7 motor overloaded.,1.0
+6702,157,8.06.2021,E1028,Jt 7 motor overloaded.,1.0
+6703,157,9.06.2021,E1028,Jt 7 motor overloaded.,1.0
+6704,157,18.06.2021,E1028,Jt 7 motor overloaded.,1.0
+6706,157,22.06.2021,E1028,Jt 7 motor overloaded.,1.0
+6707,157,28.06.2021,E1028,Jt 7 motor overloaded.,1.0
+6708,157,1.07.2021,E1028,Jt 7 motor overloaded.,1.0
+6709,157,2.07.2021,E1028,Jt 7 motor overloaded.,1.0
+6710,157,5.07.2021,E1028,Jt 7 motor overloaded.,1.0
+6712,157,14.07.2021,E1028,Jt 7 motor overloaded.,1.0
+6718,157,16.07.2021,E1028,Jt 7 motor overloaded.,1.0
+6719,157,17.07.2021,E1028,Jt 7 motor overloaded.,1.0
+6721,157,26.07.2021,E1028,Jt 7 motor overloaded.,1.0
+6722,157,27.07.2021,E1028,Jt 7 motor overloaded.,1.0
+6723,157,28.07.2021,E1028,Jt 7 motor overloaded.,1.0
+6725,157,29.07.2021,E1028,Jt 7 motor overloaded.,1.0
+6730,157,30.07.2021,E1028,Jt 7 motor overloaded.,1.0
+6735,157,7.09.2021,E1028,Jt 7 motor overloaded.,1.0
+6741,157,8.09.2021,E1028,Jt 7 motor overloaded.,1.0
+6742,157,10.09.2021,E1028,Jt 7 motor overloaded.,1.0
+6743,157,14.09.2021,E1028,Jt 7 motor overloaded.,1.0
+6747,157,15.09.2021,E1028,Jt 7 motor overloaded.,1.0
+6749,157,16.09.2021,E1028,Jt 7 motor overloaded.,1.0
+6750,157,20.09.2021,E1028,Jt 7 motor overloaded.,1.0
+6752,157,9.10.2021,E1028,Jt 7 motor overloaded.,1.0
+6753,157,25.10.2021,E1028,Jt 7 motor overloaded.,1.0
+6755,157,4.11.2021,E1028,Jt 7 motor overloaded.,1.0
+6756,157,6.11.2021,E1028,Jt 7 motor overloaded.,1.0
+6759,157,19.11.2021,E1028,Jt 7 motor overloaded.,1.0
+6760,157,29.11.2021,E1028,Jt 7 motor overloaded.,1.0
+6761,157,2.12.2021,E1028,Jt 7 motor overloaded.,1.0
+6763,157,8.12.2021,E1028,Jt 7 motor overloaded.,1.0
+6764,157,9.12.2021,E1028,Jt 7 motor overloaded.,1.0
+6765,157,10.12.2021,E1028,Jt 7 motor overloaded.,1.0
+6767,157,15.12.2021,E1028,Jt 7 motor overloaded.,1.0
+6769,157,16.12.2021,E1028,Jt 7 motor overloaded.,1.0
+6770,157,25.12.2021,E1028,Jt 7 motor overloaded.,1.0
+6771,157,30.12.2021,E1028,Jt 7 motor overloaded.,1.0
+6773,157,4.01.2022,E1028,Jt 7 motor overloaded.,1.0
+6776,157,11.01.2022,E1028,Jt 7 motor overloaded.,1.0
+6782,157,21.01.2022,E1028,Jt 7 motor overloaded.,1.0
+6785,157,21.01.2022,E1028,Jt 5 motor overloaded.,1.0
+6787,157,12.02.2022,E1028,Jt 7 motor overloaded.,1.0
+6788,157,24.02.2022,E1028,Jt 7 motor overloaded.,1.0
+6789,157,4.03.2022,E1028,Jt 7 motor overloaded.,1.0
+6791,157,17.03.2022,E1028,Jt 7 motor overloaded.,1.0
+6799,157,30.03.2022,E1028,Jt 7 motor overloaded.,1.0
+6805,157,6.04.2022,E1028,Jt 7 motor overloaded.,1.0
+6806,157,8.04.2022,E1028,Jt 7 motor overloaded.,1.0
+6808,157,12.04.2022,E1028,Jt 7 motor overloaded.,1.0
+6809,157,13.04.2022,E1028,Jt 7 motor overloaded.,1.0
+6811,157,21.04.2022,E1028,Jt 7 motor overloaded.,1.0
+6812,157,26.04.2022,E1028,Jt 7 motor overloaded.,1.0
+6814,157,27.04.2022,E1028,Jt 7 motor overloaded.,1.0
+6816,157,30.04.2022,E1028,Jt 7 motor overloaded.,1.0
+6818,157,5.05.2022,E1028,Jt 7 motor overloaded.,1.0
+6819,157,7.05.2022,E1028,Jt 7 motor overloaded.,1.0
+6821,157,9.05.2022,E1028,Jt 7 motor overloaded.,1.0
+6824,157,11.05.2022,E1028,Jt 7 motor overloaded.,1.0
+6828,157,13.05.2022,E1028,Jt 7 motor overloaded.,1.0
+6829,157,27.05.2022,E1028,Jt 7 motor overloaded.,1.0
+6830,157,28.05.2022,E1028,Jt 7 motor overloaded.,1.0
+6831,157,2.06.2022,E1028,Jt 7 motor overloaded.,1.0
+6835,157,4.06.2022,E1028,Jt 7 motor overloaded.,1.0
+6837,157,8.06.2022,E1028,Jt 7 motor overloaded.,1.0
+6841,157,17.06.2022,E1028,Jt 7 motor overloaded.,1.0
+6844,157,23.06.2022,E1028,Jt 7 motor overloaded.,1.0
+6847,157,25.06.2022,E1028,Jt 7 motor overloaded.,1.0
+6848,157,28.06.2022,E1028,Jt 7 motor overloaded.,1.0
+6850,157,29.06.2022,E1028,Jt 7 motor overloaded.,1.0
+6851,157,30.06.2022,E1028,Jt 7 motor overloaded.,1.0
+6853,157,22.07.2022,E1028,Jt 7 motor overloaded.,1.0
+6854,157,28.07.2022,E1028,Jt 7 motor overloaded.,1.0
+6950,164,18.07.2020,E1028,Jt 7 motor overloaded.,1.0
+6957,164,15.08.2020,E1028,Jt 7 motor overloaded.,1.0
+6958,164,18.08.2020,E1028,Jt 7 motor overloaded.,1.0
+6959,164,22.08.2020,E1028,Jt 7 motor overloaded.,1.0
+6964,164,2.09.2020,E1028,Jt 7 motor overloaded.,1.0
+6965,164,19.09.2020,E1028,Jt 7 motor overloaded.,1.0
+6967,164,23.09.2020,E1028,Jt 7 motor overloaded.,1.0
+6968,164,27.09.2020,E1028,Jt 7 motor overloaded.,1.0
+6970,164,14.10.2020,E1028,Jt 7 motor overloaded.,1.0
+6971,164,16.10.2020,E1028,Jt 7 motor overloaded.,1.0
+6972,164,26.10.2020,E1028,Jt 7 motor overloaded.,1.0
+6976,164,1.12.2020,E1028,Jt 7 motor overloaded.,1.0
+6980,164,22.12.2020,E1028,Jt 7 motor overloaded.,1.0
+6982,164,7.01.2021,E1028,Jt 7 motor overloaded.,1.0
+6991,164,27.01.2021,E1028,Jt 7 motor overloaded.,1.0
+7014,164,20.02.2021,E1028,Jt 7 motor overloaded.,1.0
+7015,164,27.02.2021,E1028,Jt 7 motor overloaded.,1.0
+7018,164,10.03.2021,E1028,Jt 7 motor overloaded.,1.0
+7022,164,10.04.2021,E1028,Jt 7 motor overloaded.,1.0
+7023,164,17.04.2021,E1028,Jt 7 motor overloaded.,1.0
+7072,164,17.05.2021,E1028,Jt 7 motor overloaded.,1.0
+7074,164,24.05.2021,E1028,Jt 7 motor overloaded.,1.0
+7075,164,25.05.2021,E1028,Jt 7 motor overloaded.,1.0
+7076,164,26.05.2021,E1028,Jt 7 motor overloaded.,1.0
+7077,164,28.05.2021,E1028,Jt 7 motor overloaded.,1.0
+7078,164,1.06.2021,E1028,Jt 7 motor overloaded.,1.0
+7081,164,10.06.2021,E1028,Jt 7 motor overloaded.,1.0
+7083,164,15.06.2021,E1028,Jt 7 motor overloaded.,1.0
+7084,164,16.06.2021,E1028,Jt 7 motor overloaded.,1.0
+7085,164,17.06.2021,E1028,Jt 7 motor overloaded.,1.0
+7088,164,25.06.2021,E1028,Jt 7 motor overloaded.,1.0
+7089,164,28.06.2021,E1028,Jt 7 motor overloaded.,1.0
+7091,164,2.07.2021,E1028,Jt 7 motor overloaded.,1.0
+7093,164,5.07.2021,E1028,Jt 7 motor overloaded.,1.0
+7094,164,9.07.2021,E1028,Jt 7 motor overloaded.,1.0
+7097,164,10.07.2021,E1028,Jt 7 motor overloaded.,1.0
+7101,164,13.07.2021,E1028,Jt 7 motor overloaded.,1.0
+7104,164,29.07.2021,E1028,Jt 7 motor overloaded.,1.0
+7110,164,7.09.2021,E1028,Jt 7 motor overloaded.,1.0
+7111,164,14.09.2021,E1028,Jt 7 motor overloaded.,1.0
+7118,164,7.10.2021,E1028,Jt 7 motor overloaded.,1.0
+7119,164,9.10.2021,E1028,Jt 7 motor overloaded.,1.0
+7120,164,11.10.2021,E1028,Jt 7 motor overloaded.,1.0
+7124,164,12.10.2021,E1028,Jt 7 motor overloaded.,1.0
+7128,164,13.10.2021,E1028,Jt 7 motor overloaded.,1.0
+7132,164,14.10.2021,E1028,Jt 7 motor overloaded.,1.0
+7135,164,15.10.2021,E1028,Jt 7 motor overloaded.,1.0
+7136,164,16.10.2021,E1028,Jt 7 motor overloaded.,1.0
+7139,164,18.10.2021,E1028,Jt 7 motor overloaded.,1.0
+7141,164,22.10.2021,E1028,Jt 7 motor overloaded.,1.0
+7142,164,23.10.2021,E1028,Jt 7 motor overloaded.,1.0
+7143,164,25.10.2021,E1028,Jt 7 motor overloaded.,1.0
+7182,164,26.10.2021,E1028,Jt 7 motor overloaded.,1.0
+7183,164,1.11.2021,E1028,Jt 7 motor overloaded.,1.0
+7185,164,2.11.2021,E1028,Jt 7 motor overloaded.,1.0
+7186,164,4.11.2021,E1028,Jt 7 motor overloaded.,1.0
+7189,164,5.11.2021,E1028,Jt 7 motor overloaded.,1.0
+7190,164,8.11.2021,E1028,Jt 7 motor overloaded.,1.0
+7191,164,9.11.2021,E1028,Jt 7 motor overloaded.,1.0
+7192,164,10.11.2021,E1028,Jt 7 motor overloaded.,1.0
+7194,164,11.11.2021,E1028,Jt 7 motor overloaded.,1.0
+7198,164,12.11.2021,E1028,Jt 7 motor overloaded.,1.0
+7201,164,13.11.2021,E1028,Jt 7 motor overloaded.,1.0
+7203,164,15.11.2021,E1028,Jt 7 motor overloaded.,1.0
+7205,164,17.11.2021,E1028,Jt 7 motor overloaded.,1.0
+7208,164,18.11.2021,E1028,Jt 7 motor overloaded.,1.0
+7209,164,19.11.2021,E1028,Jt 7 motor overloaded.,1.0
+7234,164,24.11.2021,E1028,Jt 7 motor overloaded.,1.0
+7237,164,6.12.2021,E1028,Jt 7 motor overloaded.,1.0
+7259,164,27.12.2021,E1028,Jt 7 motor overloaded.,1.0
+7260,164,4.01.2022,E1028,Jt 7 motor overloaded.,1.0
+7262,164,10.02.2022,E1028,Jt 7 motor overloaded.,1.0
+7263,164,11.02.2022,E1028,Jt 7 motor overloaded.,1.0
+7265,164,16.02.2022,E1028,Jt 7 motor overloaded.,1.0
+7266,164,19.02.2022,E1028,Jt 7 motor overloaded.,1.0
+7270,164,24.02.2022,E1028,Jt 7 motor overloaded.,1.0
+7271,164,25.02.2022,E1028,Jt 7 motor overloaded.,1.0
+7272,164,26.02.2022,E1028,Jt 7 motor overloaded.,1.0
+7274,164,28.02.2022,E1028,Jt 7 motor overloaded.,1.0
+7289,164,26.03.2022,E1028,Jt 7 motor overloaded.,1.0
+7291,164,29.03.2022,E1028,Jt 7 motor overloaded.,1.0
+7294,164,1.04.2022,E1028,Jt 7 motor overloaded.,1.0
+7303,164,11.04.2022,E1028,Jt 7 motor overloaded.,1.0
+7306,164,26.04.2022,E1028,Jt 7 motor overloaded.,1.0
+7317,164,24.06.2022,E1028,Jt 7 motor overloaded.,1.0
+7319,164,28.06.2022,E1028,Jt 7 motor overloaded.,1.0
+7320,164,1.07.2022,E1028,Jt 7 motor overloaded.,1.0
+7447,172,23.07.2020,E1028,Jt 7 motor overloaded.,1.0
+7513,172,17.03.2021,E1028,Jt 7 motor overloaded.,1.0
+7587,172,1.12.2021,E1028,Jt 7 motor overloaded.,1.0
+7647,175,23.09.2020,E1028,Jt 7 motor overloaded.,1.0
+7650,175,13.11.2020,E1028,Jt 5 motor overloaded.,1.0
+7693,175,19.01.2021,E1028,Jt 7 motor overloaded.,1.0
+7699,175,22.02.2021,E1028,Jt 7 motor overloaded.,1.0
+7700,175,5.06.2021,E1028,Jt 7 motor overloaded.,1.0
+7738,175,18.01.2022,E1028,Jt 7 motor overloaded.,1.0
+7834,177,7.09.2020,E1028,Jt 7 motor overloaded.,1.0
+8329,181,1.12.2020,E1028,Jt 7 motor overloaded.,1.0
+8366,181,8.10.2021,E1028,Jt 7 motor overloaded.,1.0
+8367,181,15.10.2021,E1028,Jt 7 motor overloaded.,1.0
+8633,185,11.05.2021,E1028,Jt 6 motor overloaded.,1.0
+8634,185,17.05.2021,E1028,Jt 6 motor overloaded.,1.0
+8637,185,22.05.2021,E1028,Jt 6 motor overloaded.,1.0
+8640,185,27.05.2021,E1028,Jt 6 motor overloaded.,1.0
+8651,185,3.07.2021,E1028,Jt 6 motor overloaded.,1.0
+8653,185,5.07.2021,E1028,Jt 6 motor overloaded.,1.0
+8674,185,18.08.2021,E1028,Jt 6 motor overloaded.,1.0
+8682,185,7.09.2021,E1028,Jt 6 motor overloaded.,1.0
+8685,185,18.09.2021,E1028,Jt 6 motor overloaded.,1.0
+8858,186,23.09.2020,E1028,Jt 7 motor overloaded.,1.0
+10258,253,30.06.2021,E1028,Jt 7 motor overloaded.,1.0
+10329,253,1.04.2022,E1028,Jt 7 motor overloaded.,1.0
+10364,254,21.07.2020,E1028,Jt 7 motor overloaded.,1.0
+10373,254,18.09.2020,E1028,Jt 7 motor overloaded.,1.0
+10392,254,5.01.2021,E1028,Jt 7 motor overloaded.,1.0
+10412,254,15.03.2021,E1028,Jt 7 motor overloaded.,1.0
+10417,254,4.05.2021,E1028,Jt 7 motor overloaded.,1.0
+10426,254,20.08.2021,E1028,Jt 7 motor overloaded.,1.0
+10460,254,8.12.2021,E1028,Jt 7 motor overloaded.,1.0
+10828,257,15.03.2022,E1028,Jt 7 motor overloaded.,1.0
+11033,261,22.12.2020,E1028,Jt 8 motor overloaded.,1.0
+11062,261,18.05.2021,E1028,Jt 8 motor overloaded.,1.0
+11065,261,21.05.2021,E1028,Jt 8 motor overloaded.,1.0
+11067,261,24.05.2021,E1028,Jt 8 motor overloaded.,1.0
+11068,261,1.06.2021,E1028,Jt 8 motor overloaded.,1.0
+11075,261,13.07.2021,E1028,Jt 8 motor overloaded.,1.0
+11172,264,1.07.2020,E1028,Jt 7 motor overloaded.,1.0
+11209,264,9.03.2021,E1028,Jt 7 motor overloaded.,1.0
+11225,264,21.08.2021,E1028,Jt 4 motor overloaded.,1.0
+11237,264,20.09.2021,E1028,Jt 7 motor overloaded.,1.0
+11285,264,20.07.2022,E1028,Jt 7 motor overloaded.,1.0
+11325,265,24.12.2021,E1028,Jt 7 motor overloaded.,1.0
+11359,265,7.06.2022,E1028,Jt 7 motor overloaded.,1.0
+11360,265,22.06.2022,E1028,Jt 7 motor overloaded.,1.0
+11738,289,13.01.2021,E1028,Jt 7 motor overloaded.,1.0
+11792,289,16.04.2021,E1028,Jt 7 motor overloaded.,1.0
+11796,289,2.05.2021,E1028,Jt 7 motor overloaded.,1.0
+11797,289,6.05.2021,E1028,Jt 7 motor overloaded.,1.0
+11799,289,15.05.2021,E1028,Jt 7 motor overloaded.,1.0
+11809,289,15.06.2021,E1028,Jt 7 motor overloaded.,1.0
+11819,289,6.07.2021,E1028,Jt 7 motor overloaded.,1.0
+11896,293,8.07.2020,E1028,Jt 7 motor overloaded.,1.0
+11906,293,17.08.2020,E1028,Jt 7 motor overloaded.,1.0
+11907,293,20.08.2020,E1028,Jt 7 motor overloaded.,1.0
+11912,293,16.09.2020,E1028,Jt 7 motor overloaded.,1.0
+11937,293,9.01.2021,E1028,Jt 7 motor overloaded.,1.0
+11953,293,3.06.2021,E1028,Jt 7 motor overloaded.,1.0
+11961,293,16.07.2021,E1028,Jt 7 motor overloaded.,1.0
+11974,293,8.11.2021,E1028,Jt 7 motor overloaded.,1.0
+11981,293,4.02.2022,E1028,Jt 7 motor overloaded.,1.0
+11986,293,24.03.2022,E1028,Jt 7 motor overloaded.,1.0
+12008,294,3.07.2020,E1028,Jt 7 motor overloaded.,1.0
+12009,294,6.07.2020,E1028,Jt 7 motor overloaded.,1.0
+12011,294,9.07.2020,E1028,Jt 7 motor overloaded.,1.0
+12014,294,11.07.2020,E1028,Jt 7 motor overloaded.,1.0
+12015,294,20.07.2020,E1028,Jt 7 motor overloaded.,1.0
+12017,294,26.07.2020,E1028,Jt 7 motor overloaded.,1.0
+12024,294,15.08.2020,E1028,Jt 7 motor overloaded.,1.0
+12025,294,17.08.2020,E1028,Jt 7 motor overloaded.,1.0
+12026,294,25.08.2020,E1028,Jt 7 motor overloaded.,1.0
+12028,294,12.09.2020,E1028,Jt 7 motor overloaded.,1.0
+12029,294,14.09.2020,E1028,Jt 7 motor overloaded.,1.0
+12039,294,15.09.2020,E1028,Jt 7 motor overloaded.,1.0
+12043,294,5.10.2020,E1028,Jt 7 motor overloaded.,1.0
+12044,294,7.10.2020,E1028,Jt 7 motor overloaded.,1.0
+12046,294,9.10.2020,E1028,Jt 7 motor overloaded.,1.0
+12048,294,10.10.2020,E1028,Jt 7 motor overloaded.,1.0
+12050,294,13.10.2020,E1028,Jt 7 motor overloaded.,1.0
+12052,294,14.10.2020,E1028,Jt 7 motor overloaded.,1.0
+12054,294,15.10.2020,E1028,Jt 7 motor overloaded.,1.0
+12057,294,16.10.2020,E1028,Jt 7 motor overloaded.,1.0
+12058,294,21.10.2020,E1028,Jt 7 motor overloaded.,1.0
+12059,294,22.10.2020,E1028,Jt 7 motor overloaded.,1.0
+12063,294,23.10.2020,E1028,Jt 7 motor overloaded.,1.0
+12065,294,24.10.2020,E1028,Jt 7 motor overloaded.,1.0
+12068,294,26.10.2020,E1028,Jt 7 motor overloaded.,1.0
+12070,294,27.10.2020,E1028,Jt 7 motor overloaded.,1.0
+12072,294,30.10.2020,E1028,Jt 7 motor overloaded.,1.0
+12073,294,4.11.2020,E1028,Jt 7 motor overloaded.,1.0
+12074,294,5.11.2020,E1028,Jt 7 motor overloaded.,1.0
+12075,294,7.11.2020,E1028,Jt 7 motor overloaded.,1.0
+12076,294,12.11.2020,E1028,Jt 7 motor overloaded.,1.0
+12078,294,19.11.2020,E1028,Jt 7 motor overloaded.,1.0
+12079,294,21.11.2020,E1028,Jt 7 motor overloaded.,1.0
+12080,294,24.11.2020,E1028,Jt 7 motor overloaded.,1.0
+12081,294,1.12.2020,E1028,Jt 7 motor overloaded.,1.0
+12082,294,3.12.2020,E1028,Jt 7 motor overloaded.,1.0
+12084,294,7.12.2020,E1028,Jt 7 motor overloaded.,1.0
+12087,294,12.12.2020,E1028,Jt 7 motor overloaded.,1.0
+12089,294,15.12.2020,E1028,Jt 7 motor overloaded.,1.0
+12093,294,5.01.2021,E1028,Jt 7 motor overloaded.,1.0
+12094,294,7.01.2021,E1028,Jt 7 motor overloaded.,1.0
+12095,294,10.01.2021,E1028,Jt 7 motor overloaded.,1.0
+12101,294,12.01.2021,E1028,Jt 7 motor overloaded.,1.0
+12103,294,17.01.2021,E1028,Jt 7 motor overloaded.,1.0
+12107,294,10.02.2021,E1028,Jt 7 motor overloaded.,1.0
+12109,294,13.02.2021,E1028,Jt 7 motor overloaded.,1.0
+12110,294,18.02.2021,E1028,Jt 7 motor overloaded.,1.0
+12113,294,19.02.2021,E1028,Jt 7 motor overloaded.,1.0
+12114,294,22.02.2021,E1028,Jt 7 motor overloaded.,1.0
+12116,294,24.02.2021,E1028,Jt 7 motor overloaded.,1.0
+12117,294,6.03.2021,E1028,Jt 7 motor overloaded.,1.0
+12125,294,20.03.2021,E1028,Jt 7 motor overloaded.,1.0
+12126,294,12.04.2021,E1028,Jt 7 motor overloaded.,1.0
+12137,294,14.04.2021,E1028,Jt 7 motor overloaded.,1.0
+12142,294,25.04.2021,E1028,Jt 7 motor overloaded.,1.0
+12143,294,28.04.2021,E1028,Jt 7 motor overloaded.,1.0
+12145,294,29.04.2021,E1028,Jt 7 motor overloaded.,1.0
+12146,294,4.05.2021,E1028,Jt 7 motor overloaded.,1.0
+12150,294,6.05.2021,E1028,Jt 7 motor overloaded.,1.0
+12153,294,7.05.2021,E1028,Jt 7 motor overloaded.,1.0
+12154,294,11.05.2021,E1028,Jt 7 motor overloaded.,1.0
+12155,294,21.05.2021,E1028,Jt 7 motor overloaded.,1.0
+12157,294,24.05.2021,E1028,Jt 7 motor overloaded.,1.0
+12158,294,28.05.2021,E1028,Jt 7 motor overloaded.,1.0
+12161,294,7.06.2021,E1028,Jt 7 motor overloaded.,1.0
+12162,294,9.06.2021,E1028,Jt 7 motor overloaded.,1.0
+12163,294,18.06.2021,E1028,Jt 7 motor overloaded.,1.0
+12171,294,21.06.2021,E1028,Jt 7 motor overloaded.,1.0
+12172,294,1.07.2021,E1028,Jt 7 motor overloaded.,1.0
+12173,294,2.07.2021,E1028,Jt 7 motor overloaded.,1.0
+12175,294,7.07.2021,E1028,Jt 7 motor overloaded.,1.0
+12176,294,14.07.2021,E1028,Jt 7 motor overloaded.,1.0
+12182,294,16.07.2021,E1028,Jt 7 motor overloaded.,1.0
+12183,294,17.07.2021,E1028,Jt 7 motor overloaded.,1.0
+12185,294,28.07.2021,E1028,Jt 7 motor overloaded.,1.0
+12188,294,29.07.2021,E1028,Jt 7 motor overloaded.,1.0
+12194,294,30.07.2021,E1028,Jt 7 motor overloaded.,1.0
+12197,294,31.07.2021,E1028,Jt 7 motor overloaded.,1.0
+12199,294,15.08.2021,E1028,Jt 7 motor overloaded.,1.0
+12201,294,16.08.2021,E1028,Jt 7 motor overloaded.,1.0
+12205,294,7.09.2021,E1028,Jt 7 motor overloaded.,1.0
+12211,294,8.09.2021,E1028,Jt 7 motor overloaded.,1.0
+12213,294,14.09.2021,E1028,Jt 7 motor overloaded.,1.0
+12216,294,15.09.2021,E1028,Jt 7 motor overloaded.,1.0
+12217,294,16.09.2021,E1028,Jt 7 motor overloaded.,1.0
+12219,294,20.09.2021,E1028,Jt 7 motor overloaded.,1.0
+12220,294,23.09.2021,E1028,Jt 7 motor overloaded.,1.0
+12222,294,1.10.2021,E1028,Jt 7 motor overloaded.,1.0
+12223,294,6.10.2021,E1028,Jt 7 motor overloaded.,1.0
+12224,294,9.10.2021,E1028,Jt 7 motor overloaded.,1.0
+12225,294,11.10.2021,E1028,Jt 7 motor overloaded.,1.0
+12228,294,15.10.2021,E1028,Jt 7 motor overloaded.,1.0
+12230,294,16.10.2021,E1028,Jt 7 motor overloaded.,1.0
+12233,294,20.10.2021,E1028,Jt 7 motor overloaded.,1.0
+12240,294,3.11.2021,E1028,Jt 7 motor overloaded.,1.0
+12241,294,5.11.2021,E1028,Jt 7 motor overloaded.,1.0
+12246,294,16.11.2021,E1028,Jt 7 motor overloaded.,1.0
+12247,294,17.11.2021,E1028,Jt 7 motor overloaded.,1.0
+12249,294,18.11.2021,E1028,Jt 7 motor overloaded.,1.0
+12251,294,19.11.2021,E1028,Jt 7 motor overloaded.,1.0
+12252,294,26.11.2021,E1028,Jt 7 motor overloaded.,1.0
+12253,294,29.11.2021,E1028,Jt 7 motor overloaded.,1.0
+12254,294,2.12.2021,E1028,Jt 7 motor overloaded.,1.0
+12256,294,3.12.2021,E1028,Jt 7 motor overloaded.,1.0
+12257,294,12.12.2021,E1028,Jt 7 motor overloaded.,1.0
+12260,294,14.12.2021,E1028,Jt 7 motor overloaded.,1.0
+12261,294,16.12.2021,E1028,Jt 7 motor overloaded.,1.0
+12263,294,30.12.2021,E1028,Jt 7 motor overloaded.,1.0
+12264,294,31.12.2021,E1028,Jt 7 motor overloaded.,1.0
+12266,294,4.01.2022,E1028,Jt 7 motor overloaded.,1.0
+12268,294,7.01.2022,E1028,Jt 7 motor overloaded.,1.0
+12269,294,20.01.2022,E1028,Jt 7 motor overloaded.,1.0
+12271,294,21.01.2022,E1028,Jt 7 motor overloaded.,1.0
+12276,294,12.02.2022,E1028,Jt 7 motor overloaded.,1.0
+12280,294,16.02.2022,E1028,Jt 7 motor overloaded.,1.0
+12281,294,18.02.2022,E1028,Jt 7 motor overloaded.,1.0
+12283,294,22.02.2022,E1028,Jt 7 motor overloaded.,1.0
+12284,294,24.02.2022,E1028,Jt 7 motor overloaded.,1.0
+12285,294,3.03.2022,E1028,Jt 7 motor overloaded.,1.0
+12288,294,17.03.2022,E1028,Jt 7 motor overloaded.,1.0
+12301,294,7.04.2022,E1028,Jt 7 motor overloaded.,1.0
+12302,294,25.04.2022,E1028,Jt 7 motor overloaded.,1.0
+12303,294,26.04.2022,E1028,Jt 7 motor overloaded.,1.0
+12306,294,30.04.2022,E1028,Jt 7 motor overloaded.,1.0
+12309,294,9.05.2022,E1028,Jt 7 motor overloaded.,1.0
+12312,294,10.05.2022,E1028,Jt 7 motor overloaded.,1.0
+12313,294,13.05.2022,E1028,Jt 7 motor overloaded.,1.0
+12315,294,14.05.2022,E1028,Jt 7 motor overloaded.,1.0
+12321,294,23.05.2022,E1028,Jt 7 motor overloaded.,1.0
+12322,294,26.05.2022,E1028,Jt 7 motor overloaded.,1.0
+12323,294,28.05.2022,E1028,Jt 7 motor overloaded.,1.0
+12324,294,3.06.2022,E1028,Jt 7 motor overloaded.,1.0
+12326,294,23.06.2022,E1028,Jt 7 motor overloaded.,1.0
+12328,294,24.06.2022,E1028,Jt 7 motor overloaded.,1.0
+12329,294,27.06.2022,E1028,Jt 7 motor overloaded.,1.0
+12333,294,2.07.2022,E1028,Jt 7 motor overloaded.,1.0
+12336,294,18.07.2022,E1028,Jt 7 motor overloaded.,1.0
+12338,294,21.07.2022,E1028,Jt 7 motor overloaded.,1.0
+12339,294,22.07.2022,E1028,Jt 7 motor overloaded.,1.0
+12340,294,23.07.2022,E1028,Jt 7 motor overloaded.,1.0
+12341,294,26.07.2022,E1028,Jt 7 motor overloaded.,1.0
+12741,305,23.04.2022,E1028,Jt 7 motor overloaded.,1.0
+13911,340,31.03.2021,E1028,Jt 5 motor overloaded.,1.0
+14207,356,14.11.2020,E1028,Jt 8 motor overloaded.,1.0
+4148,111,19.06.2022,E9466,[Cubic-S(1)] Coincidence error of fixed safety input(override) state.(code 16C20800 00000004),1.0
+4150,111,19.06.2022,E9466,[Cubic-S(1)] Coincidence error of fixed safety input(override) state.(code 16C25600 00000004),1.0
+4152,111,19.06.2022,E9466,[Cubic-S(1)] Coincidence error of fixed safety input(override) state.(code 16C2E300 00000004),1.0
+4154,111,19.06.2022,E9466,[Cubic-S(1)] Coincidence error of fixed safety input(override) state.(code 16C21500 00000004),1.0
+4156,111,19.06.2022,E9466,[Cubic-S(1)] Coincidence error of fixed safety input(override) state.(code 16C26600 00000004),1.0
+4158,111,19.06.2022,E9466,[Cubic-S(1)] Coincidence error of fixed safety input(override) state.(code 16C26400 00000004),1.0
+4160,111,19.06.2022,E9466,[Cubic-S(1)] Coincidence error of fixed safety input(override) state.(code 16C2D100 00000004),1.0
+4162,111,19.06.2022,E9466,[Cubic-S(1)] Coincidence error of fixed safety input(override) state.(code 16C2EB00 00000004),1.0
+4164,111,19.06.2022,E9466,[Cubic-S(1)] Coincidence error of fixed safety input(override) state.(code 16C29D00 00000004),1.0
+4168,111,19.06.2022,E9466,[Cubic-S(1)] Coincidence error of fixed safety input(override) state.(code 16C22A00 00000004),1.0
+4170,111,19.06.2022,E9466,[Cubic-S(1)] Coincidence error of fixed safety input(override) state.(code 16425B00 00000004),1.0
+4172,111,19.06.2022,E9466,[Cubic-S(1)] Coincidence error of fixed safety input(override) state.(code 16C2A700 00000004),1.0
+4174,111,19.06.2022,E9466,[Cubic-S(1)] Coincidence error of fixed safety input(override) state.(code 16C21100 00000004),1.0
+4176,111,19.06.2022,E9466,[Cubic-S(1)] Coincidence error of fixed safety input(override) state.(code 16C29600 00000004),1.0
+4178,111,19.06.2022,E9466,[Cubic-S(1)] Coincidence error of fixed safety input(override) state.(code 16C27E00 00000004),1.0
+11109,261,12.12.2021,E9466,[Cubic-S(1)] Coincidence error of fixed safety input(override) state.(code 16C20D00 00000004),1.0
+10504,257,2.07.2020,E1341,[MC1]Regenerative resistor overheat.(Servo board1),1.0
+10505,257,2.07.2020,E1314,[MC1]Thyristor overheat.(Servo board1),1.0
+13538,328,4.08.2020,E1104,Robot monitoring unit over current.,1.0
+13540,328,5.08.2020,E1104,Robot monitoring unit over current.,1.0
+13779,333,3.08.2020,E1104,Robot monitoring unit over current.,1.0
+564,8,30.10.2021,E0065,Over travel limit switch activated.,1.0
+599,8,18.03.2022,E0065,Over travel limit switch activated.,1.0
+634,8,30.10.2022,E0065,Over travel limit switch activated.,1.0
+852,14,19.07.2020,E0065,Over travel limit switch activated.,1.0
+860,14,7.03.2021,E0065,Over travel limit switch activated.,1.0
+892,14,15.07.2021,E0065,Over travel limit switch activated.,1.0
+955,19,31.08.2021,E0065,Over travel limit switch activated.,1.0
+975,19,27.02.2022,E0065,Over travel limit switch activated.,1.0
+2147,37,27.03.2022,E0065,Over travel limit switch activated,1.0
+2148,37,27.03.2022,E0065,????????LS???????,1.0
+2986,58,7.07.2022,E0065,Over travel limit switch activated,1.0
+2987,58,7.07.2022,E0065,????????LS???????,1.0
+3692,86,26.06.2022,E0065,Over travel limit switch activated,1.0
+3693,86,26.06.2022,E0065,????????LS???????,1.0
+4422,114,21.03.2021,E0065,Over travel limit switch activated.,1.0
+4450,114,11.04.2021,E0065,Over travel limit switch activated.,1.0
+4454,114,1.05.2021,E0065,Over travel limit switch activated.,1.0
+4457,114,9.08.2021,E0065,Over travel limit switch activated.,1.0
+4468,114,6.03.2022,E0065,Over travel limit switch activated.,1.0
+4471,114,8.03.2022,E0065,Over travel limit switch activated.,1.0
+10110,220,2.01.2022,E0065,Over travel limit switch activated.,1.0
+10150,221,3.08.2021,E0065,Over travel limit switch activated,1.0
+11441,270,26.06.2022,E0065,Over travel limit switch activated,1.0
+11442,270,26.06.2022,E0065,????????LS???????,1.0
+11590,279,10.08.2020,E0065,Over travel limit switch activated,1.0
+11592,279,1.05.2021,E0065,Over travel limit switch activated,1.0
+11603,279,20.02.2022,E0065,Over travel limit switch activated,1.0
+11726,286,9.05.2021,E0065,Over travel limit switch activated,1.0
+11728,286,8.03.2022,E0065,Over travel limit switch activated,1.0
+13501,326,10.08.2020,E0065,Over travel limit switch activated,1.0
+13503,326,9.05.2021,E0065,Over travel limit switch activated,1.0
+13504,326,8.03.2022,E0065,Over travel limit switch activated,1.0
+954,17,31.07.2022,E0038,Over load [JT8Axis],1.0
+2075,37,20.05.2021,E0038,Over load [J21Axis],1.0
+2076,37,20.05.2021,E0038,??? [J21?],1.0
+2216,41,14.09.2020,E0038,Over load [JT4Axis],1.0
+2217,41,14.09.2020,E0038,??? [JT4?],1.0
+2304,43,6.07.2022,E0038,Over load [JT4Axis],1.0
+3525,67,6.02.2022,E0038,Over load [JT7Axis],1.0
+3777,95,4.08.2021,E0038,Over load [JT5Axis],1.0
+4485,116,16.01.2022,E0038,Over load [JT8Axis],1.0
+6342,152,29.04.2021,E0038,Over load [JT6Axis],1.0
+12397,295,13.07.2022,E0038,Over load [JT6Axis],1.0
+12837,308,31.05.2022,E0038,Over load [JT6Axis],1.0
+12890,311,7.05.2022,E0038,Over load [JT6Axis],1.0
+12891,311,9.05.2022,E0038,Over load [JT6Axis],1.0
+12893,311,2.06.2022,E0038,Over load [JT2Axis],1.0
+12946,312,11.07.2022,E0038,Over load [JT1Axis],1.0
+12947,312,12.07.2022,E0038,Over load [JT1Axis],1.0
+13036,314,18.05.2022,E0038,Over load [JT6Axis],1.0
+13051,314,21.05.2022,E0038,Over load [JT4Axis],1.0
+13059,314,11.07.2022,E0038,Over load [JT6Axis],1.0
+13647,330,5.08.2020,E0038,Over load [JT5Axis],1.0
+13858,338,16.04.2022,E0038,Over load [JT8Axis],1.0
+13860,338,11.05.2022,E0038,Over load [JT8Axis],1.0
+13861,338,31.07.2022,E0038,Over load [JT8Axis],1.0
+13862,339,14.06.2022,E0038,Over load [JT8Axis],1.0
+14071,343,17.04.2022,E0038,Over load [JT8Axis],1.0
+2292,43,4.07.2022,E0032,Over current [JT7Axis],1.0
+2307,43,6.07.2022,E0032,Over current [JT7Axis],1.0
+3825,101,5.02.2022,E0032,Over current [JT8Axis],1.0
+3826,101,11.02.2022,E0032,Over current [JT8Axis],1.0
+3827,101,2.03.2022,E0032,Over current [JT8Axis],1.0
+4486,116,16.01.2022,E0032,Over current [JT2Axis],1.0
+4526,122,17.02.2022,E0032,Over current [JT8Axis],1.0
+13558,329,8.11.2021,E0032,Over current [JT8Axis],1.0
+14341,364,5.10.2021,E0032,Over current [JT8Axis],1.0
+12804,307,14.02.2022,E0039,Over rotation [JT7Axis],1.0
+94,1,15.06.2022,E1335,Unexpected motor powerOFF.(Servo board1)(MC1)(code 3F),2.0
+95,1,15.06.2022,E1335,??????OFF?????(??????1)(MC1)(???3F),2.0
+119,1,22.07.2022,E1335,Unexpected motor powerOFF.(Servo board1)(MC1)(code 3F),2.0
+177,2,23.12.2021,E1335,??????OFF?????(??????1)(MC1)(???3F),2.0
+463,4,24.09.2021,E1335,Unexpected motor powerOFF.(Servo board1)(MC1)(code 3F),2.0
+464,4,24.09.2021,E1335,??????OFF?????(??????1)(MC1)(???3F),2.0
+467,4,16.12.2021,E1335,Unexpected motor powerOFF.(Servo board1)(MC1)(code 3F),2.0
+468,4,16.12.2021,E1335,??????OFF?????(??????1)(MC1)(???3F),2.0
+469,4,29.12.2021,E1335,Unexpected motor powerOFF.(Servo board1)(MC1)(code 3F),2.0
+470,4,29.12.2021,E1335,??????OFF?????(??????1)(MC1)(???3F),2.0
+511,4,15.06.2022,E1335,Unexpected motor powerOFF.(Servo board1)(MC1)(code 3F),2.0
+512,4,15.06.2022,E1335,??????OFF?????(??????1)(MC1)(???3F),2.0
+1346,25,12.11.2021,E1335,??????OFF?????(??????1)(MC1)(???3F),2.0
+3564,71,24.04.2021,E1335,Unexpected motor powerOFF.(Servo board1)(MC1)(code 3F),2.0
+6762,157,3.12.2021,E1335,Unexpected motor powerOFF.(Servo board1)(MC1)(code 3F),2.0
+7412,169,9.12.2021,E1335,Unexpected motor powerOFF.(Servo board1)(MC1)(code 11),2.0
+8862,186,28.10.2020,E1335,Unexpected motor powerOFF.(Servo board1)(MC1)(code 3F),2.0
+9114,188,10.10.2021,E1335,??????OFF?????(??????1)(MC1)(???3F),2.0
+9376,189,11.02.2022,E1335,Unexpected motor powerOFF.(Servo board1)(MC1)(code 3F),2.0
+9377,189,11.02.2022,E1335,??????OFF?????(??????1)(MC1)(???3F),2.0
+10177,224,1.10.2020,E1335,Unexpected motor powerOFF.(Servo board1)(MC1)(code 3F),2.0
+10959,259,13.10.2021,E1335,Unexpected motor powerOFF.(Servo board1)(MC1)(code 3F),2.0
+11011,261,25.11.2020,E1335,Unexpected motor powerOFF.(Servo board1)(MC1)(code 3F),2.0
+11972,293,25.10.2021,E1335,Unexpected motor powerOFF.(Servo board1)(MC1)(code 3F),2.0
+375,4,3.09.2021,E1337,[MC1]Brake power is abnormal.(Servo board1),2.0
+377,4,3.09.2021,E1337,[MC1]?????????(??????1),2.0
+134,2,4.01.2021,E1549,[MC1]????????P-N??????????????(??????1),2.0
+495,4,28.03.2022,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+496,4,28.03.2022,E1549,[MC1]????????P-N??????????????(??????1),2.0
+4706,125,11.06.2022,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+4721,125,29.06.2022,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+4752,126,1.04.2021,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+4756,126,10.04.2021,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+4766,126,6.05.2021,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+4831,126,11.06.2021,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+4848,126,6.07.2021,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+4851,126,16.07.2021,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+4892,126,5.11.2021,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+4907,126,25.11.2021,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+4912,126,28.11.2021,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+4918,126,2.12.2021,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+4921,126,8.12.2021,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+4926,126,10.12.2021,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+4933,126,14.12.2021,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+4943,126,8.01.2022,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+4955,126,13.01.2022,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+4965,126,19.01.2022,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+4970,126,21.01.2022,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+4977,126,24.01.2022,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+4987,126,13.02.2022,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+4993,126,15.02.2022,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+5029,126,18.03.2022,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+5033,126,23.03.2022,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+5044,126,5.04.2022,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+5049,126,11.04.2022,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+5075,126,4.06.2022,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+5103,126,26.06.2022,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+5141,126,22.07.2022,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+5400,132,17.11.2021,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+5425,132,25.12.2021,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+5451,132,22.04.2022,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+6032,138,9.07.2020,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+6095,138,21.05.2021,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+6119,138,8.10.2021,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+6181,140,16.09.2020,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+6203,140,31.12.2020,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+6612,157,3.12.2020,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+6646,157,5.03.2021,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+6713,157,14.07.2021,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+6746,157,14.09.2021,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+6780,157,21.01.2022,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+6800,157,1.04.2022,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+6815,157,30.04.2022,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+6832,157,2.06.2022,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+6834,157,3.06.2022,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+6901,163,27.10.2021,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+6939,163,18.04.2022,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+6940,163,29.04.2022,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+6975,164,26.11.2020,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+6981,164,23.12.2020,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+7019,164,16.03.2021,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+7073,164,17.05.2021,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+7080,164,8.06.2021,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+7095,164,10.07.2021,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+7103,164,26.07.2021,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+7106,164,18.08.2021,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+7123,164,12.10.2021,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+7126,164,13.10.2021,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+7134,164,15.10.2021,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+7202,164,13.11.2021,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+7210,164,19.11.2021,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+7217,164,21.11.2021,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+7238,164,9.12.2021,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+7240,164,25.12.2021,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+7304,164,12.04.2022,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+7371,169,27.03.2021,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+7395,169,14.08.2021,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+7406,169,11.11.2021,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+7420,169,3.02.2022,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+7443,169,25.07.2022,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+8068,177,20.11.2021,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+8082,177,28.12.2021,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+8857,186,22.09.2020,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+8955,186,25.03.2022,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+9030,188,18.12.2020,E1549,[MC1]????????P-N??????????????(??????1),2.0
+10257,253,30.06.2021,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+10349,253,25.05.2022,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+10455,254,6.10.2021,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+11248,264,21.09.2021,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+11259,264,29.09.2021,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+11282,264,7.06.2022,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+11908,293,26.08.2020,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+11957,293,12.07.2021,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+11983,293,19.02.2022,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+11984,293,23.02.2022,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+11997,293,6.05.2022,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+12088,294,14.12.2020,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+12097,294,11.01.2021,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+12174,294,2.07.2021,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+12177,294,14.07.2021,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+12226,294,11.10.2021,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+12262,294,30.12.2021,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+12305,294,27.04.2022,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+12491,300,9.07.2020,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+12506,300,16.10.2020,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+12508,300,18.11.2020,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+12509,300,20.11.2020,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+12512,300,8.12.2020,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+12520,300,11.03.2021,E1549,[MC1]P-N high voltage due to sudden deceleration stop.(Servo board 1),2.0
+745,10,21.06.2021,E5007,Servo weld gun not connected or wrong gun connected.,2.0
+1029,23,25.11.2020,E0898,Servo command stop [JT2Axis],2.0
+1032,23,3.05.2021,E0898,Servo command stop [JT2Axis],2.0
+1033,23,1.07.2021,E0898,Servo command stop [JT2Axis],2.0
+1879,33,8.07.2021,E0898,Servo command stop [JT2Axis],2.0
+1880,33,9.07.2021,E0898,Servo command stop [JT2Axis],2.0
+1881,33,10.07.2021,E0898,Servo command stop [JT2Axis],2.0
+1882,33,16.07.2021,E0898,Servo command stop [JT2Axis],2.0
+1884,33,28.07.2021,E0898,Servo command stop [JT2Axis],2.0
+1887,33,17.08.2021,E0898,Servo command stop [JT2Axis],2.0
+1888,33,18.08.2021,E0898,Servo command stop [JT2Axis],2.0
+1890,33,6.09.2021,E0898,Servo command stop [JT2Axis],2.0
+1891,33,8.09.2021,E0898,Servo command stop [JT2Axis],2.0
+1893,33,9.09.2021,E0898,Servo command stop [JT2Axis],2.0
+1894,33,14.09.2021,E0898,Servo command stop [JT2Axis],2.0
+1895,33,27.09.2021,E0898,Servo command stop [JT2Axis],2.0
+1896,33,29.09.2021,E0898,Servo command stop [JT2Axis],2.0
+1897,33,2.10.2021,E0898,Servo command stop [JT2Axis],2.0
+1898,33,9.10.2021,E0898,Servo command stop [JT2Axis],2.0
+1899,33,19.10.2021,E0898,Servo command stop [JT2Axis],2.0
+1901,33,22.10.2021,E0898,Servo command stop [JT2Axis],2.0
+1902,33,26.10.2021,E0898,Servo command stop [JT2Axis],2.0
+1903,33,28.10.2021,E0898,Servo command stop [JT2Axis],2.0
+1904,33,2.11.2021,E0898,Servo command stop [JT2Axis],2.0
+1905,33,5.11.2021,E0898,Servo command stop [JT2Axis],2.0
+1906,33,8.11.2021,E0898,Servo command stop [JT2Axis],2.0
+1907,33,10.11.2021,E0898,Servo command stop [JT2Axis],2.0
+1909,33,12.11.2021,E0898,Servo command stop [JT2Axis],2.0
+1910,33,19.11.2021,E0898,Servo command stop [JT2Axis],2.0
+1911,33,20.11.2021,E0898,Servo command stop [JT2Axis],2.0
+1912,33,22.11.2021,E0898,Servo command stop [JT2Axis],2.0
+1913,33,23.11.2021,E0898,Servo command stop [JT2Axis],2.0
+1914,33,25.11.2021,E0898,Servo command stop [JT2Axis],2.0
+1915,33,11.03.2022,E0898,Servo command stop [JT2Axis],2.0
+1916,33,11.03.2022,E0898,???????? [JT2?],2.0
+1917,33,18.03.2022,E0898,Servo command stop [JT2Axis],2.0
+1918,33,18.03.2022,E0898,???????? [JT2?],2.0
+1919,33,19.03.2022,E0898,Servo command stop [JT2Axis],2.0
+1920,33,19.03.2022,E0898,???????? [JT2?],2.0
+1921,33,21.03.2022,E0898,Servo command stop [JT2Axis],2.0
+1922,33,21.03.2022,E0898,???????? [JT2?],2.0
+1923,33,22.03.2022,E0898,Servo command stop [JT2Axis],2.0
+1924,33,22.03.2022,E0898,???????? [JT2?],2.0
+1925,33,26.05.2022,E0898,Servo command stop [JT2Axis],2.0
+1926,33,26.05.2022,E0898,???????? [JT2?],2.0
+1927,33,28.05.2022,E0898,Servo command stop [JT2Axis],2.0
+1928,33,28.05.2022,E0898,???????? [JT2?],2.0
+1929,33,10.06.2022,E0898,Servo command stop [JT2Axis],2.0
+1930,33,10.06.2022,E0898,???????? [JT2?],2.0
+1931,33,20.07.2022,E0898,???????? [JT2?],2.0
+1932,33,20.07.2022,E0898,Servo command stop [JT2Axis],2.0
+1933,33,22.07.2022,E0898,???????? [JT2?],2.0
+1934,33,22.07.2022,E0898,Servo command stop [JT2Axis],2.0
+1941,34,30.06.2021,E0898,Servo command stop [JT2Axis],2.0
+1942,34,2.07.2021,E0898,Servo command stop [JT2Axis],2.0
+1944,34,13.09.2021,E0898,Servo command stop [JT2Axis],2.0
+1945,34,16.09.2021,E0898,Servo command stop [JT2Axis],2.0
+1946,34,27.09.2021,E0898,Servo command stop [JT2Axis],2.0
+1948,34,2.10.2021,E0898,Servo command stop [JT2Axis],2.0
+1949,34,13.10.2021,E0898,Servo command stop [JT2Axis],2.0
+1950,34,2.11.2021,E0898,Servo command stop [JT2Axis],2.0
+1951,34,4.11.2021,E0898,Servo command stop [JT2Axis],2.0
+1952,34,8.11.2021,E0898,Servo command stop [JT2Axis],2.0
+1953,34,9.11.2021,E0898,Servo command stop [JT2Axis],2.0
+1954,34,12.11.2021,E0898,Servo command stop [JT2Axis],2.0
+1956,34,20.11.2021,E0898,Servo command stop [JT2Axis],2.0
+1957,34,22.11.2021,E0898,Servo command stop [JT2Axis],2.0
+1958,34,25.11.2021,E0898,Servo command stop [JT2Axis],2.0
+1959,34,29.11.2021,E0898,Servo command stop [JT2Axis],2.0
+1960,34,1.12.2021,E0898,Servo command stop [JT2Axis],2.0
+1961,34,2.12.2021,E0898,Servo command stop [JT2Axis],2.0
+1963,34,11.12.2021,E0898,Servo command stop [JT2Axis],2.0
+1968,34,28.12.2021,E0898,Servo command stop [JT2Axis],2.0
+1969,34,6.01.2022,E0898,Servo command stop [JT2Axis],2.0
+1970,34,19.01.2022,E0898,Servo command stop [JT2Axis],2.0
+1971,34,3.02.2022,E0898,Servo command stop [JT2Axis],2.0
+1972,34,10.02.2022,E0898,Servo command stop [JT2Axis],2.0
+1973,34,26.02.2022,E0898,Servo command stop [JT2Axis],2.0
+1974,34,1.03.2022,E0898,Servo command stop [JT2Axis],2.0
+1975,34,2.03.2022,E0898,Servo command stop [JT2Axis],2.0
+1976,34,4.03.2022,E0898,Servo command stop [JT2Axis],2.0
+1977,34,2.04.2022,E0898,Servo command stop [JT2Axis],2.0
+1978,34,12.04.2022,E0898,Servo command stop [JT2Axis],2.0
+1979,34,18.04.2022,E0898,Servo command stop [JT2Axis],2.0
+1980,34,6.05.2022,E0898,Servo command stop [JT2Axis],2.0
+1981,34,7.05.2022,E0898,Servo command stop [JT2Axis],2.0
+1982,34,14.05.2022,E0898,Servo command stop [JT2Axis],2.0
+1983,34,16.05.2022,E0898,Servo command stop [JT2Axis],2.0
+1984,34,7.06.2022,E0898,Servo command stop [JT2Axis],2.0
+1985,34,10.06.2022,E0898,Servo command stop [JT2Axis],2.0
+1986,34,11.06.2022,E0898,Servo command stop [JT2Axis],2.0
+1987,34,16.06.2022,E0898,Servo command stop [JT2Axis],2.0
+1988,34,16.06.2022,E0898,???????? [JT2?],2.0
+1997,34,21.07.2022,E0898,Servo command stop [JT2Axis],2.0
+1998,34,22.07.2022,E0898,Servo command stop [JT2Axis],2.0
+1999,34,24.07.2022,E0898,???????? [JT2?],2.0
+2000,34,24.07.2022,E0898,Servo command stop [JT2Axis],2.0
+2001,34,26.07.2022,E0898,???????? [JT2?],2.0
+2002,34,26.07.2022,E0898,Servo command stop [JT2Axis],2.0
+2003,34,28.07.2022,E0898,???????? [JT2?],2.0
+2004,34,28.07.2022,E0898,Servo command stop [JT2Axis],2.0
+2013,35,23.02.2021,E0898,Servo command stop [JT2Axis],2.0
+2200,40,22.11.2021,E0898,Servo command stop [JT2Axis],2.0
+2206,40,27.01.2022,E0898,Servo command stop [JT2Axis],2.0
+2207,40,8.02.2022,E0898,Servo command stop [JT2Axis],2.0
+2208,40,19.06.2022,E0898,Servo command stop [JT2Axis],2.0
+2209,40,19.06.2022,E0898,???????? [JT2?],2.0
+2210,40,22.06.2022,E0898,Servo command stop [JT2Axis],2.0
+2211,40,22.06.2022,E0898,???????? [JT2?],2.0
+2212,40,23.07.2022,E0898,???????? [JT2?],2.0
+2213,40,23.07.2022,E0898,Servo command stop [JT2Axis],2.0
+2246,43,9.11.2021,E0898,Servo command stop [JT2Axis],2.0
+2251,43,14.12.2021,E0898,Servo command stop [JT2Axis],2.0
+2252,43,22.12.2021,E0898,Servo command stop [JT2Axis],2.0
+2253,43,18.01.2022,E0898,Servo command stop [JT2Axis],2.0
+2274,43,28.02.2022,E0898,Servo command stop [JT2Axis],2.0
+2275,43,1.03.2022,E0898,Servo command stop [JT2Axis],2.0
+2277,43,17.03.2022,E0898,Servo command stop [JT2Axis],2.0
+2282,43,13.04.2022,E0898,Servo command stop [JT2Axis],2.0
+2284,43,16.05.2022,E0898,Servo command stop [JT2Axis],2.0
+2288,43,6.06.2022,E0898,Servo command stop [JT2Axis],2.0
+2289,43,16.06.2022,E0898,Servo command stop [JT2Axis],2.0
+2350,45,28.07.2021,E0898,Servo command stop [JT2Axis],2.0
+2354,45,16.08.2021,E0898,Servo command stop [JT2Axis],2.0
+2356,45,13.09.2021,E0898,Servo command stop [JT2Axis],2.0
+2357,45,15.11.2021,E0898,Servo command stop [JT2Axis],2.0
+2359,45,20.11.2021,E0898,Servo command stop [JT2Axis],2.0
+2361,45,29.11.2021,E0898,Servo command stop [JT2Axis],2.0
+2362,45,30.11.2021,E0898,Servo command stop [JT2Axis],2.0
+2364,45,29.12.2021,E0898,Servo command stop [JT2Axis],2.0
+2366,45,29.12.2021,E0898,???????? [JT2?],2.0
+2368,45,13.01.2022,E0898,Servo command stop [JT2Axis],2.0
+2370,45,13.01.2022,E0898,???????? [JT2?],2.0
+2374,45,29.01.2022,E0898,Servo command stop [JT2Axis],2.0
+2375,45,29.01.2022,E0898,???????? [JT2?],2.0
+2376,45,5.02.2022,E0898,Servo command stop [JT2Axis],2.0
+2378,45,5.02.2022,E0898,???????? [JT2?],2.0
+2380,45,28.04.2022,E0898,Servo command stop [JT2Axis],2.0
+2382,45,28.04.2022,E0898,???????? [JT2?],2.0
+2384,45,12.05.2022,E0898,Servo command stop [JT2Axis],2.0
+2386,45,12.05.2022,E0898,???????? [JT2?],2.0
+2396,45,2.06.2022,E0898,???????? [JT2?],2.0
+2398,45,2.06.2022,E0898,Servo command stop [JT2Axis],2.0
+2402,45,25.06.2022,E0898,???????? [JT2?],2.0
+2404,45,25.06.2022,E0898,Servo command stop [JT2Axis],2.0
+2408,45,21.07.2022,E0898,???????? [JT2?],2.0
+2409,45,21.07.2022,E0898,Servo command stop [JT2Axis],2.0
+2416,46,9.09.2021,E0898,Servo command stop [JT2Axis],2.0
+2434,46,7.10.2021,E0898,Servo command stop [JT2Axis],2.0
+2439,46,12.10.2021,E0898,Servo command stop [JT2Axis],2.0
+2440,46,13.10.2021,E0898,Servo command stop [JT2Axis],2.0
+2441,46,15.10.2021,E0898,Servo command stop [JT2Axis],2.0
+2442,46,18.10.2021,E0898,Servo command stop [JT2Axis],2.0
+2444,46,22.10.2021,E0898,Servo command stop [JT2Axis],2.0
+2447,46,23.10.2021,E0898,Servo command stop [JT2Axis],2.0
+2452,46,26.10.2021,E0898,Servo command stop [JT2Axis],2.0
+2458,46,13.12.2021,E0898,Servo command stop [JT2Axis],2.0
+2460,46,14.12.2021,E0898,Servo command stop [JT2Axis],2.0
+2462,46,20.12.2021,E0898,Servo command stop [JT2Axis],2.0
+2465,46,22.12.2021,E0898,Servo command stop [JT2Axis],2.0
+2467,46,7.01.2022,E0898,Servo command stop [JT2Axis],2.0
+2469,46,12.01.2022,E0898,Servo command stop [JT2Axis],2.0
+2471,46,13.01.2022,E0898,Servo command stop [JT2Axis],2.0
+2473,46,18.01.2022,E0898,Servo command stop [JT2Axis],2.0
+2474,46,24.01.2022,E0898,Servo command stop [JT2Axis],2.0
+2481,46,31.01.2022,E0898,Servo command stop [JT2Axis],2.0
+2485,46,1.02.2022,E0898,Servo command stop [JT2Axis],2.0
+2489,46,10.02.2022,E0898,Servo command stop [JT2Axis],2.0
+2491,46,11.02.2022,E0898,Servo command stop [JT2Axis],2.0
+2493,46,14.02.2022,E0898,Servo command stop [JT2Axis],2.0
+2497,46,23.02.2022,E0898,Servo command stop [JT2Axis],2.0
+2499,46,2.03.2022,E0898,Servo command stop [JT2Axis],2.0
+2501,46,4.03.2022,E0898,Servo command stop [JT2Axis],2.0
+2582,46,24.03.2022,E0898,???????? [JT2?],2.0
+2584,46,24.03.2022,E0898,Servo command stop [JT2Axis],2.0
+2586,46,30.03.2022,E0898,???????? [JT2?],2.0
+2588,46,30.03.2022,E0898,Servo command stop [JT2Axis],2.0
+2590,46,1.04.2022,E0898,???????? [JT2?],2.0
+2592,46,1.04.2022,E0898,Servo command stop [JT2Axis],2.0
+2593,46,4.04.2022,E0898,???????? [JT2?],2.0
+2594,46,4.04.2022,E0898,Servo command stop [JT2Axis],2.0
+2595,46,6.04.2022,E0898,???????? [JT2?],2.0
+2596,46,6.04.2022,E0898,Servo command stop [JT2Axis],2.0
+2598,46,7.04.2022,E0898,???????? [JT2?],2.0
+2600,46,7.04.2022,E0898,Servo command stop [JT2Axis],2.0
+2602,46,13.04.2022,E0898,???????? [JT2?],2.0
+2604,46,13.04.2022,E0898,Servo command stop [JT2Axis],2.0
+2606,46,14.04.2022,E0898,???????? [JT2?],2.0
+2608,46,14.04.2022,E0898,Servo command stop [JT2Axis],2.0
+2610,46,18.04.2022,E0898,???????? [JT2?],2.0
+2612,46,18.04.2022,E0898,Servo command stop [JT2Axis],2.0
+2618,46,22.04.2022,E0898,Servo command stop [JT2Axis],2.0
+2620,46,22.04.2022,E0898,???????? [JT2?],2.0
+2621,46,28.04.2022,E0898,Servo command stop [JT2Axis],2.0
+2622,46,28.04.2022,E0898,???????? [JT2?],2.0
+2628,46,12.05.2022,E0898,Servo command stop [JT2Axis],2.0
+2630,46,12.05.2022,E0898,???????? [JT2?],2.0
+2632,46,2.06.2022,E0898,???????? [JT2?],2.0
+2634,46,2.06.2022,E0898,Servo command stop [JT2Axis],2.0
+2637,46,18.06.2022,E0898,???????? [JT2?],2.0
+2638,46,18.06.2022,E0898,Servo command stop [JT2Axis],2.0
+2642,46,22.06.2022,E0898,???????? [JT2?],2.0
+2644,46,22.06.2022,E0898,Servo command stop [JT2Axis],2.0
+2646,46,23.06.2022,E0898,???????? [JT2?],2.0
+2648,46,23.06.2022,E0898,Servo command stop [JT2Axis],2.0
+2649,46,2.07.2022,E0898,???????? [JT2?],2.0
+2650,46,2.07.2022,E0898,Servo command stop [JT2Axis],2.0
+2652,46,18.07.2022,E0898,???????? [JT2?],2.0
+2654,46,18.07.2022,E0898,Servo command stop [JT2Axis],2.0
+2658,46,26.07.2022,E0898,???????? [JT2?],2.0
+2660,46,26.07.2022,E0898,Servo command stop [JT2Axis],2.0
+2663,46,29.07.2022,E0898,???????? [JT2?],2.0
+2664,46,29.07.2022,E0898,Servo command stop [JT2Axis],2.0
+2694,47,17.12.2021,E0898,Servo command stop [JT2Axis],2.0
+2793,50,27.09.2021,E0898,Servo command stop [JT2Axis],2.0
+2807,50,19.06.2022,E0898,Servo command stop [JT2Axis],2.0
+2825,51,27.09.2021,E0898,Servo command stop [JT2Axis],2.0
+2842,52,12.07.2021,E0898,Servo command stop [JT2Axis],2.0
+2885,54,26.06.2021,E0898,Servo command stop [JT2Axis],2.0
+2886,54,29.06.2021,E0898,Servo command stop [JT2Axis],2.0
+2887,54,2.07.2021,E0898,Servo command stop [JT2Axis],2.0
+2888,54,3.07.2021,E0898,Servo command stop [JT2Axis],2.0
+2898,54,14.09.2021,E0898,Servo command stop [JT2Axis],2.0
+2901,54,24.11.2021,E0898,Servo command stop [JT2Axis],2.0
+2902,54,24.11.2021,E0898,???????? [JT2?],2.0
+2903,54,26.11.2021,E0898,Servo command stop [JT2Axis],2.0
+2904,54,26.11.2021,E0898,???????? [JT2?],2.0
+2905,54,3.12.2021,E0898,Servo command stop [JT2Axis],2.0
+2906,54,3.12.2021,E0898,???????? [JT2?],2.0
+2909,54,15.12.2021,E0898,Servo command stop [JT2Axis],2.0
+2910,54,15.12.2021,E0898,???????? [JT2?],2.0
+2913,54,6.01.2022,E0898,Servo command stop [JT2Axis],2.0
+2914,54,6.01.2022,E0898,???????? [JT2?],2.0
+2921,54,19.03.2022,E0898,???????? [JT2?],2.0
+2922,54,19.03.2022,E0898,Servo command stop [JT2Axis],2.0
+2923,54,22.03.2022,E0898,???????? [JT2?],2.0
+2924,54,22.03.2022,E0898,Servo command stop [JT2Axis],2.0
+2925,54,5.04.2022,E0898,???????? [JT2?],2.0
+2926,54,5.04.2022,E0898,Servo command stop [JT2Axis],2.0
+2929,54,3.06.2022,E0898,???????? [JT2?],2.0
+2930,54,3.06.2022,E0898,Servo command stop [JT2Axis],2.0
+3705,92,3.02.2021,E0898,Servo command stop [JT2Axis],2.0
+3706,92,27.02.2021,E0898,Servo command stop [JT2Axis],2.0
+3707,92,13.03.2021,E0898,Servo command stop [JT2Axis],2.0
+3709,92,7.04.2021,E0898,Servo command stop [JT2Axis],2.0
+3713,92,4.03.2022,E0898,Servo command stop [JT2Axis],2.0
+3714,92,1.04.2022,E0898,Servo command stop [JT2Axis],2.0
+3733,92,7.06.2022,E0898,Servo command stop [JT2Axis],2.0
+3828,104,8.07.2021,E0898,Servo command stop [JT2Axis],2.0
+3830,104,10.07.2021,E0898,Servo command stop [JT2Axis],2.0
+3831,104,28.07.2021,E0898,Servo command stop [JT2Axis],2.0
+3837,104,13.09.2021,E0898,Servo command stop [JT2Axis],2.0
+3838,104,14.09.2021,E0898,Servo command stop [JT2Axis],2.0
+3839,104,3.11.2021,E0898,Servo command stop [JT2Axis],2.0
+3840,104,4.11.2021,E0898,Servo command stop [JT2Axis],2.0
+3841,104,17.11.2021,E0898,Servo command stop [JT2Axis],2.0
+3843,104,12.01.2022,E0898,Servo command stop [JT2Axis],2.0
+3844,104,18.01.2022,E0898,Servo command stop [JT2Axis],2.0
+3847,104,1.04.2022,E0898,Servo command stop [JT2Axis],2.0
+3848,104,3.06.2022,E0898,Servo command stop [JT2Axis],2.0
+3849,104,6.06.2022,E0898,Servo command stop [JT2Axis],2.0
+3852,105,27.10.2021,E0898,Servo command stop [JT2Axis],2.0
+3853,105,5.11.2021,E0898,Servo command stop [JT2Axis],2.0
+3854,105,6.11.2021,E0898,Servo command stop [JT2Axis],2.0
+3856,105,2.02.2022,E0898,Servo command stop [JT2Axis],2.0
+3857,105,8.02.2022,E0898,Servo command stop [JT2Axis],2.0
+3858,105,23.02.2022,E0898,Servo command stop [JT2Axis],2.0
+3859,105,2.04.2022,E0898,Servo command stop [JT2Axis],2.0
+3861,105,25.05.2022,E0898,Servo command stop [JT2Axis],2.0
+3862,106,16.10.2021,E0898,Servo command stop [JT2Axis],2.0
+3863,106,11.11.2021,E0898,Servo command stop [JT2Axis],2.0
+3864,106,19.11.2021,E0898,Servo command stop [JT2Axis],2.0
+3865,106,21.11.2021,E0898,Servo command stop [JT2Axis],2.0
+3866,106,23.11.2021,E0898,Servo command stop [JT2Axis],2.0
+3867,106,9.12.2021,E0898,Servo command stop [JT2Axis],2.0
+3868,106,18.12.2021,E0898,Servo command stop [JT2Axis],2.0
+3869,106,24.12.2021,E0898,Servo command stop [JT2Axis],2.0
+3870,106,29.12.2021,E0898,Servo command stop [JT2Axis],2.0
+3871,106,8.01.2022,E0898,Servo command stop [JT2Axis],2.0
+3872,106,13.01.2022,E0898,Servo command stop [JT2Axis],2.0
+3873,106,14.01.2022,E0898,Servo command stop [JT2Axis],2.0
+3879,106,24.01.2022,E0898,Servo command stop [JT2Axis],2.0
+3880,106,12.02.2022,E0898,Servo command stop [JT2Axis],2.0
+3881,106,17.02.2022,E0898,Servo command stop [JT2Axis],2.0
+3882,106,24.02.2022,E0898,Servo command stop [JT2Axis],2.0
+3883,106,28.02.2022,E0898,Servo command stop [JT2Axis],2.0
+3884,106,1.03.2022,E0898,Servo command stop [JT2Axis],2.0
+3885,106,2.03.2022,E0898,Servo command stop [JT2Axis],2.0
+3887,106,28.03.2022,E0898,Servo command stop [JT2Axis],2.0
+3888,106,11.04.2022,E0898,Servo command stop [JT2Axis],2.0
+3889,106,20.04.2022,E0898,Servo command stop [JT2Axis],2.0
+3890,106,25.04.2022,E0898,Servo command stop [JT2Axis],2.0
+3891,106,5.05.2022,E0898,Servo command stop [JT2Axis],2.0
+3892,106,11.05.2022,E0898,Servo command stop [JT2Axis],2.0
+3894,106,27.05.2022,E0898,Servo command stop [JT2Axis],2.0
+3895,106,7.06.2022,E0898,Servo command stop [JT2Axis],2.0
+3896,106,11.06.2022,E0898,Servo command stop [JT2Axis],2.0
+3897,106,23.06.2022,E0898,Servo command stop [JT2Axis],2.0
+3898,106,24.06.2022,E0898,Servo command stop [JT2Axis],2.0
+3899,106,28.06.2022,E0898,Servo command stop [JT2Axis],2.0
+3900,106,2.07.2022,E0898,Servo command stop [JT2Axis],2.0
+3901,106,13.07.2022,E0898,Servo command stop [JT2Axis],2.0
+3904,106,19.07.2022,E0898,Servo command stop [JT2Axis],2.0
+3905,106,25.07.2022,E0898,Servo command stop [JT2Axis],2.0
+3906,106,27.07.2022,E0898,Servo command stop [JT2Axis],2.0
+3907,106,29.07.2022,E0898,Servo command stop [JT2Axis],2.0
+4359,112,6.07.2021,E0898,Servo command stop [JT2Axis],2.0
+4363,112,16.10.2021,E0898,Servo command stop [JT2Axis],2.0
+4364,112,3.11.2021,E0898,Servo command stop [JT2Axis],2.0
+4365,112,5.11.2021,E0898,Servo command stop [JT2Axis],2.0
+4367,112,1.12.2021,E0898,Servo command stop [JT2Axis],2.0
+4368,112,2.02.2022,E0898,Servo command stop [JT2Axis],2.0
+4373,112,23.06.2022,E0898,Servo command stop [JT2Axis],2.0
+4525,122,13.01.2022,E0898,Servo command stop [JT2Axis],2.0
+6309,147,19.12.2021,E0898,Servo command stop [JT2Axis],2.0
+6310,147,21.12.2021,E0898,Servo command stop [JT2Axis],2.0
+6311,149,5.03.2021,E0898,Servo command stop [JT2Axis],2.0
+6312,149,8.04.2021,E0898,Servo command stop [JT2Axis],2.0
+6313,149,13.04.2021,E0898,Servo command stop [JT2Axis],2.0
+6315,149,15.06.2021,E0898,Servo command stop [JT2Axis],2.0
+6316,149,12.07.2021,E0898,Servo command stop [JT2Axis],2.0
+6317,149,16.07.2021,E0898,Servo command stop [JT2Axis],2.0
+6319,149,8.10.2021,E0898,Servo command stop [JT2Axis],2.0
+6320,149,10.11.2021,E0898,Servo command stop [JT2Axis],2.0
+6321,149,19.12.2021,E0898,Servo command stop [JT2Axis],2.0
+6322,149,21.02.2022,E0898,Servo command stop [JT2Axis],2.0
+6329,150,9.01.2022,E0898,Servo command stop [JT2Axis],2.0
+6330,151,2.07.2021,E0898,Servo command stop [JT2Axis],2.0
+6334,151,15.11.2021,E0898,Servo command stop [JT2Axis],2.0
+6335,151,6.01.2022,E0898,Servo command stop [JT2Axis],2.0
+8516,184,14.09.2021,E0898,Servo command stop [JT2Axis],2.0
+8517,184,14.09.2021,E0898,???????? [JT2?],2.0
+8518,184,9.11.2021,E0898,Servo command stop [JT2Axis],2.0
+8519,184,9.11.2021,E0898,???????? [JT2?],2.0
+9983,212,16.02.2022,E0898,Servo command stop [JT2Axis],2.0
+10213,225,24.02.2021,E0898,Servo command stop [JT2Axis],2.0
+10214,225,28.07.2021,E0898,Servo command stop [JT2Axis],2.0
+10226,227,7.10.2021,E0898,Servo command stop [JT2Axis],2.0
+10230,232,22.02.2021,E0898,Servo command stop [JT2Axis],2.0
+10234,232,24.11.2021,E0898,Servo command stop [JT2Axis],2.0
+10235,232,29.11.2021,E0898,Servo command stop [JT2Axis],2.0
+10236,232,25.04.2022,E0898,Servo command stop [JT2Axis],2.0
+10237,232,24.05.2022,E0898,Servo command stop [JT2Axis],2.0
+10251,236,18.09.2021,E0898,Servo command stop [JT2Axis],2.0
+11476,277,12.01.2021,E0898,Servo command stop [JT2Axis],2.0
+11477,277,17.01.2021,E0898,Servo command stop [JT2Axis],2.0
+11478,277,5.03.2021,E0898,Servo command stop [JT2Axis],2.0
+11479,277,6.04.2021,E0898,Servo command stop [JT2Axis],2.0
+11480,277,26.04.2021,E0898,Servo command stop [JT2Axis],2.0
+11481,277,4.05.2021,E0898,Servo command stop [JT2Axis],2.0
+11482,277,5.05.2021,E0898,Servo command stop [JT2Axis],2.0
+11483,277,6.05.2021,E0898,Servo command stop [JT2Axis],2.0
+11484,277,20.05.2021,E0898,Servo command stop [JT2Axis],2.0
+11494,277,28.06.2021,E0898,Servo command stop [JT2Axis],2.0
+11495,277,29.06.2021,E0898,Servo command stop [JT2Axis],2.0
+11496,277,30.06.2021,E0898,Servo command stop [JT2Axis],2.0
+11497,277,30.07.2021,E0898,Servo command stop [JT2Axis],2.0
+11498,277,19.08.2021,E0898,Servo command stop [JT2Axis],2.0
+11499,277,13.09.2021,E0898,Servo command stop [JT2Axis],2.0
+11500,277,2.10.2021,E0898,Servo command stop [JT2Axis],2.0
+11501,277,6.10.2021,E0898,Servo command stop [JT2Axis],2.0
+11502,277,8.10.2021,E0898,Servo command stop [JT2Axis],2.0
+11508,277,23.10.2021,E0898,Servo command stop [JT2Axis],2.0
+11509,277,26.10.2021,E0898,Servo command stop [JT2Axis],2.0
+11510,277,28.10.2021,E0898,Servo command stop [JT2Axis],2.0
+11511,277,3.11.2021,E0898,Servo command stop [JT2Axis],2.0
+11514,277,17.11.2021,E0898,Servo command stop [JT2Axis],2.0
+11524,277,23.02.2022,E0898,Servo command stop [JT2Axis],2.0
+11540,277,25.03.2022,E0898,Servo command stop [JT2Axis],2.0
+11564,277,10.05.2022,E0898,Servo command stop [JT2Axis],2.0
+11581,277,26.05.2022,E0898,Servo command stop [JT2Axis],2.0
+11582,277,27.05.2022,E0898,Servo command stop [JT2Axis],2.0
+11583,277,27.06.2022,E0898,Servo command stop [JT2Axis],2.0
+11611,280,27.05.2021,E0898,Servo command stop [JT2Axis],2.0
+11613,280,6.07.2021,E0898,Servo command stop [JT2Axis],2.0
+11614,280,19.08.2021,E0898,Servo command stop [JT2Axis],2.0
+11615,280,9.09.2021,E0898,Servo command stop [JT2Axis],2.0
+11616,280,13.09.2021,E0898,Servo command stop [JT2Axis],2.0
+11617,280,15.09.2021,E0898,Servo command stop [JT2Axis],2.0
+11618,280,21.09.2021,E0898,Servo command stop [JT2Axis],2.0
+11619,280,6.10.2021,E0898,Servo command stop [JT2Axis],2.0
+11627,280,23.10.2021,E0898,Servo command stop [JT2Axis],2.0
+11628,280,3.11.2021,E0898,Servo command stop [JT2Axis],2.0
+11629,280,8.11.2021,E0898,Servo command stop [JT2Axis],2.0
+11630,280,13.11.2021,E0898,Servo command stop [JT2Axis],2.0
+11631,280,24.11.2021,E0898,Servo command stop [JT2Axis],2.0
+11632,280,11.12.2021,E0898,Servo command stop [JT2Axis],2.0
+11633,280,9.02.2022,E0898,Servo command stop [JT2Axis],2.0
+11641,280,16.02.2022,E0898,Servo command stop [JT2Axis],2.0
+11642,280,21.02.2022,E0898,Servo command stop [JT2Axis],2.0
+11650,280,4.04.2022,E0898,Servo command stop [JT2Axis],2.0
+11658,280,25.04.2022,E0898,Servo command stop [JT2Axis],2.0
+11672,281,26.12.2020,E0898,Servo command stop [JT2Axis],2.0
+11673,281,20.01.2021,E0898,Servo command stop [JT2Axis],2.0
+11681,281,9.02.2021,E0898,Servo command stop [JT2Axis],2.0
+11683,281,23.02.2021,E0898,Servo command stop [JT2Axis],2.0
+11684,281,19.03.2021,E0898,Servo command stop [JT2Axis],2.0
+11686,281,10.04.2021,E0898,Servo command stop [JT2Axis],2.0
+11687,281,30.04.2021,E0898,Servo command stop [JT2Axis],2.0
+11688,281,7.05.2021,E0898,Servo command stop [JT2Axis],2.0
+11689,281,30.07.2021,E0898,Servo command stop [JT2Axis],2.0
+11690,281,21.09.2021,E0898,Servo command stop [JT2Axis],2.0
+11691,281,24.09.2021,E0898,Servo command stop [JT2Axis],2.0
+11692,281,29.09.2021,E0898,Servo command stop [JT2Axis],2.0
+11693,281,13.10.2021,E0898,Servo command stop [JT2Axis],2.0
+11694,281,18.10.2021,E0898,Servo command stop [JT2Axis],2.0
+11696,281,31.10.2021,E0898,Servo command stop [JT2Axis],2.0
+11698,281,3.11.2021,E0898,Servo command stop [JT2Axis],2.0
+11699,281,15.11.2021,E0898,Servo command stop [JT2Axis],2.0
+11700,281,16.11.2021,E0898,Servo command stop [JT2Axis],2.0
+11701,281,17.11.2021,E0898,Servo command stop [JT2Axis],2.0
+11702,281,27.01.2022,E0898,Servo command stop [JT2Axis],2.0
+11703,281,18.02.2022,E0898,Servo command stop [JT2Axis],2.0
+11704,281,16.03.2022,E0898,Servo command stop [JT2Axis],2.0
+11705,281,31.03.2022,E0898,Servo command stop [JT2Axis],2.0
+11706,281,7.04.2022,E0898,Servo command stop [JT2Axis],2.0
+11707,281,11.05.2022,E0898,Servo command stop [JT2Axis],2.0
+11711,281,23.05.2022,E0898,Servo command stop [JT2Axis],2.0
+11712,281,24.05.2022,E0898,Servo command stop [JT2Axis],2.0
+11713,281,7.06.2022,E0898,Servo command stop [JT2Axis],2.0
+11714,281,17.06.2022,E0898,Servo command stop [JT2Axis],2.0
+11715,281,21.06.2022,E0898,Servo command stop [JT2Axis],2.0
+11716,281,19.07.2022,E0898,Servo command stop [JT2Axis],2.0
+11719,282,30.04.2021,E0898,Servo command stop [JT2Axis],2.0
+11720,282,6.10.2021,E0898,Servo command stop [JT2Axis],2.0
+12342,295,16.09.2021,E0898,Servo command stop [JT2Axis],2.0
+12343,295,21.09.2021,E0898,Servo command stop [JT2Axis],2.0
+12344,295,23.09.2021,E0898,Servo command stop [JT2Axis],2.0
+12345,295,30.09.2021,E0898,Servo command stop [JT2Axis],2.0
+12346,295,7.10.2021,E0898,Servo command stop [JT2Axis],2.0
+12347,295,19.10.2021,E0898,Servo command stop [JT2Axis],2.0
+12348,295,1.03.2022,E0898,Servo command stop [JT2Axis],2.0
+12349,295,3.03.2022,E0898,Servo command stop [JT2Axis],2.0
+12350,295,26.03.2022,E0898,Servo command stop [JT2Axis],2.0
+12353,295,22.06.2022,E0898,Servo command stop [JT2Axis],2.0
+12354,295,25.06.2022,E0898,Servo command stop [JT2Axis],2.0
+12355,295,28.06.2022,E0898,Servo command stop [JT2Axis],2.0
+12486,297,3.02.2022,E0898,Servo command stop [JT2Axis],2.0
+12592,301,28.12.2020,E0898,Servo command stop [JT2Axis],2.0
+12593,301,8.02.2021,E0898,Servo command stop [JT2Axis],2.0
+12594,301,20.02.2021,E0898,Servo command stop [JT2Axis],2.0
+12595,301,29.03.2021,E0898,Servo command stop [JT2Axis],2.0
+12596,301,13.04.2021,E0898,Servo command stop [JT2Axis],2.0
+12597,301,24.05.2021,E0898,Servo command stop [JT2Axis],2.0
+12598,301,27.05.2021,E0898,Servo command stop [JT2Axis],2.0
+12600,301,16.08.2021,E0898,Servo command stop [JT2Axis],2.0
+12601,301,13.09.2021,E0898,Servo command stop [JT2Axis],2.0
+12602,301,1.10.2021,E0898,Servo command stop [JT2Axis],2.0
+12612,301,16.10.2021,E0898,Servo command stop [JT2Axis],2.0
+12614,301,25.02.2022,E0898,Servo command stop [JT2Axis],2.0
+12615,301,26.02.2022,E0898,Servo command stop [JT2Axis],2.0
+12617,301,1.04.2022,E0898,Servo command stop [JT2Axis],2.0
+12618,301,2.04.2022,E0898,Servo command stop [JT2Axis],2.0
+12619,301,8.04.2022,E0898,Servo command stop [JT2Axis],2.0
+12620,301,9.04.2022,E0898,Servo command stop [JT2Axis],2.0
+12626,302,12.09.2020,E0898,Servo command stop [JT2Axis],2.0
+12632,302,5.01.2021,E0898,Servo command stop [JT2Axis],2.0
+12635,302,20.02.2021,E0898,Servo command stop [JT2Axis],2.0
+12640,302,17.03.2021,E0898,Servo command stop [JT2Axis],2.0
+12641,302,12.04.2021,E0898,Servo command stop [JT2Axis],2.0
+12643,302,26.05.2021,E0898,Servo command stop [JT2Axis],2.0
+12644,302,2.06.2021,E0898,Servo command stop [JT2Axis],2.0
+12653,302,31.07.2021,E0898,Servo command stop [JT2Axis],2.0
+12660,302,2.10.2021,E0898,Servo command stop [JT2Axis],2.0
+12663,302,3.12.2021,E0898,Servo command stop [JT2Axis],2.0
+12669,302,12.02.2022,E0898,Servo command stop [JT2Axis],2.0
+12670,302,28.02.2022,E0898,Servo command stop [JT2Axis],2.0
+12674,302,13.04.2022,E0898,Servo command stop [JT2Axis],2.0
+12680,302,24.05.2022,E0898,Servo command stop [JT2Axis],2.0
+12682,302,10.06.2022,E0898,Servo command stop [JT2Axis],2.0
+12696,302,16.07.2022,E0898,Servo command stop [JT2Axis],2.0
+12699,302,25.07.2022,E0898,Servo command stop [JT2Axis],2.0
+12810,307,12.07.2022,E0898,Servo command stop [JT2Axis],2.0
+12822,308,25.10.2021,E0898,Servo command stop [JT2Axis],2.0
+12850,309,27.05.2022,E0898,Servo command stop [JT2Axis],2.0
+12852,310,5.03.2022,E0898,Servo command stop [JT2Axis],2.0
+12853,310,17.03.2022,E0898,Servo command stop [JT2Axis],2.0
+12854,310,29.03.2022,E0898,Servo command stop [JT2Axis],2.0
+12857,310,16.04.2022,E0898,Servo command stop [JT2Axis],2.0
+12861,310,3.06.2022,E0898,Servo command stop [JT2Axis],2.0
+12862,310,7.06.2022,E0898,Servo command stop [JT2Axis],2.0
+12863,310,8.06.2022,E0898,Servo command stop [JT2Axis],2.0
+12864,310,13.06.2022,E0898,Servo command stop [JT2Axis],2.0
+12867,311,2.02.2022,E0898,Servo command stop [JT2Axis],2.0
+12907,312,21.09.2021,E0898,Servo command stop [JT2Axis],2.0
+12911,312,2.11.2021,E0898,Servo command stop [JT2Axis],2.0
+12912,312,4.11.2021,E0898,Servo command stop [JT2Axis],2.0
+12913,312,19.11.2021,E0898,Servo command stop [JT2Axis],2.0
+12914,312,23.11.2021,E0898,Servo command stop [JT2Axis],2.0
+12915,312,9.12.2021,E0898,Servo command stop [JT2Axis],2.0
+12916,312,16.02.2022,E0898,Servo command stop [JT2Axis],2.0
+12917,312,18.02.2022,E0898,Servo command stop [JT2Axis],2.0
+12920,312,23.02.2022,E0898,Servo command stop [JT2Axis],2.0
+12921,312,25.02.2022,E0898,Servo command stop [JT2Axis],2.0
+12922,312,16.03.2022,E0898,Servo command stop [JT2Axis],2.0
+12924,312,5.04.2022,E0898,Servo command stop [JT2Axis],2.0
+12925,312,15.04.2022,E0898,Servo command stop [JT2Axis],2.0
+12926,312,26.04.2022,E0898,Servo command stop [JT2Axis],2.0
+12927,312,5.05.2022,E0898,Servo command stop [JT2Axis],2.0
+12939,312,27.05.2022,E0898,Servo command stop [JT2Axis],2.0
+12940,312,28.05.2022,E0898,Servo command stop [JT2Axis],2.0
+12944,312,29.06.2022,E0898,Servo command stop [JT2Axis],2.0
+12951,312,29.07.2022,E0898,Servo command stop [JT2Axis],2.0
+12952,313,10.04.2021,E0898,Servo command stop [JT2Axis],2.0
+12953,313,16.04.2021,E0898,Servo command stop [JT2Axis],2.0
+12976,313,6.05.2021,E0898,Servo command stop [JT2Axis],2.0
+12977,313,16.05.2021,E0898,Servo command stop [JT2Axis],2.0
+12978,313,3.06.2021,E0898,Servo command stop [JT2Axis],2.0
+12986,313,4.06.2021,E0898,Servo command stop [JT2Axis],2.0
+12987,313,22.06.2021,E0898,Servo command stop [JT2Axis],2.0
+12988,313,6.07.2021,E0898,Servo command stop [JT2Axis],2.0
+12989,313,12.07.2021,E0898,Servo command stop [JT2Axis],2.0
+12990,313,27.07.2021,E0898,Servo command stop [JT2Axis],2.0
+12991,313,28.07.2021,E0898,Servo command stop [JT2Axis],2.0
+12992,313,6.09.2021,E0898,Servo command stop [JT2Axis],2.0
+12993,313,7.09.2021,E0898,Servo command stop [JT2Axis],2.0
+12994,313,15.09.2021,E0898,Servo command stop [JT2Axis],2.0
+12995,313,16.09.2021,E0898,Servo command stop [JT2Axis],2.0
+12997,313,24.09.2021,E0898,Servo command stop [JT2Axis],2.0
+12998,313,6.10.2021,E0898,Servo command stop [JT2Axis],2.0
+12999,313,9.10.2021,E0898,Servo command stop [JT2Axis],2.0
+13001,313,18.10.2021,E0898,Servo command stop [JT2Axis],2.0
+13002,313,19.11.2021,E0898,Servo command stop [JT2Axis],2.0
+13003,313,2.12.2021,E0898,Servo command stop [JT2Axis],2.0
+13004,313,16.02.2022,E0898,Servo command stop [JT2Axis],2.0
+13005,313,16.03.2022,E0898,Servo command stop [JT2Axis],2.0
+13006,313,25.03.2022,E0898,Servo command stop [JT2Axis],2.0
+13007,313,2.04.2022,E0898,Servo command stop [JT2Axis],2.0
+13008,313,9.04.2022,E0898,Servo command stop [JT2Axis],2.0
+13009,313,11.04.2022,E0898,Servo command stop [JT2Axis],2.0
+13010,313,20.04.2022,E0898,Servo command stop [JT2Axis],2.0
+13011,313,30.04.2022,E0898,Servo command stop [JT2Axis],2.0
+13012,313,22.05.2022,E0898,Servo command stop [JT2Axis],2.0
+13013,313,28.05.2022,E0898,Servo command stop [JT2Axis],2.0
+13014,313,30.06.2022,E0898,Servo command stop [JT2Axis],2.0
+13015,313,19.07.2022,E0898,Servo command stop [JT2Axis],2.0
+13016,313,21.07.2022,E0898,Servo command stop [JT2Axis],2.0
+13017,314,30.07.2021,E0898,Servo command stop [JT2Axis],2.0
+13020,314,20.09.2021,E0898,Servo command stop [JT2Axis],2.0
+13021,314,25.10.2021,E0898,Servo command stop [JT2Axis],2.0
+13022,314,4.11.2021,E0898,Servo command stop [JT2Axis],2.0
+13023,314,10.11.2021,E0898,Servo command stop [JT2Axis],2.0
+13024,314,23.11.2021,E0898,Servo command stop [JT2Axis],2.0
+13025,314,8.12.2021,E0898,Servo command stop [JT2Axis],2.0
+13026,314,5.02.2022,E0898,Servo command stop [JT2Axis],2.0
+13027,314,14.02.2022,E0898,Servo command stop [JT2Axis],2.0
+13028,314,22.03.2022,E0898,Servo command stop [JT2Axis],2.0
+13029,314,31.03.2022,E0898,Servo command stop [JT2Axis],2.0
+13030,314,16.04.2022,E0898,Servo command stop [JT2Axis],2.0
+13034,314,9.05.2022,E0898,Servo command stop [JT2Axis],2.0
+13053,314,8.06.2022,E0898,Servo command stop [JT2Axis],2.0
+13054,314,13.06.2022,E0898,Servo command stop [JT2Axis],2.0
+13069,315,4.01.2021,E0898,Servo command stop [JT2Axis],2.0
+13070,315,7.01.2021,E0898,Servo command stop [JT2Axis],2.0
+13071,315,17.01.2021,E0898,Servo command stop [JT2Axis],2.0
+13072,315,19.01.2021,E0898,Servo command stop [JT2Axis],2.0
+13079,315,23.02.2021,E0898,Servo command stop [JT2Axis],2.0
+13080,315,3.03.2021,E0898,Servo command stop [JT2Axis],2.0
+13081,315,23.03.2021,E0898,Servo command stop [JT2Axis],2.0
+13082,315,29.03.2021,E0898,Servo command stop [JT2Axis],2.0
+13089,315,16.04.2021,E0898,Servo command stop [JT2Axis],2.0
+13112,315,18.05.2021,E0898,Servo command stop [JT2Axis],2.0
+13113,315,27.07.2021,E0898,Servo command stop [JT2Axis],2.0
+13114,315,17.08.2021,E0898,Servo command stop [JT2Axis],2.0
+13120,315,21.09.2021,E0898,Servo command stop [JT2Axis],2.0
+13121,315,23.09.2021,E0898,Servo command stop [JT2Axis],2.0
+13122,315,7.10.2021,E0898,Servo command stop [JT2Axis],2.0
+13123,315,16.11.2021,E0898,Servo command stop [JT2Axis],2.0
+13124,315,19.11.2021,E0898,Servo command stop [JT2Axis],2.0
+13125,315,22.11.2021,E0898,Servo command stop [JT2Axis],2.0
+13126,315,25.11.2021,E0898,Servo command stop [JT2Axis],2.0
+13128,315,18.01.2022,E0898,Servo command stop [JT2Axis],2.0
+13129,315,7.02.2022,E0898,Servo command stop [JT2Axis],2.0
+13130,315,10.02.2022,E0898,Servo command stop [JT2Axis],2.0
+13136,315,21.02.2022,E0898,Servo command stop [JT2Axis],2.0
+13137,315,22.02.2022,E0898,Servo command stop [JT2Axis],2.0
+13176,315,30.03.2022,E0898,Servo command stop [JT2Axis],2.0
+13177,315,21.04.2022,E0898,Servo command stop [JT2Axis],2.0
+13178,315,6.05.2022,E0898,Servo command stop [JT2Axis],2.0
+13179,315,9.05.2022,E0898,Servo command stop [JT2Axis],2.0
+13180,315,9.06.2022,E0898,Servo command stop [JT2Axis],2.0
+13181,315,20.06.2022,E0898,Servo command stop [JT2Axis],2.0
+13182,315,23.06.2022,E0898,Servo command stop [JT2Axis],2.0
+13412,322,11.02.2021,E0898,Servo command stop [JT2Axis],2.0
+13413,322,13.04.2021,E0898,Servo command stop [JT2Axis],2.0
+13414,322,14.04.2021,E0898,Servo command stop [JT2Axis],2.0
+13415,322,22.04.2021,E0898,Servo command stop [JT2Axis],2.0
+13416,322,5.05.2021,E0898,Servo command stop [JT2Axis],2.0
+13417,322,26.05.2021,E0898,Servo command stop [JT2Axis],2.0
+13419,322,15.09.2021,E0898,Servo command stop [JT2Axis],2.0
+13420,322,30.09.2021,E0898,Servo command stop [JT2Axis],2.0
+13421,322,2.10.2021,E0898,Servo command stop [JT2Axis],2.0
+13422,322,14.10.2021,E0898,Servo command stop [JT2Axis],2.0
+13424,322,23.10.2021,E0898,Servo command stop [JT2Axis],2.0
+13425,322,6.11.2021,E0898,Servo command stop [JT2Axis],2.0
+13426,322,23.11.2021,E0898,Servo command stop [JT2Axis],2.0
+13427,322,25.11.2021,E0898,Servo command stop [JT2Axis],2.0
+13428,322,10.12.2021,E0898,Servo command stop [JT2Axis],2.0
+13429,322,1.02.2022,E0898,Servo command stop [JT2Axis],2.0
+13431,322,30.04.2022,E0898,Servo command stop [JT2Axis],2.0
+13459,322,23.06.2022,E0898,Servo command stop [JT2Axis],2.0
+13460,322,27.06.2022,E0898,Servo command stop [JT2Axis],2.0
+13461,322,29.06.2022,E0898,Servo command stop [JT2Axis],2.0
+13556,328,29.06.2021,E0898,Servo command stop [JT2Axis],2.0
+13849,336,17.03.2022,E0898,Servo command stop [JT2Axis],2.0
+13859,338,19.04.2022,E0898,Servo command stop [JT2Axis],2.0
+14077,346,17.01.2021,E0898,Servo command stop [JT2Axis],2.0
+14097,349,3.01.2022,E0898,Servo command stop [JT3Axis],2.0
+14104,349,24.01.2022,E0898,Servo command stop [JT3Axis],2.0
+14122,350,20.05.2021,E0898,Servo command stop [JT2Axis],2.0
+2143,37,11.08.2021,E0903,Servo communication stop,2.0
+2146,37,11.08.2021,E0903,???????,2.0
+2176,39,5.02.2022,E0903,Servo communication stop,2.0
+2257,43,29.01.2022,E0903,Servo communication stop,2.0
+2286,43,21.05.2022,E0903,Servo communication stop,2.0
+2685,47,11.08.2021,E0903,Servo communication stop,2.0
+2823,51,11.08.2021,E0903,Servo communication stop,2.0
+2895,54,11.08.2021,E0903,Servo communication stop,2.0
+2940,55,6.03.2022,E0903,Servo communication stop,2.0
+3073,59,11.08.2021,E0903,Servo communication stop,2.0
+3330,66,10.08.2020,E0903,Check sum error of system data.,2.0
+3667,86,20.09.2021,E0903,Servo communication stop,2.0
+3694,86,26.06.2022,E0903,Servo communication stop,2.0
+3695,86,26.06.2022,E0903,???????,2.0
+3835,104,12.08.2021,E0903,Servo communication stop,2.0
+4481,116,15.01.2022,E0903,Servo communication stop,2.0
+4489,116,22.01.2022,E0903,Servo communication stop,2.0
+4496,118,6.08.2021,E0903,Servo communication stop,2.0
+7764,176,17.11.2021,E0903,Check sum error of system data.,2.0
+8510,184,11.08.2021,E0903,Servo communication stop,2.0
+8514,184,11.08.2021,E0903,???????,2.0
+9981,212,11.08.2021,E0903,Servo communication stop,2.0
+10016,214,17.02.2022,E0903,Servo communication stop,2.0
+10059,215,11.08.2021,E0903,Servo communication stop,2.0
+10218,225,1.09.2021,E0903,Servo communication stop,2.0
+10245,236,1.09.2021,E0903,Servo communication stop,2.0
+11369,268,11.08.2021,E0903,Servo communication stop,2.0
+11371,268,23.01.2022,E0903,Servo communication stop,2.0
+11375,268,3.07.2022,E0903,Servo communication stop,2.0
+11387,270,19.05.2021,E0903,Servo communication stop,2.0
+11597,279,10.08.2021,E0903,Servo communication stop,2.0
+11732,289,10.01.2021,E0903,Check sum error of system data.,2.0
+12483,297,27.12.2021,E0903,Servo communication stop,2.0
+12485,297,2.01.2022,E0903,Servo communication stop,2.0
+12702,305,7.09.2021,E0903,Check sum error of system data.,2.0
+12876,311,23.02.2022,E0903,Servo communication stop,2.0
+12906,312,3.09.2021,E0903,Servo communication stop,2.0
+13045,314,19.05.2022,E0903,Servo communication stop,2.0
+13118,315,3.09.2021,E0903,Servo communication stop,2.0
+13189,315,12.07.2022,E0903,Servo communication stop,2.0
+13445,322,19.05.2022,E0903,Servo communication stop,2.0
+13468,323,10.08.2021,E0903,Servo communication stop,2.0
+13518,327,11.08.2021,E0903,Servo communication stop,2.0
+13526,328,4.08.2020,E0903,Servo communication stop,2.0
+13553,328,14.03.2021,E0903,Servo communication stop,2.0
+13564,329,8.11.2021,E0903,Servo communication stop,2.0
+13651,330,8.11.2020,E0903,Servo communication stop,2.0
+13702,330,10.08.2021,E0903,Servo communication stop,2.0
+13707,330,31.08.2021,E0903,Servo communication stop,2.0
+14090,349,13.11.2021,E0903,Servo communication stop,2.0
+3332,66,10.08.2020,E1500,[Servo board 1] Servo software does not support connected power block.,2.0
+12700,305,7.09.2021,E1500,[Servo board 1] Servo software does not support connected power block.,2.0
+3978,111,5.02.2021,E1318,[MC1]DC 20V is abnormal.(Servo board1),2.0
+10502,257,2.07.2020,E1318,[MC1]DC 20V is abnormal.(Servo board1),2.0
+4007,111,6.02.2021,E1362,[Servo board1]Speed of tool center point exceeded safety speed.,2.0
+7605,172,7.03.2022,E1362,[Servo board1]Speed of tool center point exceeded safety speed.,2.0
+8175,177,19.04.2022,E1362,[Servo board1]Speed of tool center point exceeded safety speed.,2.0
+11352,265,31.05.2022,E1362,[Servo board1]Speed of tool center point exceeded safety speed.,2.0
+4673,125,22.04.2022,E1305,[MC1]Incorrect operation of K2.(Servo board1),2.0
+6925,163,6.03.2022,E1305,[MC1]Incorrect operation of K2.(Servo board1),2.0
+7416,169,22.12.2021,E1305,[MC1]Incorrect operation of K2.(Servo board1),2.0
+135,2,4.01.2021,E1339,[MC1]P-N??????????(??????1),2.0
+4718,125,19.06.2022,E1339,[MC1]P-N high voltage.(Servo board1),2.0
+4722,125,29.06.2022,E1339,[MC1]P-N high voltage.(Servo board1),2.0
+4922,126,8.12.2021,E1339,[MC1]P-N high voltage.(Servo board1),2.0
+4934,126,14.12.2021,E1339,[MC1]P-N high voltage.(Servo board1),2.0
+4946,126,8.01.2022,E1339,[MC1]P-N high voltage.(Servo board1),2.0
+4973,126,21.01.2022,E1339,[MC1]P-N high voltage.(Servo board1),2.0
+5970,137,4.12.2021,E1339,[MC1]P-N high voltage.(Servo board1),2.0
+6833,157,2.06.2022,E1339,[MC1]P-N high voltage.(Servo board1),2.0
+6902,163,27.10.2021,E1339,[MC1]P-N high voltage.(Servo board1),2.0
+7096,164,10.07.2021,E1339,[MC1]P-N high voltage.(Servo board1),2.0
+7211,164,21.11.2021,E1339,[MC1]P-N high voltage.(Servo board1),2.0
+7305,164,12.04.2022,E1339,[MC1]P-N high voltage.(Servo board1),2.0
+7378,169,1.05.2021,E1339,[MC1]P-N high voltage.(Servo board1),2.0
+7444,169,25.07.2022,E1339,[MC1]P-N high voltage.(Servo board1),2.0
+8480,182,14.03.2022,E1339,[MC1]P-N high voltage.(Servo board1),2.0
+8487,182,17.03.2022,E1339,[MC1]P-N high voltage.(Servo board1),2.0
+8490,182,21.03.2022,E1339,[MC1]P-N high voltage.(Servo board1),2.0
+9288,189,17.06.2021,E1339,[MC1]P-N high voltage.(Servo board1),2.0
+9289,189,17.06.2021,E1339,[MC1]P-N??????????(??????1),2.0
+9292,189,21.06.2021,E1339,[MC1]P-N high voltage.(Servo board1),2.0
+9293,189,21.06.2021,E1339,[MC1]P-N??????????(??????1),2.0
+9298,189,22.06.2021,E1339,[MC1]P-N high voltage.(Servo board1),2.0
+9299,189,22.06.2021,E1339,[MC1]P-N??????????(??????1),2.0
+9322,189,23.06.2021,E1339,[MC1]P-N high voltage.(Servo board1),2.0
+9323,189,23.06.2021,E1339,[MC1]P-N??????????(??????1),2.0
+11249,264,21.09.2021,E1339,[MC1]P-N high voltage.(Servo board1),2.0
+11260,264,29.09.2021,E1339,[MC1]P-N high voltage.(Servo board1),2.0
+4744,125,21.07.2022,E1302,[MC1] OFF check is abnormal.(Servo board1),2.0
+4950,126,11.01.2022,E1302,[MC1] OFF check is abnormal.(Servo board1),2.0
+5000,126,18.02.2022,E1302,[MC1] OFF check is abnormal.(Servo board1),2.0
+5003,126,22.02.2022,E1302,[MC1] OFF check is abnormal.(Servo board1),2.0
+5011,126,24.02.2022,E1302,[MC1] OFF check is abnormal.(Servo board1),2.0
+5012,126,26.02.2022,E1302,[MC1] OFF check is abnormal.(Servo board1),2.0
+5014,126,2.03.2022,E1302,[MC1] OFF check is abnormal.(Servo board1),2.0
+5027,126,17.03.2022,E1302,[MC1] OFF check is abnormal.(Servo board1),2.0
+5071,126,3.06.2022,E1302,[MC1] OFF check is abnormal.(Servo board1),2.0
+5080,126,9.06.2022,E1302,[MC1] OFF check is abnormal.(Servo board1),2.0
+5085,126,10.06.2022,E1302,[MC1] OFF check is abnormal.(Servo board1),2.0
+5094,126,18.06.2022,E1302,[MC1] OFF check is abnormal.(Servo board1),2.0
+5095,126,20.06.2022,E1302,[MC1] OFF check is abnormal.(Servo board1),2.0
+5097,126,21.06.2022,E1302,[MC1] OFF check is abnormal.(Servo board1),2.0
+5144,127,17.07.2020,E1302,[MC1] OFF check is abnormal.(Servo board1),2.0
+5152,127,1.10.2020,E1302,[MC1] OFF check is abnormal.(Servo board1),2.0
+5153,127,2.10.2020,E1302,[MC1] OFF check is abnormal.(Servo board1),2.0
+5155,127,5.10.2020,E1302,[MC1] OFF check is abnormal.(Servo board1),2.0
+5156,127,6.10.2020,E1302,[MC1] OFF check is abnormal.(Servo board1),2.0
+5158,127,12.10.2020,E1302,[MC1] OFF check is abnormal.(Servo board1),2.0
+5160,127,13.10.2020,E1302,[MC1] OFF check is abnormal.(Servo board1),2.0
+5350,132,21.05.2021,E1302,[MC1] OFF check is abnormal.(Servo board1),2.0
+5356,132,28.05.2021,E1302,[MC1] OFF check is abnormal.(Servo board1),2.0
+5765,135,1.06.2021,E1302,[MC1] OFF check is abnormal.(Servo board1),2.0
+5778,135,15.06.2021,E1302,[MC1] OFF check is abnormal.(Servo board1),2.0
+7638,175,22.08.2020,E1302,[MC1] OFF check is abnormal.(Servo board1),2.0
+7646,175,16.09.2020,E1302,[MC1] OFF check is abnormal.(Servo board1),2.0
+7656,175,19.11.2020,E1302,[MC1] OFF check is abnormal.(Servo board1),2.0
+7659,175,28.11.2020,E1302,[MC1] OFF check is abnormal.(Servo board1),2.0
+7662,175,1.12.2020,E1302,[MC1] OFF check is abnormal.(Servo board1),2.0
+7664,175,8.12.2020,E1302,[MC1] OFF check is abnormal.(Servo board1),2.0
+7667,175,16.12.2020,E1302,[MC1] OFF check is abnormal.(Servo board1),2.0
+7669,175,18.12.2020,E1302,[MC1] OFF check is abnormal.(Servo board1),2.0
+7670,175,19.12.2020,E1302,[MC1] OFF check is abnormal.(Servo board1),2.0
+7676,175,21.12.2020,E1302,[MC1] OFF check is abnormal.(Servo board1),2.0
+7679,175,30.12.2020,E1302,[MC1] OFF check is abnormal.(Servo board1),2.0
+7681,175,2.01.2021,E1302,[MC1] OFF check is abnormal.(Servo board1),2.0
+7687,175,6.01.2021,E1302,[MC1] OFF check is abnormal.(Servo board1),2.0
+7689,175,12.01.2021,E1302,[MC1] OFF check is abnormal.(Servo board1),2.0
+7701,175,25.06.2021,E1302,[MC1] OFF check is abnormal.(Servo board1),2.0
+7704,175,26.06.2021,E1302,[MC1] OFF check is abnormal.(Servo board1),2.0
+7706,175,3.07.2021,E1302,[MC1] OFF check is abnormal.(Servo board1),2.0
+7707,175,5.07.2021,E1302,[MC1] OFF check is abnormal.(Servo board1),2.0
+7709,175,7.07.2021,E1302,[MC1] OFF check is abnormal.(Servo board1),2.0
+7713,175,16.07.2021,E1302,[MC1] OFF check is abnormal.(Servo board1),2.0
+7714,175,29.07.2021,E1302,[MC1] OFF check is abnormal.(Servo board1),2.0
+7716,175,30.07.2021,E1302,[MC1] OFF check is abnormal.(Servo board1),2.0
+7718,175,18.08.2021,E1302,[MC1] OFF check is abnormal.(Servo board1),2.0
+7719,175,19.08.2021,E1302,[MC1] OFF check is abnormal.(Servo board1),2.0
+7733,175,9.10.2021,E1302,[MC1] OFF check is abnormal.(Servo board1),2.0
+7756,175,11.06.2022,E1302,[MC1] OFF check is abnormal.(Servo board1),2.0
+7760,175,28.07.2022,E1302,[MC1] OFF check is abnormal.(Servo board1),2.0
+8371,181,6.12.2021,E1302,[MC1] OFF check is abnormal.(Servo board1),2.0
+8376,181,8.12.2021,E1302,[MC1] OFF check is abnormal.(Servo board1),2.0
+8380,181,16.12.2021,E1302,[MC1] OFF check is abnormal.(Servo board1),2.0
+8382,181,31.12.2021,E1302,[MC1] OFF check is abnormal.(Servo board1),2.0
+8385,181,12.01.2022,E1302,[MC1] OFF check is abnormal.(Servo board1),2.0
+8426,181,25.05.2022,E1302,[MC1] OFF check is abnormal.(Servo board1),2.0
+8428,181,27.05.2022,E1302,[MC1] OFF check is abnormal.(Servo board1),2.0
+8815,186,22.07.2020,E1302,[MC1] OFF check is abnormal.(Servo board1),2.0
+8831,186,4.09.2020,E1302,[MC1] OFF check is abnormal.(Servo board1),2.0
+8832,186,5.09.2020,E1302,[MC1] OFF check is abnormal.(Servo board1),2.0
+8838,186,10.09.2020,E1302,[MC1] OFF check is abnormal.(Servo board1),2.0
+8847,186,18.09.2020,E1302,[MC1] OFF check is abnormal.(Servo board1),2.0
+8933,186,1.12.2021,E1302,[MC1] OFF check is abnormal.(Servo board1),2.0
+8935,186,10.12.2021,E1302,[MC1] OFF check is abnormal.(Servo board1),2.0
+8947,186,28.02.2022,E1302,[MC1] OFF check is abnormal.(Servo board1),2.0
+8964,186,12.05.2022,E1302,[MC1] OFF check is abnormal.(Servo board1),2.0
+8967,186,23.06.2022,E1302,[MC1] OFF check is abnormal.(Servo board1),2.0
+8975,186,28.07.2022,E1302,[MC1] OFF check is abnormal.(Servo board1),2.0
+9064,188,24.06.2021,E1302,[MC1]OFF?????????(??????1),2.0
+9065,188,16.08.2021,E1302,[MC1]OFF?????????(??????1),2.0
+9081,188,17.08.2021,E1302,[MC1]OFF?????????(??????1),2.0
+9082,188,24.08.2021,E1302,[MC1]OFF?????????(??????1),2.0
+9085,188,30.08.2021,E1302,[MC1]OFF?????????(??????1),2.0
+9087,188,10.09.2021,E1302,[MC1]OFF?????????(??????1),2.0
+9090,188,16.09.2021,E1302,[MC1]OFF?????????(??????1),2.0
+9107,188,22.09.2021,E1302,[MC1]OFF?????????(??????1),2.0
+9117,188,28.10.2021,E1302,[MC1]OFF?????????(??????1),2.0
+9161,188,23.11.2021,E1302,[MC1]OFF?????????(??????1),2.0
+9165,188,10.12.2021,E1302,[MC1]OFF?????????(??????1),2.0
+9173,188,16.12.2021,E1302,[MC1]OFF?????????(??????1),2.0
+10897,259,7.01.2021,E1302,[MC1] OFF check is abnormal.(Servo board1),2.0
+10935,259,30.03.2021,E1302,[MC1] OFF check is abnormal.(Servo board1),2.0
+10965,259,18.03.2022,E1302,[MC1] OFF check is abnormal.(Servo board1),2.0
+10983,259,20.07.2022,E1302,[MC1] OFF check is abnormal.(Servo board1),2.0
+5007,126,22.02.2022,E1309,[MC1]Incorrect operation of safety relay KS3.(Servo board1),2.0
+5145,127,4.08.2020,E1333,Motor power ON signal has turned off.(Servo board1)(MC1),2.0
+6924,163,6.03.2022,E1304,[MC1]Incorrect operation of K1.(Servo board1),2.0
+208,2,9.07.2022,E1363,[??????1]????????????????????,2.0
+9527,193,14.03.2021,E1363,[Servo board1]Speed of flange center point exceeded safety speed.,2.0
+9530,193,14.03.2021,E1363,[??????1]????????????????????,2.0
+10266,253,17.09.2021,E1363,[Servo board1]Speed of flange center point exceeded safety speed.,2.0
+10501,257,2.07.2020,E1338,[MC1]P-N low voltage.(Servo board1),2.0
+10504,257,2.07.2020,E1341,[MC1]Regenerative resistor overheat.(Servo board1),2.0
+10505,257,2.07.2020,E1314,[MC1]Thyristor overheat.(Servo board1),2.0
+13670,330,8.11.2020,E9208,Servo communication initialization failure,2.0
+13715,330,3.09.2021,E9208,Servo communication initialization failure,2.0
+14261,356,3.06.2021,E1310,[MC1]Incorrect operation of motor ON relay.(Servo board1),2.0
+984,22,9.08.2020,E0021,Abnormal servo tracking [JT6Axis],2.0
+985,22,9.08.2020,E0021,??????? [JT6?],2.0
+996,22,19.12.2021,E0021,Abnormal servo tracking [JT6Axis],2.0
+997,22,19.12.2021,E0021,??????? [JT6?],2.0
+998,22,20.12.2021,E0021,Abnormal servo tracking [JT6Axis],2.0
+999,22,20.12.2021,E0021,??????? [JT6?],2.0
+1016,22,27.03.2022,E0021,Abnormal servo tracking [JT6Axis],2.0
+1017,22,27.03.2022,E0021,??????? [JT6?],2.0
+1028,23,23.10.2020,E0021,Abnormal servo tracking [JT1Axis],2.0
+1057,23,23.01.2022,E0021,Abnormal servo tracking [JT6Axis],2.0
+2010,35,16.01.2021,E0021,Abnormal servo tracking [JT1Axis],2.0
+2073,37,20.05.2021,E0021,Abnormal servo tracking [J21Axis],2.0
+2074,37,20.05.2021,E0021,??????? [J21?],2.0
+2430,46,26.09.2021,E0021,Abnormal servo tracking [JT1Axis],2.0
+2466,46,24.12.2021,E0021,Abnormal servo tracking [JT1Axis],2.0
+2665,46,31.07.2022,E0021,??????? [JT1?],2.0
+2666,46,31.07.2022,E0021,Abnormal servo tracking [JT1Axis],2.0
+2844,52,25.02.2022,E0021,Abnormal servo tracking [JT6Axis],2.0
+2889,54,1.08.2021,E0021,Abnormal servo tracking [JT1Axis],2.0
+2907,54,13.12.2021,E0021,Abnormal servo tracking [JT1Axis],2.0
+2908,54,13.12.2021,E0021,??????? [JT1?],2.0
+2915,54,8.03.2022,E0021,??????? [JT1?],2.0
+2916,54,8.03.2022,E0021,Abnormal servo tracking [JT1Axis],2.0
+2931,54,26.06.2022,E0021,??????? [JT1?],2.0
+2932,54,26.06.2022,E0021,Abnormal servo tracking [JT1Axis],2.0
+2974,56,26.06.2022,E0021,Abnormal servo tracking [JT6Axis],2.0
+2975,56,26.06.2022,E0021,??????? [JT6?],2.0
+3697,92,29.11.2020,E0021,Abnormal servo tracking [JT1Axis],2.0
+3704,92,17.12.2020,E0021,Abnormal servo tracking [JT1Axis],2.0
+3710,92,1.05.2021,E0021,Abnormal servo tracking [JT1Axis],2.0
+3712,92,4.08.2021,E0021,Abnormal servo tracking [JT1Axis],2.0
+3715,92,10.04.2022,E0021,Abnormal servo tracking [JT1Axis],2.0
+4361,112,8.10.2021,E0021,Abnormal servo tracking [JT1Axis],2.0
+11475,277,27.12.2020,E0021,Abnormal servo tracking [JT1Axis],2.0
+11513,277,7.11.2021,E0021,Abnormal servo tracking [JT1Axis],2.0
+11522,277,23.01.2022,E0021,Abnormal servo tracking [JT1Axis],2.0
+11523,277,6.02.2022,E0021,Abnormal servo tracking [JT1Axis],2.0
+11563,277,9.04.2022,E0021,Abnormal servo tracking [JT1Axis],2.0
+12385,295,8.07.2022,E0021,Abnormal servo tracking [JT5Axis],2.0
+12386,295,8.07.2022,E0021,Abnormal servo tracking [JT1Axis],2.0
+12394,295,13.07.2022,E0021,Abnormal servo tracking [JT6Axis],2.0
+12690,302,11.07.2022,E0021,Abnormal servo tracking [JT1Axis],2.0
+12695,302,11.07.2022,E0021,Abnormal servo tracking [JT5Axis],2.0
+12762,306,21.06.2021,E0021,Abnormal servo tracking [JT1Axis],2.0
+12764,306,29.07.2021,E0021,Abnormal servo tracking [JT4Axis],2.0
+12768,306,19.08.2021,E0021,Abnormal servo tracking [JT4Axis],2.0
+12777,306,25.01.2022,E0021,Abnormal servo tracking [JT1Axis],2.0
+12779,306,31.05.2022,E0021,Abnormal servo tracking [JT1Axis],2.0
+12785,307,12.06.2021,E0021,Abnormal servo tracking [JT1Axis],2.0
+12787,307,20.06.2021,E0021,Abnormal servo tracking [JT1Axis],2.0
+12788,307,9.08.2021,E0021,Abnormal servo tracking [JT1Axis],2.0
+12789,307,24.10.2021,E0021,Abnormal servo tracking [JT1Axis],2.0
+12793,307,25.01.2022,E0021,Abnormal servo tracking [JT1Axis],2.0
+12795,307,6.02.2022,E0021,Abnormal servo tracking [JT1Axis],2.0
+12807,307,21.05.2022,E0021,Abnormal servo tracking [JT1Axis],2.0
+12808,307,31.05.2022,E0021,Abnormal servo tracking [JT1Axis],2.0
+12815,308,31.03.2021,E0021,Abnormal servo tracking [JT4Axis],2.0
+12836,308,31.05.2022,E0021,Abnormal servo tracking [JT4Axis],2.0
+13019,314,26.08.2021,E0021,Abnormal servo tracking [JT1Axis],2.0
+13032,314,8.05.2022,E0021,Abnormal servo tracking [JT1Axis],2.0
+13050,314,19.05.2022,E0021,Abnormal servo tracking [JT6Axis],2.0
+13056,314,19.06.2022,E0021,Abnormal servo tracking [JT1Axis],2.0
+13057,314,26.06.2022,E0021,Abnormal servo tracking [JT1Axis],2.0
+13194,317,26.01.2022,E0021,Abnormal servo tracking [JT1Axis],2.0
+13352,320,6.02.2022,E0021,Abnormal servo tracking [JT1Axis],2.0
+13406,320,30.05.2022,E0021,Abnormal servo tracking [JT1Axis],2.0
+14340,364,3.10.2021,E0021,Abnormal servo tracking [JT2Axis],2.0
+3179,63,31.01.2021,E1199,Brake check function is not supported by servo software ver.,2.0
+13246,319,28.04.2021,E1332,[Power sequence board]Power error signal was input from servo board1.,2.0
